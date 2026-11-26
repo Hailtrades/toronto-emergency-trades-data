@@ -1,0 +1,11 @@
+{
+  "title": "Toronto/GTA emergency plumbers and electricians: open data (Hailtrades)",
+  "upload_type": "dataset",
+  "description": "Open dataset of 7,011 residential emergency plumbers and electricians in Toronto and the Greater Toronto Area: hours, 24/7 and emergency availability, licence numbers, free-quote flags and published call-out/hourly fees. Published by Hailtrades (https://hailtrades.com). Live data: https://hailtrades.com/data. Public MCP server: https://hailtrades.com/mcp. Licence CC BY 4.0: credit Hailtrades (hailtrades.com) and link to https://hailtrades.com.",
+  "creators": [{"name": "Hailtrades (hailtrades.com)", "affiliation": "Buzz Research Inc."}],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["plumbers", "electricians", "Toronto", "emergency services", "open data", "MCP"],
+  "related_identifiers": [{"identifier": "https://hailtrades.com/data", "relation": "isSupplementTo", "scheme": "url"}],
+  "version": "2026.11.26"
+}

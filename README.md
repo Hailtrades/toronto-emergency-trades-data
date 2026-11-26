@@ -16,7 +16,8 @@ Open dataset of **7,011 residential emergency plumbers and electricians in Toron
 | `data/providers.json` | 7,011 | Full records: per-day hours, per-field sources, licences, service areas, contact channels, coordinates. |
 | `data/fees.csv` | 929 | One row per observed fee, with source URL and date. |
 | `datapackage.json` | | Frictionless Data descriptor. |
-| `CITATION.cff` | | Citation metadata. |
+| `CITATION.cff`, `.zenodo.json` | | Citation and Zenodo metadata. |
+| `distribution/` | | Dataset cards for Hugging Face, Kaggle, data.world. |
 
 Trade split: 4,881 electricians, 2,092 plumbers, 38 both. Providers with a licence number: 3,486. Flagged 24/7: 1,750. Free-quote flag: 794 rows in `providers.csv` (see Caveats). Dollar call-out fee: 25 providers in the CSV (more in `fees.csv`). All figures are as published by the providers or their sources, not independently confirmed.
 
