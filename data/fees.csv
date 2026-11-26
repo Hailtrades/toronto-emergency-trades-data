@@ -1,0 +1,930 @@
+provider_id,provider_name,trades,city,district,fee_kind,service,is_free,amount_min_cad,amount_max_cad,waived_if_hired,conditions,source,source_url,observed_at,method,mock
+prv_226tcext8d,A Gohar Electrical Contractors Ltd,electrician,Toronto,Scarborough,quote_fee,,true,,,,,website,https://goharelectric.com/index.html,2026-11-26T09:27:38Z,scrape,false
+prv_23htt9299j,LA Plumbing & Drain,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://laplumbingdrain.com/services/plumbing-services-3/,2026-11-26T05:35:37Z,scrape,false
+prv_24jt4awxuq,Quality Electric Inc.,electrician,Ajax,,quote_fee,,true,,,,,website,https://qualityelectricinc.ca/,2026-11-26T08:37:23Z,scrape,false
+prv_25qwb2u474,Done Right plumbing Services Inc.,plumber,Oakville,,quote_fee,,true,,,,,website,https://donerightplumbing.ca/services/emergency-services/,2026-11-26T06:50:04Z,scrape,false
+prv_26kdevamtn,RooterX Plumbing and Drain Inc.,plumber,Brampton,,quote_fee,,true,,,,,website,https://rooterx.ca/,2026-11-26T07:35:12Z,scrape,false
+prv_26t4u24tt7,Leak Geeks Rooter,plumber,,,quote_fee,,true,,,,,website,https://leakgeeksrooter.ca/services,2026-11-26T05:35:40Z,scrape,false
+prv_27j7k9gwih,Drains Canada,plumber,Toronto,Old Toronto,callout_fee,,false,45,45,true,"Call 647-767-0422 or book online. Tell us what's happening. $45 call-out fee, waived if you go ahead with the service. Final price quote",website,https://drainscanada.ca/,2026-11-26T04:33:14Z,scrape,false
+prv_2e359h2ex8,CM Power Systems,electrician,Burlington,,quote_fee,,true,,,,,website,https://cmpowersystems.ca/contact,2026-11-26T13:37:04Z,scrape,false
+prv_2f27qcahn4,Life With Green Lighting Ltd.,electrician,Toronto,Scarborough,quote_fee,,true,,,,,website,https://www.lifewithgreenlighting.com,2026-11-26T04:37:28Z,scrape,false
+prv_2fbqtvpu7v,Hetz Electrical Inc,electrician,Concord,,quote_fee,,true,,,,,website,https://www.hetzelectrical.com,2026-11-26T07:49:51Z,scrape,false
+prv_2j4i96jzin,Watt Works Electrical Solutions Inc.,electrician,Toronto,Scarborough,quote_fee,,true,,,,,website,https://itswattworks.ca/,2026-11-26T08:36:44Z,scrape,false
+prv_2j4i96jzin,Watt Works Electrical Solutions Inc.,electrician,Toronto,Scarborough,after_hours_callout_fee,,false,150,150,true,ote before any work begins — no surprise charges. Emergency Service Fee: $150 (waived with repair) Electrical Emergency? Don't wait — cal,website,https://itswattworks.ca/emergency.html,2026-11-26T08:36:44Z,scrape,false
+prv_2mc7s5cwc3,North Star Plumbing and Building Solutions INC,plumber,Aurora,,quote_fee,,true,,,,,website,https://northstarsolution.ca/,2026-11-26T13:17:32Z,scrape,false
+prv_2mwy4es9r6,Everready Electrical Ltd.,electrician,Oshawa,,quote_fee,,true,,,,,website,https://everreadyelectrical.ca/,2026-11-26T06:29:55Z,scrape,false
+prv_2r9ddmf855,Hive 5 Plumbing & Drains,plumber,Vaughan,,quote_fee,,true,,,,,website,https://www.hive5plumbing.ca/,2026-11-26T05:14:41Z,scrape,false
+prv_2rkxs7dnpm,CDS Plumbing,plumber,,,quote_fee,,true,,,,,website,https://www.cdsplumbing.ca/,2026-11-26T06:43:50Z,scrape,false
+prv_2s2m3k4up7,POM Plumbing Inc,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://pomplumbing.ca/,2026-11-26T04:36:09Z,scrape,false
+prv_2snnb6apdi,Penfold Electric Ltd,electrician,Ajax,,quote_fee,,true,,,,,website,https://penfoldelectric.com/service/emergency-lighting/,2026-11-26T07:25:20Z,scrape,false
+prv_2u9cakyf46,Rivergate Plumbing and Drain,plumber,Whitby,Scarborough,quote_fee,,true,,,,,website,https://rivergateplumbinganddrain.ca/,2026-11-26T05:00:33Z,scrape,false
+prv_2ue6vuqi9j,Meek Electric Ltd,electrician,Uxbridge,,quote_fee,,true,,,,,website,https://www.meekelectric.ca/contact-8,2026-11-26T09:07:52Z,scrape,false
+prv_2urpxvdup2,Mainway Electric Ltd,electrician,Burlington,,quote_fee,,true,,,,,website,https://www.mainwayelectric.com/,2026-11-26T09:08:10Z,scrape,false
+prv_2y74ez4iax,Axiom Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://axiomplumbing.ca/,2026-11-26T05:26:05Z,scrape,false
+prv_325c2afe94,Voltco Group Inc.,electrician,Toronto,East York,quote_fee,,true,,,,,website,https://voltco-group.ca/,2026-11-26T14:16:59Z,scrape,false
+prv_34j8p6uvxc,Atre Drain and Plumbing,plumber,Oakville,Etobicoke,quote_fee,,true,,,,,website,https://atreplumbing.com/emergencyplumbing/,2026-11-26T04:33:29Z,scrape,false
+prv_35f63j6gmt,Try-Umph Electric Inc,electrician,Bowmanville,,quote_fee,,true,,,,,website,https://tryumphelectric.com/contact-us,2026-11-26T09:05:05Z,scrape,false
+prv_374zeii4nx,Andrew Provolt Electric (5008870 Ontario Incorporated),electrician,Markham,,quote_fee,,true,,,,,website,https://www.andrewprovoltelectric.ca/,2026-11-26T13:16:27Z,scrape,false
+prv_37c886kmuz,Extreme Plumbing & Drain Limited,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://xtrmplumbing.com/,2026-11-26T05:17:53Z,scrape,false
+prv_38h9djzwxj,Alta Lighting & Electric Inc.,electrician,East Gwillimbury,,quote_fee,,true,,,,,website,https://www.altaelectric.com/copy-of-about,2026-11-26T13:35:03Z,scrape,false
+prv_399xpgcqs4,SIRI Electric Inc.,electrician,Bowmanville,,quote_fee,,true,,,,,website,https://www.sirielectric.ca/faqs,2026-11-26T09:25:28Z,scrape,false
+prv_39ayyc9ybd,Sturdy Electric,electrician,Pefferlaw,,quote_fee,,true,,,,,website,https://www.sturdyelectric.ca/,2026-11-26T08:55:32Z,scrape,false
+prv_3a7sjcexp3,Glen The Plumber,plumber,,,quote_fee,,true,,,,,website,https://glentheplumber.net/,2026-11-26T07:21:06Z,scrape,false
+prv_3akhkbngd6,Tungsten Electric Inc.,electrician,Richmond Hill,Scarborough,quote_fee,,true,,,,,website,https://www.tungstenelectric.ca,2026-11-26T09:17:27Z,scrape,false
+prv_3d9jy5fuje,Argon Electric Ltd,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.argonelectric.ca/,2026-11-26T13:33:18Z,scrape,false
+prv_3dei7ji2zh,Greater Toronto Electric Inc.,electrician,Milton,Old Toronto,quote_fee,,true,,,,,website,https://www.greatertorontoelectric.ca/,2026-11-26T13:34:15Z,scrape,false
+prv_3dipnekhjk,Ajs Electrical Services Inc,electrician,Ajax,,quote_fee,,true,,,,,website,https://www.ajselectrician.com/,2026-11-26T13:21:35Z,scrape,false
+prv_3e3h9hw82a,GiftedHands Plumbing inc,plumber,Oshawa,,quote_fee,,true,,,,,website,https://www.giftedhandsplumbing.com/,2026-11-26T07:55:47Z,scrape,false
+prv_3esfegiwka,ASAP Emergency Plumbing Markham,plumber,Markham,,after_hours_callout_fee,,true,,,,quote before any work begins. No overtime surcharges for evening or weekend emerge,website,https://asapemergencyplumbing.store/markham-plumbing,2026-11-26T06:13:58Z,scrape,false
+prv_3j8wzs2368,Glint Power Inc,electrician,Newmarket,,quote_fee,,true,,,,,website,https://www.glintpower.ca/contact,2026-11-26T13:36:49Z,scrape,false
+prv_3kqsvn5x27,Electrician Toronto,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://electricianintorontoelectrician.blogspot.com/,2026-11-26T19:42:25Z,scrape,false
+prv_3kqsvn5x27,Electrician Toronto,electrician,Toronto,Old Toronto,callout_fee,,false,160,160,,"7am to 6pm hourly rates for short jobs: We charge a minimum $160 service call fee, which includes sixty minutes or less of work for very",website,https://electricianintorontoelectrician.blogspot.com/,2026-11-26T19:42:25Z,scrape,false
+prv_3kqsvn5x27,Electrician Toronto,electrician,Toronto,Old Toronto,hourly_rate,,false,60,60,,ncludes sixty minutes or less of work for very short jobs + $60/hr after the first hour. You will pay exactly as much as it ta,website,https://electricianintorontoelectrician.blogspot.com/,2026-11-26T19:42:25Z,scrape,false
+prv_3kvj6ybz2n,Hudson Electric Ltd,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://hudsonelectric.ca/,2026-11-26T13:32:22Z,scrape,false
+prv_3mbufg96wt,Etobicoke Plumbing and Drain,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://etobicokeplumbinganddrain.ca/,2026-11-26T04:35:19Z,scrape,false
+prv_3rxxvcfsx3,TNR Gas & Plumbing Care,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.tnrgasplumbingcare.com/emergency-plumbing.html,2026-11-26T05:03:46Z,scrape,false
+prv_3uhf39s857,Ev-Tek Electric Inc,electrician,Mount Albert,,quote_fee,,true,,,,,website,https://ev-tekelectric.ca/,2026-11-26T15:11:19Z,scrape,false
+prv_3xatb3afjw,SB Plumbing and Contracting Inc.,plumber,,,quote_fee,,true,,,,,website,https://www.sb-plumbing.ca/contact.html,2026-11-26T06:45:48Z,scrape,false
+prv_4267y8ee8m,110 Volts Inc,electrician,Aurora,,quote_fee,,true,,,,,website,https://www.110volts.ca/,2026-11-26T08:21:45Z,scrape,false
+prv_42mymberiq,Arco Electric Inc.,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://arcoelectric.ca/contact-us,2026-11-26T19:28:49Z,scrape,false
+prv_44n7sas5gn,Eco-Power Electrical (Company Limited),electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://www.ecopowerelectric.ca/quote,2026-11-26T08:42:38Z,scrape,false
+prv_4av3tumvyt,Artane Electric Inc,electrician,Campbellville,,quote_fee,,true,,,,,website,https://www.artaneelectric.com/faq/,2026-11-26T13:33:15Z,scrape,false
+prv_4av3tumvyt,Artane Electric Inc,electrician,Campbellville,,after_hours_callout_fee,,false,150,150,,rvice for the best professional price. For trouble shooting callouts or emergency calls we charge $150 + HST which covers the first half hour of work on site. Sen,website,https://www.artaneelectric.com/faq/,2026-11-26T13:33:15Z,scrape,false
+prv_4bmmi7vxf6,GTA-Drainsolutions,plumber,Mississauga,,quote_fee,,true,,,,,website,https://gtadrainsolutions.com/,2026-11-26T13:48:18Z,scrape,false
+prv_4c5gchfy8t,Luminar Electric And General (Contracting Inc),electrician,Pickering,,quote_fee,,true,,,,,website,https://luminarelectric.ca/about-us/,2026-11-26T08:10:49Z,scrape,false
+prv_4deuc7a972,Nu Start Electric Motors Ltd,electrician,Mississauga,,quote_fee,,true,,,,,website,http://www.motorservice.ca/,2026-11-26T09:22:37Z,scrape,false
+prv_4dx2zwg4ma,Next Gen Plumbing Corp.,plumber,Toronto,,quote_fee,,true,,,,,website,https://ngplumbing.ca/contact,2026-11-26T09:12:49Z,scrape,false
+prv_4hfdqtvnhr,AJ Plumbing Services,plumber,Pickering,,after_hours_callout_fee,,true,,,,there when you need us most — no overtime charges for nights or weekends. Call,website,https://ajplumbingservices.ca/,2026-11-26T06:49:08Z,scrape,false
+prv_4hjpam77mb,A.V Electrician Of Toronto,electrician,Toronto,East York,quote_fee,,true,,,,,website,https://avelectriciangta.com/,2026-11-26T05:21:44Z,scrape,false
+prv_4hjpam77mb,A.V Electrician Of Toronto,electrician,Toronto,East York,after_hours_callout_fee,,false,250,250,,"no power? Call any time, day or night. Call 24/7 Emergency call-outs from $250 plus HST. If you see smoke or fire, call 911 first. Google",website,https://avelectriciangta.com/,2026-11-26T05:21:44Z,scrape,false
+prv_4hjpam77mb,A.V Electrician Of Toronto,electrician,Toronto,East York,after_hours_callout_fee,,false,150,150,,very job gets a free estimate first. Prices are before HST. Service call$150Includes travel and up to 1 hour Emergency call-out$250Eveni,website,https://avelectriciangta.com/,2026-11-26T05:21:44Z,scrape,false
+prv_4hjpam77mb,A.V Electrician Of Toronto,electrician,Toronto,East York,callout_fee,,false,150,150,,es are before HST. What is your minimum charge? The minimum service call is $150 plus HST. It includes travel and up to one hour of troubles,website,https://avelectriciangta.com/,2026-11-26T05:21:44Z,scrape,false
+prv_4hjpam77mb,A.V Electrician Of Toronto,electrician,Toronto,East York,after_hours_hourly_rate,,false,150,150,,xtra $250plus HST · up to $450 After-hours / weekend labour $150 per hourplus HST Burnt outlet or panel repairMajor panel repair quot,website,https://avelectriciangta.com/emergency-electrician,2026-11-26T05:21:44Z,scrape,false
+prv_4jkbb7hpmt,True Service Plumbing,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://trueserviceplumbing.ca/,2026-11-26T04:35:15Z,scrape,false
+prv_4kqwv9smif,Energo Electric Inc,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://energoelectric.ca,2026-11-26T06:33:46Z,scrape,false
+prv_4kqwv9smif,Energo Electric Inc,electrician,Toronto,Etobicoke,callout_fee,,false,195,195,,"t do you charge per hour for a service call in Etobicoke? A service call is $195 plus HST for the first hour, then $110 an hour after that.",website,https://energoelectric.ca,2026-11-26T06:33:46Z,scrape,false
+prv_4kqwv9smif,Energo Electric Inc,electrician,Toronto,Etobicoke,hourly_rate,,false,110,110,,"e? A service call is $195 plus HST for the first hour, then $110 an hour after that. The first hour covers most troubleshooting and",website,https://energoelectric.ca,2026-11-26T06:33:46Z,scrape,false
+prv_4mujetfwrp,TrustLine Plumbing,plumber,Vaughan,,quote_fee,,true,,,,,website,https://www.trustlineplumbing.ca/,2026-11-26T05:52:10Z,scrape,false
+prv_4n7v7sc2ck,Busy Boyz Plumbing Inc.,plumber,Brampton,,quote_fee,,true,,,,,website,https://busyboyzplumbing.ca/,2026-11-26T07:38:42Z,scrape,false
+prv_4nnf9agd2c,Bruce Clark & Son Plumbing & Mechanical Ltd,plumber,Whitchurch-Stouffville,Scarborough,quote_fee,,true,,,,,website,https://www.bruceclarkandson.com/,2026-11-26T07:49:49Z,scrape,false
+prv_4r7nwypt9a,AA Prime Plumbing Inc.,plumber,Mississauga,,quote_fee,,true,,,,,website,https://aaprimeplumbing.com/,2026-11-26T08:19:26Z,scrape,false
+prv_4ti2kra3yv,D S Electric Systems,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://dselectricsystemsinc.ca/,2026-11-26T05:46:34Z,scrape,false
+prv_4us9bwzuys,Pipes 'n' Drains Mechanical,plumber,,,quote_fee,,true,,,,,website,https://pipesndrains.com/,2026-11-26T06:45:47Z,scrape,false
+prv_4vvqgmkapr,Cbk Electric (2794518 Ontario Inc),electrician,Toronto,Etobicoke,hourly_rate,,false,145,145,,site No guaranteed 24-hour response Additional standard time$145 + HST per hour Billed in 30-minute increments after the included first hou,website,https://www.cbkelectric.com/electrical-service-calls/,2026-11-26T08:02:49Z,scrape,false
+prv_4vvqgmkapr,Cbk Electric (2794518 Ontario Inc),electrician,Toronto,Etobicoke,after_hours_hourly_rate,,false,195,195,,s after the included first hour. Additional after-hours time$195 + HST per hour Billed in 30-minute increments after the included first hou,website,https://www.cbkelectric.com/electrical-service-calls/,2026-11-26T08:02:49Z,scrape,false
+prv_4w8rmua7dh,Applied Electrical,electrician,East Gwillimbury,,quote_fee,,true,,,,,website,https://applied-electrical.ca/,2026-11-26T13:42:42Z,scrape,false
+prv_4wirtayb9n,Hayes Plumbing & Bathroom Renovations,plumber,Oshawa,,quote_fee,,true,,,,,website,https://hayesplumbing.ca/,2026-11-26T06:39:41Z,scrape,false
+prv_4wk8watxv9,CMD Electric Ltd,electrician,Whitby,,quote_fee,,true,,,,,website,https://www.cmdelectric.ca,2026-11-26T08:05:35Z,scrape,false
+prv_4wv6usmp7i,Ampex Electric,electrician,Toronto,York,quote_fee,,true,,,,,website,http://ampexelectric.ca/,2026-11-26T13:37:49Z,scrape,false
+prv_4y5u84vkfb,Pro Trade Electric Inc,electrician,Blackstock,,quote_fee,,true,,,,,website,https://www.protradeelectric.ca/about-us,2026-11-26T13:27:17Z,scrape,false
+prv_524929rft3,Daliran Electric,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://daliranelectric.com/,2026-11-26T07:30:35Z,scrape,false
+prv_525t5heyek,The Drain Flusher,plumber,Toronto,East York,quote_fee,,true,,,,,website,https://www.thedrainflusher.com/,2026-11-26T04:58:04Z,scrape,false
+prv_52ujtdgbp6,Top Choice Electrical (Contracting Inc.),electrician,Sharon,,quote_fee,,true,,,,,website,https://www.topchoiceelectrical.com/,2026-11-26T08:19:11Z,scrape,false
+prv_52xedh99jw,RZ Electric Ltd,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.rzelectric.ca,2026-11-26T07:43:00Z,scrape,false
+prv_547j4jqq64,Primary Power Electrical Contractors Inc (2081006 Ontario Limited),electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.primarypower.ca/,2026-11-26T13:30:00Z,scrape,false
+prv_549ajyycms,Plumber Brampton - Plumbing Solution Inc.,plumber,Brampton,,quote_fee,,true,,,,,website,https://plumbingsolution.ca/plumber-brampton/,2026-11-26T13:18:17Z,scrape,false
+prv_57wwdr2vx5,Tandem Electrical Inc,electrician,Mississauga,Etobicoke,quote_fee,,true,,,,,website,https://tandem-electrical.ca/,2026-11-26T15:21:55Z,scrape,false
+prv_5875rygaw8,Metro Plumbing,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://metroplumbingdrains.com/services/atlanta-city-emergency-plumber/,2026-11-26T04:33:24Z,scrape,false
+prv_5fgu89dzty,Levstein & Stern Plumbing Ltd,plumber,Toronto,York,callout_fee,,false,50,50,,hour minimum). $225 for each additional hour. Continuation Service Fee : $50 When a job requires a return visit after the initial servic,website,https://www.levsteinandstern.com/service-rates.php,2026-11-26T04:48:38Z,scrape,false
+prv_5g6uwmunx4,Ac Solution Electric Inc,electrician,Brampton,,quote_fee,,true,,,,,website,https://www.acsolutionelectric.ca/,2026-11-26T08:42:36Z,scrape,false
+prv_5hmmx8m6dv,Amps Electro-Mechanical Inc.,electrician,Mississauga,,quote_fee,,true,,,,,website,https://ampsolution.ca/,2026-11-26T09:17:28Z,scrape,false
+prv_5j33ixpkmy,Yali Electric Ltd,electrician,Toronto,East York,quote_fee,,true,,,,,website,https://www.yalielectric.ca/,2026-11-26T05:29:56Z,scrape,false
+prv_5jhp5cmpfp,A&A Alpha Power Corp,electrician,Holland Landing,,quote_fee,,true,,,,,website,https://asaconstructioninc.com/,2026-11-26T13:37:05Z,scrape,false
+prv_5m3jjjczmi,CM Electrical Contractors Ltd,electrician,Brampton,,quote_fee,,true,,,,,website,https://cmelectricalcontractors.ca/,2026-11-26T05:47:07Z,scrape,false
+prv_5m6runqngy,E-Care Electrical Services (7052821 Canada Ltd),electrician,Pickering,,quote_fee,,true,,,,,website,https://ecareelectrical.com/,2026-11-26T05:35:00Z,scrape,false
+prv_5m6runqngy,E-Care Electrical Services (7052821 Canada Ltd),electrician,Pickering,,after_hours_callout_fee,,true,,,,"ces 365 days a year. There is no extra charge for after hours, weekends or holiday calls. D",website,https://ecareelectrical.com/,2026-11-26T05:35:00Z,scrape,false
+prv_5nxyfhignd,SafeFlow Plumbing Services Mississauga,plumber,Mississauga,,after_hours_callout_fee,,true,,,,"Upfront, Transparent Pricing—No Emergency Surcharges Emergency Service Available A",website,https://localplumbingservicesmississauga.ca/emergency-plumbing-services/,2026-11-26T04:33:30Z,scrape,false
+prv_5rxx5q2ku5,Electric Ladies,electrician,Vaughan,,quote_fee,,true,,,,,website,https://www.electricladies.ca/,2026-11-26T13:23:02Z,scrape,false
+prv_5sti6aiqtp,Ready & Easy Electric Inc.,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://readyandeasyelectric.com/contact-an-electrician/,2026-11-26T19:39:39Z,scrape,false
+prv_5vxfnt783q,Oakville Plumbing,plumber,Oakville,,quote_fee,,true,,,,,website,https://plumberinoakville.ca/,2026-11-26T07:19:09Z,scrape,false
+prv_5wdir33vnw,Enrico's Electrical Company,electrician,Ajax,,quote_fee,,true,,,,,website,https://enricoelectric.ca/,2026-11-26T06:59:24Z,scrape,false
+prv_5wg7ruzxv8,Delaney Plumbing Ltd.,plumber,Toronto,East York,quote_fee,,true,,,,,website,https://www.delaneyplumbing.ca/copy-of-services,2026-11-26T04:59:21Z,scrape,false
+prv_5wrf86ffn5,Azan Electric Inc.,electrician,Mississauga,,quote_fee,,true,,,,,website,https://azanelectric.com/,2026-11-26T06:13:51Z,scrape,false
+prv_5wrf86ffn5,Azan Electric Inc.,electrician,Mississauga,,after_hours_callout_fee,,false,200,200,,flecting the urgent dispatch and overtime labour: Emergency service call (evenings/weekends): $200 – $350 dispatch fee Emergency service call (late night/holi,website,https://azanelectric.com/services/24-7-emergency-electrician-mississauga/,2026-11-26T06:13:51Z,scrape,false
+prv_5wrf86ffn5,Azan Electric Inc.,electrician,Mississauga,,after_hours_callout_fee,,false,350,350,,labour: Emergency service call (evenings/weekends): $200 – $350 dispatch fee Emergency service call (late night/holidays): $275 – $450 d,website,https://azanelectric.com/services/24-7-emergency-electrician-mississauga/,2026-11-26T06:13:51Z,scrape,false
+prv_5xbw2enp4z,Northlife Plumbing Service,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://northlifemechanical.ca/contact-us,2026-11-26T05:03:09Z,scrape,false
+prv_5zpzsw3x77,Faris Mechanical Inc – Emergency Plumbing Services,plumber,Toronto,,quote_fee,,true,,,,,website,https://farismechanical.ca/service-areas/,2026-11-26T06:13:47Z,scrape,false
+prv_5zragr5sai,VR Plumbing Inc,plumber,,,quote_fee,,true,,,,,website,https://vrplumbing.ca/plumber-residential-commercial-bradford-barrie/,2026-11-26T15:10:57Z,scrape,false
+prv_5zwnirrcyu,All Electrical Service,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://www.all-electrical-services.ca/,2026-11-26T07:38:17Z,scrape,false
+prv_62crbh8a2q,DunnPro Electric,electrician,,,quote_fee,,true,,,,,website,https://dunnproelectric.ca/,2026-11-26T08:27:27Z,scrape,false
+prv_62jg3pz9vt,On Time Electric Inc,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://ontime-electric.ca/,2026-11-26T05:14:03Z,scrape,false
+prv_62jg3pz9vt,On Time Electric Inc,electrician,Toronto,Old Toronto,after_hours_callout_fee,,true,,,,ED & INSURED LICENSED EXPERTS NO OVERTIME FEES UPFRONT PRICING FAST RESPONSE,website,https://ontime-electric.ca/,2026-11-26T05:14:03Z,scrape,false
+prv_6473nai6id,Master Electric Inc.,electrician,Newmarket,,quote_fee,,true,,,,,website,https://masterelectric.ca/contact-us,2026-11-26T09:18:35Z,scrape,false
+prv_65huxf47np,Sassiplumbing,plumber,Toronto,,quote_fee,,true,,,,,website,https://www.sassiplumbing.ca/,2026-11-26T08:16:11Z,scrape,false
+prv_65ipifxzct,Oakville Plumbing Pro,plumber,Mississauga,,quote_fee,,true,,,,,website,https://oakvilleplumbingpro.com/,2026-11-26T13:19:33Z,scrape,false
+prv_65ipifxzct,Oakville Plumbing Pro,plumber,Mississauga,,after_hours_callout_fee,,true,,,,"t-rate quote. No hidden fees, no overtime charges — just honest pricing, even a",website,https://oakvilleplumbingpro.com/emergency-repairs-oakville/,2026-11-26T13:19:33Z,scrape,false
+prv_678cwyr3k4,KG Flash Electrical Inc.,electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.kgflashelectrical.ca,2026-11-26T07:44:02Z,scrape,false
+prv_68mk5u7jfh,Electrobot Automation,electrician,Vaughan,,quote_fee,,true,,,,,website,https://www.electrobotautomation.com/,2026-11-26T06:14:35Z,scrape,false
+prv_6a5t48bs7u,Alpha Electric Ltd,electrician,Oakville,,quote_fee,,true,,,,,website,https://www.alphaelectricltd.ca/,2026-11-26T06:59:18Z,scrape,false
+prv_6achv4i3gu,DrainPro Plumbing & Drain Services,plumber,Mississauga,,quote_fee,,true,,,,,website,https://www.drainprogta.com/,2026-11-26T04:43:53Z,scrape,false
+prv_6ahniug5mi,Lilikam Plumbing and Drains,plumber,Vaughan,,quote_fee,,true,,,,,website,http://lilikam.ca/,2026-11-26T07:43:21Z,scrape,false
+prv_6ahniug5mi,Lilikam Plumbing and Drains,plumber,Vaughan,,callout_fee,,false,180,180,,"ions. → Scheduled Pricing Straight prices, no surprises Our $180 service call covers your diagnosis and up to one hour of labour. Materia",website,http://lilikam.ca/,2026-11-26T07:43:21Z,scrape,false
+prv_6gr2mafb6u,Anderson Contracting And (Electrical Inc),electrician,Burlington,,quote_fee,,true,,,,,website,https://anderson-ce.com/contact,2026-11-26T09:05:06Z,scrape,false
+prv_6gyi82r88h,Denpro Plumbing,plumber,Brock,,quote_fee,,true,,,,,website,https://denproplumbing.ca/,2026-11-26T13:51:32Z,scrape,false
+prv_6h8az3pmmv,Elite Electric Pros,electrician,Vaughan,,quote_fee,,true,,,,,website,https://eliteelectricpros.com/,2026-11-26T06:07:09Z,scrape,false
+prv_6j2m4eamtn,Plumber Done Well Of East York,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://east-york-plumber-toronto.lovable.app/,2026-11-26T04:50:25Z,scrape,false
+prv_6kgs723n5x,Carefree Plumbing Inc,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://carefreeplumbing.ca/,2026-11-26T05:48:22Z,scrape,false
+prv_6mizb4ndng,Bano Electrical Services (1551145 Ontario Ltd),electrician,Brampton,,quote_fee,,true,,,,,website,https://www.banoelectricalservices.com,2026-11-26T06:55:16Z,scrape,false
+prv_6nv2sdqrpr,Newmarket Pipe and Drain Repair,plumber,Newmarket,,quote_fee,,true,,,,,website,https://newmarketpipeanddrainrepair.ca/contact-us/,2026-11-26T13:16:29Z,scrape,false
+prv_6p5ihe5eqx,Engineering plumbers,plumber,Mississauga,,quote_fee,,true,,,,,website,https://www.engineeringplumbers.ca/,2026-11-26T06:14:00Z,scrape,false
+prv_6ry56ppsf6,Rehoboth Electrical Services Inc,electrician,Brampton,,quote_fee,,true,,,,,website,https://www.resinc.ca,2026-11-26T09:18:33Z,scrape,false
+prv_6un42ia57c,Municipal Electric Inc (1000048246 Ontario Inc),electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.municipalelectric.ca/,2026-11-26T14:05:46Z,scrape,false
+prv_6vah996ngn,Solid Plumbing and Gas Inc.,plumber,Newmarket,,quote_fee,,true,,,,,website,https://solidplumbingandgas.ca/contact/,2026-11-26T07:52:26Z,scrape,false
+prv_6yzdgrx3vn,Quickfix Plumbing Inc.,plumber,,,quote_fee,,true,,,,,website,https://goquickfix.ca/,2026-11-26T06:14:02Z,scrape,false
+prv_6z4ba47xe4,Protouch Electrical (2687669 Ontario Inc),electrician,Toronto,North York,quote_fee,,true,,,,,website,https://www.pro-touch.ca/,2026-11-26T05:59:13Z,scrape,false
+prv_74sdk4mk8k,Sanplumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://www.sanplumbing.org/,2026-11-26T13:47:53Z,scrape,false
+prv_75zczptjvz,30th Century Electrical Inc,electrician,Brampton,,hourly_rate,,false,100,100,,fo 2 Electrical renovations Electrical renovations start at $100 per hour plus materials. If the project exceeds $1000 a 30% down pay,website,https://30thcenturyelectri.wixsite.com/cal-inc,2026-11-26T13:41:42Z,scrape,false
+prv_78a65acus9,Forward Mechanical Plumbing and Gas,plumber,Whitby,,quote_fee,,true,,,,,website,https://forwardmechanical.ca/,2026-11-26T06:22:29Z,scrape,false
+prv_78dwjmp8ix,Master Power City Inc,electrician,Newmarket,,quote_fee,,true,,,,,website,https://masterpowercity.wixsite.com/website,2026-11-26T07:13:32Z,scrape,false
+prv_78pc2ysqat,Drain Rescue Plumbers Burlington,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://www.drainrescueplumbers.com/locations/canada/burlington-plumber/,2026-11-26T13:14:32Z,scrape,false
+prv_78pc2ysqat,Drain Rescue Plumbers Burlington,plumber,Toronto,North York,after_hours_callout_fee,,true,,,,"Plumbers Clear, Flat Pricing No Overtime Fees, Ever Book today and save $25",website,https://www.drainrescueplumbers.com/locations/canada/burlington-plumber/,2026-11-26T13:14:32Z,scrape,false
+prv_7ba2f7d7rk,Mac Canada Electric Corporation,electrician,Toronto,Scarborough,quote_fee,,true,,,,,website,https://maccanadaelectric.ca/,2026-11-26T05:26:06Z,scrape,false
+prv_7c57x6j9nu,The English Plumber & Gas Installer Inc,plumber,Oakville,,quote_fee,,true,,,,,website,https://www.theenglishplumber.ca/,2026-11-26T06:49:05Z,scrape,false
+prv_7cm6tja6nv,Vaughan Plumbing &Drains,plumber,Markham,,quote_fee,,true,,,,,website,https://vaughanplumbinganddrains.ca/,2026-11-26T08:19:17Z,scrape,false
+prv_7dvjmbjzm8,MacRory Plumbing Inc.,plumber,Burlington,,quote_fee,,true,,,,,website,https://www.macroryplumbing.com/,2026-11-26T06:40:19Z,scrape,false
+prv_7fp2py7vhh,Gart Electric Inc,electrician,Brampton,,quote_fee,,true,,,,,website,https://www.gartelectricinc.com/,2026-11-26T07:11:17Z,scrape,false
+prv_7g84ktx8nj,Drain and Plumbing Experts,plumber,Mississauga,,quote_fee,,true,,,,,website,https://drainplumbingexperts.com/,2026-11-26T07:33:54Z,scrape,false
+prv_7g84ktx8nj,Drain and Plumbing Experts,plumber,Mississauga,,after_hours_callout_fee,,true,,,,e you through your emergency. No extra charge on Emergency or late night calls. Your saf,website,https://drainplumbingexperts.com/services/emergency-and-routine-plumbing/,2026-11-26T07:33:54Z,scrape,false
+prv_7ii2k6bkw4,TJ Plumbing,plumber,Toronto,York,quote_fee,,true,,,,,website,https://www.tjplumbing.com/,2026-11-26T05:10:10Z,scrape,false
+prv_7j7v8g3ucq,Spec Electric Inc.,electrician,Richmond Hill,North York,quote_fee,,true,,,,,website,https://spec-electric.com/,2026-11-26T06:15:20Z,scrape,false
+prv_7p9iysyint,The Plumber You Deserve Of Courtice,plumber,Clarington,,after_hours_callout_fee,,true,,,,"4 hours a day, 7 days a week. No extra charge for nights or weekends. 🚿 02 Fixture Ins",website,https://theplumberyou.netlify.app/,2026-11-26T07:19:51Z,scrape,false
+prv_7pcrp3swxq,Greenwave Electrical Services,electrician,Toronto,,quote_fee,,true,,,,,website,https://greenwaveelectric.ca/contact-us,2026-11-26T06:29:56Z,scrape,false
+prv_7pcrp3swxq,Greenwave Electrical Services,electrician,Toronto,,callout_fee,,false,50,50,,"mall jobs, we offer service for $80/hr+HST, plus a one-time $50+HST service fee, as well as any material used. We bill in 15 minute increme",website,https://greenwaveelectric.ca/contact-us,2026-11-26T06:29:56Z,scrape,false
+prv_7pcrp3swxq,Greenwave Electrical Services,electrician,Toronto,,hourly_rate,,false,80,80,,"For electrical repairs or small jobs, we offer service for $80/hr+HST, plus a one-time $50+HST service fee, as well as any ma",website,https://greenwaveelectric.ca/contact-us,2026-11-26T06:29:56Z,scrape,false
+prv_7tnw64w2vp,Downtown Emergency John Plumber,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://downtownemergencyjohnplumber.online/,2026-11-26T05:08:54Z,scrape,false
+prv_7tnw64w2vp,Downtown Emergency John Plumber,plumber,Toronto,Old Toronto,after_hours_hourly_rate,,false,75,75,,"129 for emergency services, and our standard rates start at $75 per hour. As a local, family-owned business, we take pride in our co",website,https://downtownemergencyjohnplumber.online/,2026-11-26T05:08:54Z,scrape,false
+prv_7tnw64w2vp,Downtown Emergency John Plumber,plumber,Toronto,Old Toronto,diagnostic_fee,,false,199,199,,ur pricing table below: ServicePrice Emergency Service Call $199 Diagnostic Fee $99 Leak Repair $200-$500 Clogged Drain Cleaning $150-$300,website,https://downtownemergencyjohnplumber.online/services/emergency-plumbing-service,2026-11-26T05:08:54Z,scrape,false
+prv_7ut2c3jbvz,Dias & Sons Electric Inc.,electrician,Georgetown,,quote_fee,,true,,,,,website,https://www.diasandsons.ca/,2026-11-26T09:01:22Z,scrape,false
+prv_7vbdvv9ym7,JDN Plumbing,plumber,Milton,,quote_fee,,true,,,,,website,https://www.jdnplumbing.ca/,2026-11-26T06:50:05Z,scrape,false
+prv_7vg37bzhxr,RooterWorx Mississauga,plumber,Mississauga,,quote_fee,,true,,,,,website,https://www.rooterworx.ca/contact,2026-11-26T07:10:34Z,scrape,false
+prv_7vxn9j63d3,Polan Electric Ltd,electrician,Mississauga,,quote_fee,,true,,,,,website,https://polanelectric.ca/,2026-11-26T06:20:01Z,scrape,false
+prv_7wmub94em3,Maple Leaf Plumbing and Drains,plumber,Toronto,,quote_fee,,true,,,,,website,https://mapleleaf-plumbing.ca/,2026-11-26T07:46:00Z,scrape,false
+prv_7xavuvyn5x,F.I.X. Lighting Maintenance Services Ltd,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://www.fixlighting.ca,2026-11-26T13:39:46Z,scrape,false
+prv_7xdtwbenrk,LT Plumbing & Drain Services,plumber,Burlington,,quote_fee,,true,,,,,website,https://www.ltpd.ca/,2026-11-26T09:26:20Z,scrape,false
+prv_84f54uwqg7,ARC Plumbing - Toronto and GTA,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://arcplumbing.ca/,2026-11-26T04:36:49Z,scrape,false
+prv_85j2dkzetx,ED Plumbing,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://edplumbing.ca/,2026-11-26T04:59:58Z,scrape,false
+prv_85j2dkzetx,ED Plumbing,plumber,Toronto,Scarborough,callout_fee,,false,80,80,,"ect 2026 rates. The Short Version: What You’ll Actually Pay Service call / diagnostic fee: $80–$150 Standard plumbing repair (toilet, faucet, supply line)",website,https://edplumbing.ca/how-much-does-a-plumber-cost-toronto/,2026-11-26T04:59:58Z,scrape,false
+prv_85j2dkzetx,ED Plumbing,plumber,Toronto,Scarborough,after_hours_callout_fee,,true,,,,ssment is the price you pay — no after-hours surcharge layered on top. Our 24/7 serv,website,https://edplumbing.ca/how-much-does-a-plumber-cost-toronto/,2026-11-26T04:59:58Z,scrape,false
+prv_868gvut6ph,North Star Electric,electrician,Oakville,,quote_fee,,true,,,,,website,https://www.northstarelectric.ca/about-us/,2026-11-26T07:39:26Z,scrape,false
+prv_86spz9e24p,Intell Electrical Inc.,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.intellelectricalinc.com/,2026-11-26T05:59:47Z,scrape,false
+prv_8837yne69k,Spotlight Electric Ltd.,electrician,Whitby,,quote_fee,,true,,,,,website,https://spotlightelectric.ca/,2026-11-26T14:49:30Z,scrape,false
+prv_886khruwjy,Service First Electric,electrician,Oshawa,,quote_fee,,true,,,,,website,https://www.servicefirstelectric.ca,2026-11-26T07:39:36Z,scrape,false
+prv_89is9bi2s5,Plumbers On-Route,plumber,,,quote_fee,,true,,,,,website,https://plumbersonroute.ca/,2026-11-26T08:23:40Z,scrape,false
+prv_8cye6fentj,Ara Electrical Contractors & (Consultants Inc),electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://araelectrical.com/about-us/,2026-11-26T13:31:55Z,scrape,false
+prv_8f6wdj3p8e,Bull Electric (Polisano Group Ltd),electrician,Oakville,,quote_fee,,true,,,,,website,https://bullelectric.ca/,2026-11-26T07:36:31Z,scrape,false
+prv_8fa9mt5cx2,Plumberman Group INC.,plumber,King,,after_hours_callout_fee,,true,,,,e to phone and form inquiries No after-hours surcharges on weekends Written quote pro,website,https://plumberman.ca/emergency-plumbing/,2026-11-26T05:44:32Z,scrape,false
+prv_8fa9mt5cx2,Plumberman Group INC.,plumber,King,,quote_fee,,true,,,,,website,https://plumberman.ca/faq/,2026-11-26T05:44:32Z,scrape,false
+prv_8fafdkeiye,MPH Electrical,electrician,Oshawa,,quote_fee,,true,,,,,website,https://mphelectrical.ca/,2026-11-26T13:23:27Z,scrape,false
+prv_8gzd7ffxwz,Oddesey Electric Inc,electrician,Concord,,quote_fee,,true,,,,,website,https://oddeseyelectric.com/,2026-11-26T13:24:49Z,scrape,false
+prv_8ji9wfxvtk,Bam Electrical Contracting,electrician,Scugog,,quote_fee,,true,,,,,website,https://whc.ca/domain-names/auctions/bamelectric.ca,2026-11-26T13:47:21Z,scrape,false
+prv_8ma72wukez,Canadian Electrical Services,electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.canadianelectricalservices.com/,2026-11-26T06:20:02Z,scrape,false
+prv_8mpxzpwcq4,Mv Electric Inc.,electrician,Schomberg,,quote_fee,,true,,,,,website,https://www.mvelectric.ca/,2026-11-26T08:35:29Z,scrape,false
+prv_8mq6e9dz5j,Liberty Village Plumbing,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.libertyvillageplumbing.com/,2026-11-26T06:25:41Z,scrape,false
+prv_8mq6e9dz5j,Liberty Village Plumbing,plumber,Toronto,Old Toronto,callout_fee,,false,250,250,,"ooked with us before, please click here! *Note, our minimum Service Fee for the downtown core is $250.00 before tax. Toronto License #T94-4752300 WORKING HOURS Mond",website,https://www.libertyvillageplumbing.com/,2026-11-26T06:25:41Z,scrape,false
+prv_8p3ydyw2vt,Y Electrical Inc,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://y-electrical.ca/,2026-11-26T09:30:08Z,scrape,false
+prv_8rpu8j3pi2,Smarttman Drain & Plumbing,plumber,Brampton,Etobicoke,quote_fee,,true,,,,,website,https://smarttman.ca/,2026-11-26T04:54:12Z,scrape,false
+prv_8s2xtdvqfn,Durham Electrical Contractors,electrician,Oshawa,,quote_fee,,true,,,,,website,https://durham-electrical.ca/,2026-11-26T13:42:29Z,scrape,false
+prv_8snfczhyek,Quality Potlight Inc. (Whitestone Electric),electrician,Markham,,quote_fee,,true,,,,,website,https://www.qualitypotlight.ca/contact/,2026-11-26T13:18:51Z,scrape,false
+prv_8svzyyyyff,Copper Bee Electrical Inc.,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://www.copperbee.ca/,2026-11-26T08:54:14Z,scrape,false
+prv_8svzyyyyff,Copper Bee Electrical Inc.,electrician,Richmond Hill,,hourly_rate,,false,105,105,,"aker that keeps tripping — all in one visit. After 4 hours, $105/hr. Small parts under $20 are included; other parts and materi",website,https://www.copperbee.ca/contact,2026-11-26T08:54:14Z,scrape,false
+prv_8svzyyyyff,Copper Bee Electrical Inc.,electrician,Richmond Hill,,callout_fee,,false,250,250,,"ected. Call now(647) 890-4747Not urgent? Send it in writing Callout from$250 + HST, told before we drive When we answer Mon–Fri 8AM–6PM",website,https://www.copperbee.ca/services/emergency-electrician,2026-11-26T08:54:14Z,scrape,false
+prv_8svzyyyyff,Copper Bee Electrical Inc.,electrician,Richmond Hill,,after_hours_hourly_rate,,false,150,150,,250 + HST — includes the first hour Each additional hour is $150/hr. We confirm the price by phone before we dispatch. Emergenc,website,https://www.copperbee.ca/services/emergency-electrician,2026-11-26T08:54:14Z,scrape,false
+prv_8unjcrixzc,Ensure Electric (2547745 Ontario Inc),electrician,Brampton,,quote_fee,,true,,,,,website,https://ensureelectricservices.com/,2026-11-26T08:11:29Z,scrape,false
+prv_8uxitud9p6,Call the Plumbing Doctor,plumber,Oshawa,,quote_fee,,true,,,,,website,https://www.calltheplumbingdoctor.com/,2026-11-26T06:38:22Z,scrape,false
+prv_8vsqafffnx,KVA Electrical Systems Ltd,electrician,Concord,,quote_fee,,true,,,,,website,https://kvaelectric.ca/,2026-11-26T05:58:31Z,scrape,false
+prv_8w54miy63v,Mr. Rooter Plumbing of Uxbridge ON,plumber,Oshawa,Scarborough,after_hours_callout_fee,,true,,,,ess hours. Flat-Rate Pricing. No Overtime Fees. The price we quote is the pr,website,https://www.mrrooter.ca/emergency-services/,2026-11-26T04:33:25Z,scrape,false
+prv_8wu54e9y8t,Hepburn Electric,electrician,Burlington,,quote_fee,,true,,,,,website,https://www.hepburnelectric.ca/,2026-11-26T08:39:46Z,scrape,false
+prv_8ys5arb36s,Acs Electrical Services & Controls (Engineering Inc),electrician,Newmarket,,quote_fee,,true,,,,,website,https://acselectricals.ca/,2026-11-26T09:08:09Z,scrape,false
+prv_923bwxsqma,Hexagon Electrical Services,electrician,Milton,,quote_fee,,true,,,,,website,https://hexagonelectrical.ca/locations/milton/,2026-11-26T13:19:28Z,scrape,false
+prv_92kwnxyr8a,KK Plumbing,plumber,Ajax,,quote_fee,,true,,,,,website,https://www.ajaxplumbers.ca/,2026-11-26T05:45:50Z,scrape,false
+prv_935t2wvrc9,Dea Electrical,electrician,Toronto,East York,quote_fee,,true,,,,,website,https://www.deaelectrical.ca/,2026-11-26T13:33:59Z,scrape,false
+prv_93es396zg3,Ewa Electric,electrician,Whitby,,quote_fee,,true,,,,,website,https://ewaelectric.com/,2026-11-26T19:28:52Z,scrape,false
+prv_95dkzt8rpu,Woodbridge Power Electric,electrician,Vaughan,,after_hours_callout_fee,,true,,,,quote before any work begins. No after-hours surcharge. Book a Woodbridge Electricia,website,https://electricianwoodbridge.ca/,2026-11-26T06:13:51Z,scrape,false
+prv_95my49ygkc,LeakMate Plumbing inc.,plumber,,,quote_fee,,true,,,,,website,https://leakmateplumbing.ca/,2026-11-26T13:16:41Z,scrape,false
+prv_977an7mcab,GoPro Plumbing,plumber,Markham,Scarborough,quote_fee,,true,,,,,website,https://goproplumbing.ca/,2026-11-26T05:01:13Z,scrape,false
+prv_983mrcsfkn,Jac Electric Inc,electrician,Mississauga,,quote_fee,,true,,,,,website,https://jacelectricinc.ca/,2026-11-26T05:31:52Z,scrape,false
+prv_9avpu7kbac,Plumber Done Easy of Vaughan,plumber,Vaughan,,quote_fee,,true,,,,,website,https://plumber-done-easy-vaughan.lovable.app/,2026-11-26T05:17:53Z,scrape,false
+prv_9ccyjzzeye,Oakridge Plumbing Ltd.,plumber,Ajax,,quote_fee,,true,,,,,website,https://www.oakridgeplumbingontario.com/,2026-11-26T06:45:07Z,scrape,false
+prv_9cjt7b4efx,APEX Drain & Water Heaters,plumber,Bolton,,quote_fee,,true,,,,,website,https://www.apexdrainservices.com/,2026-11-26T06:14:02Z,scrape,false
+prv_9d45szc759,Ielectric Inc,plumber;electrician,Milton,,quote_fee,,true,,,,,website,https://www.ielectric.ca/services,2026-11-26T09:24:55Z,scrape,false
+prv_9daywvyc4s,Pipestay Plumbing & Mechanical Inc.,plumber,Vaughan,,quote_fee,,true,,,,,website,http://pipestayplumbing.com/,2026-11-26T14:49:46Z,scrape,false
+prv_9feztaujep,Electrobot Automation Inc.,electrician,Georgetown,,quote_fee,,true,,,,,website,https://www.electrobotautomation.com/,2026-11-26T07:04:26Z,scrape,false
+prv_9hs4n2um2i,G-One Electric Inc,electrician,Brampton,,quote_fee,,true,,,,,website,https://www.g1ev.ca/,2026-11-26T07:47:58Z,scrape,false
+prv_9j8xy44wgs,M- Arc Electric Inc.,electrician,Toronto,Scarborough,quote_fee,,true,,,,,website,https://m-arcelectric.ca/,2026-11-26T05:56:02Z,scrape,false
+prv_9jfrd926dp,Amaze Electric,electrician,Brampton,,quote_fee,,true,,,,,website,https://amazeelectric.ca/,2026-11-26T07:27:11Z,scrape,false
+prv_9jmfhjib7x,Tekno Electrik (Cable-Contractors Corporation),electrician,Maple,,quote_fee,,true,,,,,website,https://cablecc.ca/,2026-11-26T09:30:40Z,scrape,false
+prv_9p9gzx757i,Plumbing Dunn Right,plumber,Milton,,quote_fee,,true,,,,,website,https://plumbingdunnright.com/contact-plumbing-dunn-right/,2026-11-26T06:37:43Z,scrape,false
+prv_9uasfdb58h,Ultra Electrical Group Inc,electrician,King City,Scarborough,quote_fee,,true,,,,,website,https://www.uegroup.ca/electrical/,2026-11-26T13:21:18Z,scrape,false
+prv_9x2kpk5aie,Vicamp Electrical Services,electrician,Burlington,,quote_fee,,true,,,,,website,https://electrical-services.ca/,2026-11-26T08:39:47Z,scrape,false
+prv_9x894s3jwf,S.E.S. Sams Electrical Services Ltd,electrician,Toronto,North York,quote_fee,,true,,,,,website,http://seselectricals.com/service/commercial/,2026-11-26T14:17:00Z,scrape,false
+prv_9y3zmqjm54,Emergency Pro Plumbing Inc of Etobicoke,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://emergencypro.ca/,2026-11-26T04:33:20Z,scrape,false
+prv_9y7zcsnktz,FDR Plumbing,plumber,Milton,,quote_fee,,true,,,,,website,https://www.fdrplumbing.ca/,2026-11-26T07:39:26Z,scrape,false
+prv_9ykyfjedxr,Abona Electrics,electrician,Vaughan,,quote_fee,,true,,,,,website,https://www.abona.ca/,2026-11-26T08:39:16Z,scrape,false
+prv_9z8tj58dcv,Badger Plumbing,plumber,Toronto,,quote_fee,,true,,,,,website,https://badgerplumbing.ca/,2026-11-26T06:13:50Z,scrape,false
+prv_9zdcfw83y6,Richmond Hill Plumbing Group,plumber,Markham,,quote_fee,,true,,,,,website,https://rhplumbing.ca/,2026-11-26T13:50:04Z,scrape,false
+prv_9zqjuv6he9,Ryze Electric Inc,electrician,Woodbridge,,quote_fee,,true,,,,,website,https://ryze.ca/,2026-11-26T13:33:25Z,scrape,false
+prv_a3ngdrche6,Ray Plumbing – North York Plumber,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://rayplumbing.ca/,2026-11-26T05:01:53Z,scrape,false
+prv_a56vuzdggc,Marr Electric Solutions (1001275714 Ontario Limited),electrician,Whitby,,quote_fee,,true,,,,,website,https://www.marrelectrical.com/about,2026-11-26T13:21:33Z,scrape,false
+prv_a6ybuz3bq5,Park Lane Plumbing,plumber,Toronto,East York,quote_fee,,true,,,,,website,https://parklaneplumbing.ca/household-domestic-plumbing/,2026-11-26T07:52:27Z,scrape,false
+prv_a92x27b7jz,JCS Electric Contracting (16572243 Canada Inc),electrician,Pefferlaw,,quote_fee,,true,,,,,website,https://jcselectric.ca/,2026-11-26T07:09:15Z,scrape,false
+prv_a9kuecgduj,Trademark Electric Co Ltd,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://trademarkelectric.com/home-page/,2026-11-26T09:30:35Z,scrape,false
+prv_aamemepunn,GTA Rooter,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://gtarooter.ca/,2026-11-26T05:05:42Z,scrape,false
+prv_aamemepunn,GTA Rooter,plumber,Toronto,North York,after_hours_callout_fee,,true,,,,ng issues. Fast response with no extra after-hours fees. Fully Licensed & Insured Our,website,https://gtarooter.ca/,2026-11-26T05:05:42Z,scrape,false
+prv_ad6car5u6n,Evpro Electric Inc.,electrician,Thornhill,,quote_fee,,true,,,,,website,https://evpr.ca/,2026-11-26T08:19:13Z,scrape,false
+prv_adavk9qip7,Mr Electric (2165791 Ontario Ltd),electrician,Brampton,Old Toronto,quote_fee,,true,,,,,website,https://mrelectric.com/frequently-asked-questions,2026-11-26T13:21:45Z,scrape,false
+prv_adm6yggf98,Plutone Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://www.plutoneplumbing.com/services/,2026-11-26T07:44:02Z,scrape,false
+prv_aft53i7ph8,ID Plumbing Services,plumber,Vaughan,,quote_fee,,true,,,,,website,https://idplumbingservices.com/,2026-11-26T07:52:26Z,scrape,false
+prv_afudu7hp28,A A Carter Electric Ltd,electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.aacarterelectric.com/emergency-electrical-service/,2026-11-26T08:24:55Z,scrape,false
+prv_ah9qkhv8ag,AAT Electrical (8585687 Canada Ltd),electrician,Toronto,Scarborough,quote_fee,,true,,,,,website,https://aatelectrical.com,2026-11-26T09:28:16Z,scrape,false
+prv_air5ks7civ,Arvand Plumbing 110,plumber,Toronto,,quote_fee,,true,,,,,website,https://www.arvandplumbing110.com/,2026-11-26T08:13:27Z,scrape,false
+prv_ajq6wtzv5j,Braxus Plumbing,plumber,Markham,,quote_fee,,true,,,,,website,https://braxusplumbing.com/,2026-11-26T05:42:41Z,scrape,false
+prv_ak64pfi3n2,MayeDay Plumbing,plumber,Whitby,,quote_fee,,true,,,,,website,https://mayedayplumbing.ca/,2026-11-26T13:24:31Z,scrape,false
+prv_akpwr8jgj6,Chase Edward Electric Inc,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://chaseelectric.ca,2026-11-26T08:33:46Z,scrape,false
+prv_akxsen2wxb,Plumber On Dial of Stouffville,plumber,Aurora,Scarborough,after_hours_callout_fee,,true,,,,with upfront flat pricing and no overtime charges. Call (647) 557-9713 for fast,website,https://plumberondial.com/toronto,2026-11-26T05:00:34Z,scrape,false
+prv_akxsen2wxb,Plumber On Dial of Stouffville,plumber,Aurora,Scarborough,diagnostic_fee,,false,70,70,true,"atch fee for any job we complete on the same visit, and the $70 diagnostic is fully credited toward the repair. Every job gets an upfro",website,https://plumberondial.com/about,2026-11-26T05:00:34Z,scrape,false
+prv_akxsen2wxb,Plumber On Dial of Stouffville,plumber,Aurora,Scarborough,quote_fee,,true,,,,,website,https://plumberondial.com/pricing,2026-11-26T05:00:34Z,scrape,false
+prv_akxsen2wxb,Plumber On Dial of Stouffville,plumber,Aurora,Scarborough,callout_fee,,false,70,70,true,"job, you only pay the flat price you approved. There is no dispatch fee, and the $70 diagnostic is fully credited toward your repair. A licensed",website,https://plumberondial.com/pricing,2026-11-26T05:00:34Z,scrape,false
+prv_an3cgr27bn,JK Electric Motors Inc.,electrician,Mississauga,,quote_fee,,true,,,,,website,http://www.jkelectricmotors.com/,2026-11-26T08:51:25Z,scrape,false
+prv_argffy3a9r,Howe 2 Plumbing,plumber,,,quote_fee,,true,,,,,website,https://www.howe2plumbing.com/,2026-11-26T06:49:12Z,scrape,false
+prv_arxd3xf8td,NexLine Electrical LTD,electrician,Mississauga,,quote_fee,,true,,,,,website,https://nexlineltd.ca/,2026-11-26T13:39:45Z,scrape,false
+prv_aun43nwrxs,Royal Oaks Electric Inc.,electrician,Oakville,,quote_fee,,true,,,,,website,https://www.royaloakselectric.com/,2026-11-26T07:39:27Z,scrape,false
+prv_avqzrucfmw,Dorval Electric Inc,electrician,Oakville,,quote_fee,,true,,,,,website,https://dorvalelectric.ca/,2026-11-26T09:27:32Z,scrape,false
+prv_ayi2pyjjd5,MW Electric (12483793 Canada Inc.),electrician,Thornhill,,quote_fee,,true,,,,,website,https://mwelectric.ca/,2026-11-26T08:54:53Z,scrape,false
+prv_az34g9vyhy,Plumbing Ambulance Inc,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://plumbingambulance.com/,2026-11-26T04:34:54Z,scrape,false
+prv_azjrdtagxj,C M Lighting Maintenance Ltd.,electrician,Burlington,,quote_fee,,true,,,,,website,https://www.cmlighting.ca/aboutus,2026-11-26T13:29:58Z,scrape,false
+prv_b48cuv7x37,ACCL Electrical,electrician,Oshawa,,quote_fee,,true,,,,,website,http://acclelectrical.ca,2026-11-26T13:45:43Z,scrape,false
+prv_b8cf9554j8,Electrical Solutions And (Services Inc),electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://essinc.ca/,2026-11-26T09:21:56Z,scrape,false
+prv_b9d3x62zhy,SDS Electric,electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.sdselectric.ca/,2026-11-26T05:43:54Z,scrape,false
+prv_bag29aaxbh,Climax Electrical Services,electrician,Brampton,,quote_fee,,true,,,,,website,https://climaxelectrical.durable.site/,2026-11-26T07:11:13Z,scrape,false
+prv_bame3cv4ct,Steadfast Plumbing And Drain,plumber,Richmond Hill,Old Toronto,quote_fee,,true,,,,,website,https://www.steadfastplumbingdrain.com/,2026-11-26T05:54:05Z,scrape,false
+prv_bbhjmq4gnm,Actus Electric Ltd,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://actus-electric.ca/,2026-11-26T07:33:14Z,scrape,false
+prv_beh7hnyzkh,Canon Electric,electrician,Bowmanville,,quote_fee,,true,,,,,website,https://canonelectric.ca,2026-11-26T07:25:05Z,scrape,false
+prv_bf4d4hmig3,B&I Electric Inc,electrician,Milton,,quote_fee,,true,,,,,website,https://www.bielectricinc.com/contact,2026-11-26T08:39:45Z,scrape,false
+prv_bfbngys68y,MJF Plumbing Co.,plumber,,,quote_fee,,true,,,,,website,https://mjfplumbing.ca/services/,2026-11-26T07:40:44Z,scrape,false
+prv_bip4n9u2gv,Main Drain & Plumbing,plumber,Toronto,,quote_fee,,true,,,,,website,https://www.maindrainplumbing.ca/get-a-quote,2026-11-26T06:26:57Z,scrape,false
+prv_bpgjp3ndeq,Alamo Plumbing & Drain Specialists Inc,plumber,Burlington,,after_hours_callout_fee,,true,,,,"r, absolutely no hidden fees. No extra fees for weekend or night time service. We are",website,https://proplumber.ca/fast-service/,2026-11-26T08:33:47Z,scrape,false
+prv_bpz9y3u8ez,Izzard Electrical Services Limited,electrician,Oakville,,quote_fee,,true,,,,,website,https://izzardelectricalservices.ca/,2026-11-26T06:59:19Z,scrape,false
+prv_bq54rf2qvr,JMS Plumbing & Drains Inc.,plumber,Toronto,,quote_fee,,true,,,,,website,https://www.jmsplumbinganddrains.com/,2026-11-26T06:13:57Z,scrape,false
+prv_bqn5wn2i7w,Abs Electric Ltd,electrician,Brampton,,quote_fee,,true,,,,,website,https://abselectric.ca/services/basement-wiring/,2026-11-26T08:19:54Z,scrape,false
+prv_bri6k3r774,Honest Plumber,plumber,Oakville,,quote_fee,,true,,,,,website,https://honestplumberofoakville.com/,2026-11-26T06:37:07Z,scrape,false
+prv_bs5zqiii5s,Electrocan Power Services Inc,electrician,Toronto,North York,quote_fee,,true,,,,,website,http://electrocan.ca/contact-us/,2026-11-26T09:18:36Z,scrape,false
+prv_bsefc9m8dj,ASAP Scarborough Plumbing Services,plumber,Toronto,Scarborough,after_hours_callout_fee,,true,,,,onfirmed before work starts — no after-hours surcharge surprises 05 Licensed plumber,website,https://plumbingservicesscarborough.ca/,2026-11-26T05:03:10Z,scrape,false
+prv_bur3pnryew,Water Guard Plumbing,plumber,Mississauga,Etobicoke,quote_fee,,true,,,,,website,https://wwsolutions.ca,2026-11-26T13:48:12Z,scrape,false
+prv_bv4ggn7bfr,Crisico Electric Inc,electrician,Toronto,Old Toronto,hourly_rate,,,120,120,,My rate is $120/h. For emergency could be more.,outreach,,2026-11-26T21:38:11Z,outreach_text,false
+prv_bv7xqf2m2b,Carlos Electric Limited,electrician,Oshawa,,quote_fee,,true,,,,,website,http://www.carloselectric.com/,2026-11-26T09:28:19Z,scrape,false
+prv_bvhe7yy4b2,Icon Plumbing LTD.,plumber,Mississauga,,quote_fee,,true,,,,,website,https://iconplumbers.ca/,2026-11-26T06:59:06Z,scrape,false
+prv_bxbpisxrv5,Dan Gibson Plumber,plumber,Oshawa,,quote_fee,,true,,,,,website,https://dangibsonplumber.com/,2026-11-26T07:38:35Z,scrape,false
+prv_bz2wifhuz6,Hank's Electric,electrician,Burlington,,quote_fee,,true,,,,,website,https://www.hanksandson.com/,2026-11-26T07:39:00Z,scrape,false
+prv_bzcznvg2kj,JDI Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://jdiplumbing.ca/,2026-11-26T13:50:15Z,scrape,false
+prv_c2vta5miik,S.G.F Electric Corp,electrician,Newmarket,,quote_fee,,true,,,,,website,https://sgfelectric.ca/,2026-11-26T07:25:14Z,scrape,false
+prv_c59sgm9n45,Capson Electric,electrician,Burlington,,quote_fee,,true,,,,,website,https://capsonelectric.ca/,2026-11-26T13:45:47Z,scrape,false
+prv_c5c236ucbh,Nuconnect Plumbing Inc,plumber,Mississauga,,quote_fee,,true,,,,,website,https://nuconnectplumbing.ca/,2026-11-26T06:59:09Z,scrape,false
+prv_c63f7acxkk,Dr.Pipe Drain and Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://drpipe.ca/drain-line-cleaning-toronto/,2026-11-26T04:56:07Z,scrape,false
+prv_c6q2aui7f9,O PLUS PLUMBING Inc.,plumber,Richmond Hill,,quote_fee,,true,,,,,website,https://oplusplumbing.ca/,2026-11-26T08:39:36Z,scrape,false
+prv_c9xyg5cbps,valve doctors plumbing,plumber,Oakville,,quote_fee,,true,,,,,website,https://richmondhillplumbinganddrain.ca/,2026-11-26T13:21:42Z,scrape,false
+prv_carv224ku6,Tip Top Electric,electrician,Richmond Hill,,quote_fee,,true,,,,,website,http://www.tiptopelectric.com/,2026-11-26T13:23:08Z,scrape,false
+prv_cbr977cu5a,Bano Electrical Services Ltd,electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.banoelectricalservices.com/,2026-11-26T13:46:18Z,scrape,false
+prv_cck9ygtmik,Alphamega Electric Ltd,electrician,Whitby,,quote_fee,,true,,,,,website,https://alpha-mega.ca/,2026-11-26T06:59:22Z,scrape,false
+prv_cd3fakjkue,Plumber Georgina,plumber,Georgina,,quote_fee,,true,,,,,website,https://plumbergeorgina.ca/drain-cleaning-services/,2026-11-26T07:18:29Z,scrape,false
+prv_cdzdueykvd,C A B Electric Ltd,electrician,Woodbridge,,quote_fee,,true,,,,,website,https://cabelectric.ca/,2026-11-26T13:22:25Z,scrape,false
+prv_cediztphpy,Noticed On Site Electric Ltd.,electrician,Whitby,,quote_fee,,true,,,,,website,https://noticedonsite.com/contact,2026-11-26T06:59:17Z,scrape,false
+prv_cf7sxt53uy,Mele plumbing,plumber,Toronto,York,quote_fee,,true,,,,,website,https://meleplumbing.ca/,2026-11-26T05:42:40Z,scrape,false
+prv_ciy2djbdx5,West Lighting And Electrical Ltd,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://www.westelectrical.ca/,2026-11-26T06:13:39Z,scrape,false
+prv_cmaxht5y39,Annex Electric Ltd,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://www.annexelectric.ca/services-upgrades.html,2026-11-26T13:31:20Z,scrape,false
+prv_cmgcxubgnb,Drain Master Toronto Plumbers,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://drainjob.ca/,2026-11-26T04:48:39Z,scrape,false
+prv_cp758wywc8,Sitetech Electrical Inc,electrician,Woodbridge,,quote_fee,,true,,,,,website,https://www.sitetechelectrical.com/,2026-11-26T06:35:01Z,scrape,false
+prv_cqt5tg56fs,North Heights Electric Ltd,electrician,Bolton,,quote_fee,,true,,,,,website,https://northheightselectric.com/,2026-11-26T13:22:39Z,scrape,false
+prv_crvpswi462,Plumbing and Drain Today,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://plumbinganddrain.ca/,2026-11-26T13:49:09Z,scrape,false
+prv_ctpv5959w4,Trident Plumbing & Mechanical Inc.,plumber,Mississauga,,quote_fee,,true,,,,,website,https://www.tridentpmi.com/,2026-11-26T07:35:51Z,scrape,false
+prv_cu8p9cjsm2,Leccy Electric Inc,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://leccyelectric.com/,2026-11-26T14:28:05Z,scrape,false
+prv_cwtqtxihjv,R & K Power Electric,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://rkpowerelectric.com/,2026-11-26T13:29:39Z,scrape,false
+prv_d3g3qddbbf,Sparky Electrical Services,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://sparkyelectricalservices.ca/,2026-11-26T05:21:45Z,scrape,false
+prv_d43vrpuz7p,Propel Electric (1000380474 Ontario Inc.),electrician,Campbellville,,quote_fee,,true,,,,,website,https://propelelectric.ca,2026-11-26T08:49:01Z,scrape,false
+prv_d53uxznfq7,Outlaw Plumbers,plumber,Caledon,,quote_fee,,true,,,,,website,https://outlawplumbers.ca/,2026-11-26T06:59:33Z,scrape,false
+prv_d53uxznfq7,Outlaw Plumbers,plumber,Caledon,,after_hours_callout_fee,,true,,,,TA. Free estimates every day! No overtime fees. Payment by cash or e-transfe,website,https://outlawplumbers.ca/,2026-11-26T06:59:33Z,scrape,false
+prv_d6k9rt6jd4,Artex Electrical,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.artexelectric.com/,2026-11-26T13:41:39Z,scrape,false
+prv_d6v68ymmvv,MacDonald Plumbing,plumber,Oshawa,,quote_fee,,true,,,,,website,https://www.yellowpages.ca/bus/Ontario/Oshawa/MacDonald-Plumbing-Inc/101712944.html,2026-11-26T13:19:40Z,scrape,false
+prv_d84cp9rcrc,Halton Electric Co Limited,electrician,Burlington,,quote_fee,,true,,,,,website,https://www.haltonelectric.com,2026-11-26T13:30:47Z,scrape,false
+prv_d8axzm3z56,Green Electric Solutions,electrician,Aurora,,quote_fee,,true,,,,,website,https://www.greenelectrics.ca/,2026-11-26T08:14:40Z,scrape,false
+prv_d9a97t799f,J.Craig Electric Inc.,electrician,,,quote_fee,,true,,,,,website,https://jcraigelectric.com/generator-services-orillia/,2026-11-26T07:07:14Z,scrape,false
+prv_d9edkeuzvs,ProVolta Inc.,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://provolta.ca,2026-11-26T05:59:11Z,scrape,false
+prv_d9xrbw8u29,F & G Electric & Plumbing,plumber;electrician,Oakville,,quote_fee,,true,,,,,website,https://www.fgelectricplumbing.com/,2026-11-26T07:49:52Z,scrape,false
+prv_da6fsrc78y,Brightix Electric Ltd.,electrician,,,quote_fee,,true,,,,,website,https://www.brightixelectric.com/,2026-11-26T06:59:32Z,scrape,false
+prv_dagft3tw9h,Handal C Plumbing,plumber,,,quote_fee,,true,,,,,website,https://handalcplumbing.ca/contact,2026-11-26T06:22:18Z,scrape,false
+prv_dbk23yq43n,Drain Wizards Plumbing & Drain Cleaning,plumber,Halton Hills,,quote_fee,,true,,,,,website,https://drainwizards.ca/request-service/,2026-11-26T07:05:09Z,scrape,false
+prv_dbk5viwzfm,AquaLux Bolton - Plumbing & Drain Services,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://aqualuxdp.ca/bolton/,2026-11-26T08:11:28Z,scrape,false
+prv_demdzf4c5s,DrainRooter Plumbing,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.drainrooterplumbing.ca/local-emergency-plumbing-service/,2026-11-26T04:48:32Z,scrape,false
+prv_demdzf4c5s,DrainRooter Plumbing,plumber,Toronto,Etobicoke,after_hours_callout_fee,,true,,,,Choose Drain Rooter Plumbing? No Overtime Charges or Hidden Fees Rebate Assista,website,https://www.drainrooterplumbing.ca/local-emergency-plumbing-service/,2026-11-26T04:48:32Z,scrape,false
+prv_dg4uw78x4z,Hunter Electric Ltd,electrician,Vaughan,,quote_fee,,true,,,,,website,https://hunterelectric.org/,2026-11-26T19:43:00Z,scrape,false
+prv_dgejh688zt,Signature Plumbing inc,plumber,Mississauga,,quote_fee,,true,,,,,website,https://signature-plumbing.ca/,2026-11-26T08:47:45Z,scrape,false
+prv_di5ig2pwsf,Coro Electric Ltd,electrician,Woodbridge,,quote_fee,,true,,,,,website,https://www.coroelectric.ca/about,2026-11-26T09:30:59Z,scrape,false
+prv_diy93n4qu7,The Toronto Plumber CA,plumber,Brampton,Etobicoke,after_hours_callout_fee,,true,,,,"ng Upfront, Flat Rate Pricing No Overtime Charge Master Licenced and Insured P",website,https://thetorontoplumber.ca/?ref=yp,2026-11-26T06:31:12Z,scrape,false
+prv_dj4mp6x6ty,Blackwood Plumbing,plumber,Clarington,Old Toronto,quote_fee,,true,,,,,website,https://blackwoodplumbing.ca/,2026-11-26T04:52:17Z,scrape,false
+prv_djt2j6cmmz,Precise Plumbing & Drain Services,plumber,Milton,Etobicoke,quote_fee,,true,,,,,website,https://mypreciseplumbing.com/,2026-11-26T05:13:22Z,scrape,false
+prv_djt2j6cmmz,Precise Plumbing & Drain Services,plumber,Milton,Etobicoke,after_hours_callout_fee,,true,,,,our service areas. There are no overtime fees for after-hours calls — you r,website,https://mypreciseplumbing.com/,2026-11-26T05:13:22Z,scrape,false
+prv_dmqk3isuh3,King Electric Inc.,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://kingelectricinc.ca/,2026-11-26T06:56:01Z,scrape,false
+prv_dp3xyzxsqy,Mackie's Plumbing Inc,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.affordableplumbingandheat.com/service-area,2026-11-26T13:48:25Z,scrape,false
+prv_dpvns95zxv,New Line Electrical Services Ltd.,electrician,,,quote_fee,,true,,,,,website,https://newlineelectric.ca/,2026-11-26T13:47:35Z,scrape,false
+prv_dr9z5cju42,GS1 Plumbing,plumber,King,,quote_fee,,true,,,,,website,https://www.gs1plumbing.ca/,2026-11-26T07:35:51Z,scrape,false
+prv_dreqqvq4z9,Mr. Rooter Plumbing of North York ON,plumber,Toronto,North York,after_hours_callout_fee,,true,,,,ess hours. Flat-Rate Pricing. No Overtime Fees. The price we quote is the pr,website,https://www.mrrooter.ca/emergency-services/,2026-11-26T04:47:15Z,scrape,false
+prv_dt4rs4zexn,Plumbing on site,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://plumbingonsite.ca/,2026-11-26T05:08:54Z,scrape,false
+prv_dt8fjsx2em,K & P Auto & Marine Electric,electrician,Newmarket,,quote_fee,,true,,,,,website,https://www.kpautoelectric.com/,2026-11-26T07:33:53Z,scrape,false
+prv_dtqvac4gck,Spark Forward Electric Ltd,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://callsparkies.com/,2026-11-26T05:59:12Z,scrape,false
+prv_duzee3kzij,Delta Plumbers of Aurora,plumber,Aurora,York,quote_fee,,true,,,,,website,https://deltaplumbersinc.com/north-york-on/,2026-11-26T04:54:53Z,scrape,false
+prv_dv6s2jqk3u,KV Electric Enterprises Inc,electrician,Burlington,,quote_fee,,true,,,,,website,https://www.kvelectrician.com/,2026-11-26T08:33:07Z,scrape,false
+prv_dwitpv4gzj,Santos Plumbing and Drain Inc,plumber,Toronto,York,quote_fee,,true,,,,,website,https://www.santoswater.com/,2026-11-26T13:14:35Z,scrape,false
+prv_dxjan8tnww,GTA Electric (1896918 Ontario Inc),electrician,Vaughan,,quote_fee,,true,,,,,website,https://www.gtaelectric.com,2026-11-26T09:16:47Z,scrape,false
+prv_dyj8ttq3ue,Northarc Electric Inc,electrician,Markham,,quote_fee,,true,,,,,website,https://www.northarcelectric.ca/,2026-11-26T06:10:22Z,scrape,false
+prv_dyrdciqfg8,A Alert Drain Ltd.,plumber,Vaughan,,quote_fee,,true,,,,,website,https://alertdrain.ca/,2026-11-26T05:50:54Z,scrape,false
+prv_dz2eym27z6,Gen X Electric,electrician,Newmarket,,quote_fee,,true,,,,,website,https://www.genxelectric.ca/,2026-11-26T13:19:32Z,scrape,false
+prv_dzefnb22qq,Post Electric Inc.,electrician,Brampton,,quote_fee,,true,,,,,website,https://postelectric.ca/,2026-11-26T04:37:27Z,scrape,false
+prv_dzr5xerhq7,IKDA Electrical Inc,plumber;electrician,Brampton,,quote_fee,,true,,,,,website,https://ikdaelectricalsrenovations.ca/,2026-11-26T07:39:46Z,scrape,false
+prv_e48pvjp7c8,Canadian Electric Group Inc.,electrician,Georgetown,,quote_fee,,true,,,,,website,https://canadianelectricgroup.ca,2026-11-26T09:14:33Z,scrape,false
+prv_e58wgna4um,Current Source Electric Inc.,electrician,,,quote_fee,,true,,,,,website,https://currentsourceelectric.ca/,2026-11-26T06:10:19Z,scrape,false
+prv_e8xn8irrzt,leakless plumbing,plumber,Mississauga,,quote_fee,,true,,,,,website,https://www.leakless.ca/plumber-cost.html,2026-11-26T05:50:16Z,scrape,false
+prv_ea2uqq8bwx,Flow Electric Ltd,electrician,Brampton,,quote_fee,,true,,,,,website,https://flowelectricltd.ca/,2026-11-26T08:40:58Z,scrape,false
+prv_eari2bys5p,Modern Plumbing & Drain Ltd.,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://www.modernplumbing.ca/water-services,2026-11-26T09:19:29Z,scrape,false
+prv_eb9dbft9pu,Green Tech Electric Inc,electrician,Mississauga,Scarborough,quote_fee,,true,,,,,website,https://greentechelectric.ca/about-us/,2026-11-26T07:39:04Z,scrape,false
+prv_ebap7ksk5w,Oneplumb plumbing inc.,plumber,Oakville,,quote_fee,,true,,,,,website,https://www.oneplumbplumbing.ca/services,2026-11-26T06:22:12Z,scrape,false
+prv_ecqeqybwi4,20 Vision Electric Inc,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.20visionelectric.com,2026-11-26T07:53:20Z,scrape,false
+prv_ecyhkngknc,Drainx Inc.,plumber,Toronto,,quote_fee,,true,,,,,website,https://www.drainx.ca/services-5,2026-11-26T08:48:23Z,scrape,false
+prv_ed8gvsmvmu,Electric Repair & Machine Co Ltd,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.electricrepair.ca/,2026-11-26T09:11:16Z,scrape,false
+prv_ees2zdgxcg,Timeless plumbing and Drain of Markham,plumber,Markham,York,quote_fee,,true,,,,,website,https://timelessplumbinganddrain.ca/,2026-11-26T05:50:15Z,scrape,false
+prv_ehv9xeszcn,Wilmus Plumbing and Mechanical,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://www.wilmusplumbing.ca/,2026-11-26T09:25:40Z,scrape,false
+prv_eigrhbv5vu,PeakFlow Plumbing & Drains,plumber,Oakville,,quote_fee,,true,,,,,website,https://peakflowplumbing24.com/contact-peakflow-plumbing-24-plumber-near/,2026-11-26T13:16:24Z,scrape,false
+prv_eii8axabcr,Berg Electrical Contractors (896417 Ontario Inc),electrician,Thornhill,,quote_fee,,true,,,,,website,https://www.bergelectric.ca,2026-11-26T13:29:27Z,scrape,false
+prv_eizhp4id4a,Krenzel Electrical (Igor Krenzel),electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://krenzelelectrical.org/faq,2026-11-26T13:33:44Z,scrape,false
+prv_ej3ciykqrr,Elite Power Services Ltd.,electrician,Woodbridge,,quote_fee,,true,,,,,website,https://www.elitepsl.ca/services,2026-11-26T13:28:43Z,scrape,false
+prv_ejc7gs4g6i,Amps Logics Electric Ltd,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://theamps.ca/,2026-11-26T13:35:09Z,scrape,false
+prv_ejh9zqwcds,Albright Electric Co Ltd,electrician,Pickering,Old Toronto,quote_fee,,true,,,,,website,https://albrightelectric.ca/home-electric-durham-contact-us/,2026-11-26T05:24:48Z,scrape,false
+prv_ektpyskfw8,Colony Electrical Inc,electrician,Oakville,,quote_fee,,true,,,,,website,https://colonyelectrical.ca/,2026-11-26T08:21:46Z,scrape,false
+prv_eqdz4gx5dq,Humber Electrical Limited,electrician,Mississauga,,quote_fee,,true,,,,,website,https://humberelectric.ca/,2026-11-26T08:21:44Z,scrape,false
+prv_erhgpuswri,PRO-ON Plumbing Inc.,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://pro-onplumbinginc.com/,2026-11-26T04:33:23Z,scrape,false
+prv_esemrwtk7u,Toronto plumbing and Sewer,plumber,Toronto,East York,quote_fee,,true,,,,,website,https://torontoplumbingandsewer.ca/,2026-11-26T07:38:43Z,scrape,false
+prv_etsnda2459,Delex Plumbing and Drains Milton,plumber,Milton,,quote_fee,,true,,,,,website,https://delexplumbing.ca/contact/,2026-11-26T04:41:21Z,scrape,false
+prv_euxbnv7zqg,Tipro Electric Corp,electrician,Mississauga,,quote_fee,,true,,,,,website,https://tiproelectric.ca/service-areas/,2026-11-26T08:19:53Z,scrape,false
+prv_ewfusa4ufq,Tano D Plumbing Inc.,plumber,Vaughan,,quote_fee,,true,,,,,website,https://tanodplumbing.ca/,2026-11-26T06:22:18Z,scrape,false
+prv_excsnuvskt,City Plumbing Mechanical,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,http://cityplumbing.ca/,2026-11-26T13:48:28Z,scrape,false
+prv_extbwnps2j,Amp Pro Electrical Solutions Inc,electrician,,,quote_fee,,true,,,,,website,https://amppro.ca/,2026-11-26T08:21:48Z,scrape,false
+prv_f2gaq77s63,Shay Power Inc,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://www.shaypower.ca/,2026-11-26T08:04:10Z,scrape,false
+prv_f2mk5hyigj,Zoran Plumbing - Bathroom Renovations,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://zoranplumbing.ca/,2026-11-26T07:39:33Z,scrape,false
+prv_f4ng9rjkic,Intervolt Electric Ltd,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://intervoltelectric.com/,2026-11-26T08:45:51Z,scrape,false
+prv_f6vnn2xtwi,Jh Electrical Services Inc,electrician,Bolton,,quote_fee,,true,,,,,website,http://jhelectrical.ca/,2026-11-26T08:45:48Z,scrape,false
+prv_f8wyvjpcbk,The Reliable Plumbers & Drain Services of Scarborough,plumber,Toronto,,quote_fee,,true,,,,,website,https://www.canadiancardetailing.ca,2026-11-26T13:48:50Z,scrape,false
+prv_f8ysr9t2h8,Dr. Plumbing Inc.,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://drplumbing.ca/,2026-11-26T04:56:08Z,scrape,false
+prv_f8ysr9t2h8,Dr. Plumbing Inc.,plumber,Toronto,North York,after_hours_callout_fee,,true,,,,all Now 24/7 Emergency ServiceNo Overtime SurchargeLicensed & Insured45-Minute Re,website,https://drplumbing.ca/,2026-11-26T04:56:08Z,scrape,false
+prv_fc4grwahv5,KF Electrical Services (1978285 Ontario Inc.),electrician,Oshawa,,quote_fee,,true,,,,,website,https://kfelectricalservices.ca/,2026-11-26T04:36:49Z,scrape,false
+prv_fggwuq8rgm,Reliable Electric & Services Inc,electrician,Ajax,,quote_fee,,true,,,,,website,https://reliableelectricandservices.ca/contact-us/,2026-11-26T15:00:28Z,scrape,false
+prv_fhxn3c5qvi,DrainMan of Toronto,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://drainman.org/,2026-11-26T06:09:00Z,scrape,false
+prv_fhxn3c5qvi,DrainMan of Toronto,plumber,Toronto,Old Toronto,diagnostic_fee,,false,150,150,,"Request a free quote Call now888-812-4541 Free phone quotes $150 inspection fee, disclosed first Same-day when available When dispatch allo",website,https://drainman.org/,2026-11-26T06:09:00Z,scrape,false
+prv_fjj6fbksxn,New Canadian Drain and Plumbing Ltd,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://newcanadiandrain.com/,2026-11-26T06:22:34Z,scrape,false
+prv_fkqr8gq8hr,Croatian Electric,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.croatianelectrictoronto.com/contact,2026-11-26T08:12:48Z,scrape,false
+prv_fm2pt28izh,MT Drains & Plumbing LTD,plumber,Richmond Hill,Etobicoke,quote_fee,,true,,,,,website,https://mtdrain.com/,2026-11-26T05:03:14Z,scrape,false
+prv_fqmsa6vxen,Watermark Plumbing and Drains,plumber,Toronto,York,quote_fee,,true,,,,,website,https://www.watermarkplumbing.ca/,2026-11-26T06:23:44Z,scrape,false
+prv_fs9324hq96,A V Electrical North York,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://av-chandeliers.com/,2026-11-26T13:14:46Z,scrape,false
+prv_fsk4rnjqac,Plumber To Your Door of Georgetown,plumber,Richmond Hill,Scarborough,after_hours_callout_fee,,true,,,,"eady to respond quickly, with no extra charges for emergency service. We back our work wit",website,https://plumbertoyourdoor.ca/plumber-oakville/,2026-11-26T06:25:02Z,scrape,false
+prv_ft5kjnr4ad,HTO Plumbers,plumber,Toronto,York,quote_fee,,true,,,,,website,https://www.htoplumbersinc.com/contact,2026-11-26T04:51:43Z,scrape,false
+prv_fwr4jnv26a,Power Blitz Electrical Ltd,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://powerblitz.ca/,2026-11-26T06:27:19Z,scrape,false
+prv_fxe4bdaccz,Northcliffe Electric Inc,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://northcliffeelectric.ca/,2026-11-26T05:21:10Z,scrape,false
+prv_fy4vh5kq4r,Smart Plumbing & Drain Inc,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://smartplumbing-drain.ca/,2026-11-26T05:53:29Z,scrape,false
+prv_fyc3mfkrfy,SkyHeights Plumbing,plumber,Brampton,,quote_fee,,true,,,,,website,https://www.skyheightsplumbing.com/,2026-11-26T07:23:11Z,scrape,false
+prv_fyuzazzdve,GT Electrical Inc.,electrician,Whitby,,quote_fee,,true,,,,,website,https://gtelectricalinc.com/,2026-11-26T06:59:21Z,scrape,false
+prv_g32pr6xrj9,Gargano Electric Inc.,electrician,Newmarket,,quote_fee,,true,,,,,website,https://garganoelectric.ca/,2026-11-26T06:34:23Z,scrape,false
+prv_g38swekrw2,Prime Plumbing Ltd,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.primeplumbing.ca/,2026-11-26T05:49:03Z,scrape,false
+prv_g3wguvpn4x,Adamo Electric Inc.,electrician,Mississauga,,quote_fee,,true,,,,,website,https://adamoelectric.ca,2026-11-26T09:29:52Z,scrape,false
+prv_g46wv747ac,Gateway Electric Incorporated,electrician,Stouffville,North York,quote_fee,,true,,,,,website,https://www.gatewayelectric.ca,2026-11-26T09:27:28Z,scrape,false
+prv_g4mm9j3wdj,Plumber Scarborough,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://plumberscarborough.com/contact/,2026-11-26T13:50:02Z,scrape,false
+prv_g6m2b6mx8g,IronPeak Plumber Mississauga,plumber,Mississauga,,after_hours_callout_fee,,true,,,,"pipes, leaks, water heaters. No overtime fees. Call (647) 492-5147. IronPea",website,https://www.ironpeakplumbermississauga.ca/,2026-11-26T04:42:32Z,scrape,false
+prv_g869b8r6pe,Canvolt Inc,electrician,Brampton,,quote_fee,,true,,,,,website,https://www.canvoltelectric.ca/,2026-11-26T07:32:35Z,scrape,false
+prv_ga9x7am85k,Naman Electric,electrician,Brampton,,quote_fee,,true,,,,,website,https://namanelectric.ca/,2026-11-26T08:50:24Z,scrape,false
+prv_gf3vvuqxiw,A & Y Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://ayplumbing.ca/,2026-11-26T05:47:46Z,scrape,false
+prv_ggmgbgvrgd,17 Plumbing & Construction Design Ltd,plumber,Oakville,,after_hours_callout_fee,,true,,,,"Oakville? Yes, 24/7 with the same rate day or night. Response times and what to d",website,https://www.17plumbing.ca/,2026-11-26T06:29:57Z,scrape,false
+prv_gi255eayia,Om depot electrical services.,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://omdepotelectricalservice.ca/contact-us/,2026-11-26T05:28:01Z,scrape,false
+prv_giev62ywcu,Public Plumbing,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://public-plumbing.ca/,2026-11-26T13:50:49Z,scrape,false
+prv_gigae9rn2u,Electric Potential (12323010 Canada Inc),electrician,Mississauga,,quote_fee,,true,,,,,website,https://electricpotential.ca/,2026-11-26T08:50:16Z,scrape,false
+prv_gjhnj3amyj,Siaco Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://siacoinc.com/,2026-11-26T07:51:08Z,scrape,false
+prv_gk8apfk8f5,TX Electrical Ltd.,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://txelectrical.netlify.app/,2026-11-26T06:13:45Z,scrape,false
+prv_gqcdfjg8qq,Plumber Near Me,plumber,Halton Hills,,quote_fee,,true,,,,,website,https://www.plumbernearmeinc.ca/service/plumbing,2026-11-26T07:58:23Z,scrape,false
+prv_gridk89kqk,electrifyinggta,electrician,Toronto,,quote_fee,,true,,,,,website,https://electrifyinggta.ca/,2026-11-26T09:18:33Z,scrape,false
+prv_grxqmz2kuk,Charge Electric Ltd.,electrician,,,quote_fee,,true,,,,,website,https://chargeelectric.ca/,2026-11-26T08:16:00Z,scrape,false
+prv_gt6bzy8s3c,Richmond Hill Plumbing and Drain,plumber,Richmond Hill,,quote_fee,,true,,,,,website,https://richmondhillplumbinganddrain.ca/,2026-11-26T06:20:41Z,scrape,false
+prv_gvqpjqc4wr,J-Z Plumbing Services,plumber,,,quote_fee,,true,,,,,website,https://jzplumbing.ca/,2026-11-26T07:40:48Z,scrape,false
+prv_gwddsgtkka,iFix Plumbing & Drains,plumber,Richmond Hill,,callout_fee,,false,89,89,,te quote is always confirmed in writing before work begins. Service call with diagnosisfrom $89 Drain clearing (sink / tub)from $149 Main sewer line cleari,website,https://www.ifixplumbingdrains.ca/,2026-11-26T07:03:35Z,scrape,false
+prv_gwddsgtkka,iFix Plumbing & Drains,plumber,Richmond Hill,,after_hours_callout_fee,,true,,,,"the invoice. No hourly meter, no overtime surcharges, no trip-fee surprises. ✓ Loc",website,https://www.ifixplumbingdrains.ca/,2026-11-26T07:03:35Z,scrape,false
+prv_gwddsgtkka,iFix Plumbing & Drains,plumber,Richmond Hill,,quote_fee,,true,,,,,website,https://www.ifixplumbingdrains.ca/locations/plumber-toronto,2026-11-26T07:03:35Z,scrape,false
+prv_gwxc88ixt8,Amiri Plumbing,plumber,Aurora,,quote_fee,,true,,,,,website,https://amiriplumbing.ca/,2026-11-26T07:39:05Z,scrape,false
+prv_gyfrpmx4eu,Sgs Electric Inc,electrician,Brampton,,quote_fee,,true,,,,,website,https://www.sgselectrical.com/about-us/,2026-11-26T08:52:43Z,scrape,false
+prv_gyqinz4pfi,Sewer-Man Drain Service & Excavations Burlington,plumber,Burlington,Etobicoke,quote_fee,,true,,,,,website,https://www.sewermangta.ca/etobicoke/,2026-11-26T05:05:42Z,scrape,false
+prv_gzidtk7bqv,Balay Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://balayplumbing.ca/,2026-11-26T04:58:04Z,scrape,false
+prv_gzk9y2bdvy,Aurxio Electrical & Contracting Inc.,electrician,Toronto,East York,quote_fee,,true,,,,,website,https://aurxio.com/,2026-11-26T13:39:54Z,scrape,false
+prv_gztwhbqvpu,PlumbWorks Scarborough Plumbing,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://www.plumbworksgta.com/,2026-11-26T05:01:53Z,scrape,false
+prv_gzukacwc97,Ideal Electrical Services Inc.,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://idealelectrical.ca/,2026-11-26T04:52:56Z,scrape,false
+prv_h2mqp5nxiy,Rénos Plumbing Vaughan,plumber;electrician,Vaughan,,quote_fee,,true,,,,,website,https://www.renosplumbingvaughan.com/bathroom-plumbing.html,2026-11-26T06:14:00Z,scrape,false
+prv_h4tbqjzvm9,Ace Electric (1781621 Ontario Inc),electrician,Aurora,,quote_fee,,true,,,,,website,https://aceelectric-canada.com/,2026-11-26T13:30:58Z,scrape,false
+prv_h65dfwt7qx,Tova Electrical Contracting,electrician,Burlington,,quote_fee,,true,,,,,website,https://www.tovaelectric.ca/services,2026-11-26T13:30:44Z,scrape,false
+prv_h66mgeu3mw,Gcc Electric (Globalcorp Canada Inc),electrician,Oakville,,quote_fee,,true,,,,,website,https://gccelectric.com/2019/04/potlightsfaq/,2026-11-26T13:28:29Z,scrape,false
+prv_h7vhpygahe,City Rooter Plumbing and Drain Services,plumber,Mississauga,Etobicoke,quote_fee,,true,,,,,website,https://cityrooter.ca/,2026-11-26T04:46:34Z,scrape,false
+prv_h7vhpygahe,City Rooter Plumbing and Drain Services,plumber,Mississauga,Etobicoke,after_hours_callout_fee,,false,200,200,,". Emergency service is 24/7. Call (647) 534-6875. Emergency dispatch often starts around $200 plus parts. For flooding, do not wait on the form. A person",website,https://cityrooter.ca/emergency-plumbing/,2026-11-26T04:46:34Z,scrape,false
+prv_h7vqec6zsu,Denali Electrical Contractors Inc.,electrician,Burlington,,quote_fee,,true,,,,,website,https://denalielectrical.com/,2026-11-26T07:13:31Z,scrape,false
+prv_h87fhn5dd9,The Plug Electric (The Plug Service Inc.),electrician,Toronto,Old Toronto,callout_fee,,false,200,200,,200 plus hst,outreach,,2026-11-26T18:39:44Z,outreach_text,false
+prv_h8jimitxcn,TEJ Electric Ltd,electrician,Brampton,,quote_fee,,true,,,,,website,https://tejelectric.ca/,2026-11-26T14:16:49Z,scrape,false
+prv_h9hdvduu85,Power Squad Electricians,electrician,Markham,,quote_fee,,true,,,,,website,https://powersquadelectricians.ca/contact/,2026-11-26T08:41:37Z,scrape,false
+prv_h9si3z7v3a,Smart Touch Electrical Inc.,electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.smarttouchelectrical.ca,2026-11-26T13:35:41Z,scrape,false
+prv_hbjht8hsne,Brampton Electric Inc.,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://bramptonelectric.com/about-us/,2026-11-26T05:22:22Z,scrape,false
+prv_hckcj2qac8,LK Electric,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://lkelectricinc.com/,2026-11-26T05:21:09Z,scrape,false
+prv_hdcpacxhp6,Core Plumbing & Mechanical Inc.,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://coreplumbing.ca/contact/,2026-11-26T04:53:37Z,scrape,false
+prv_hds7p62j8d,DrainWorks Plumbing Oakville,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://www.drainworks.com/,2026-11-26T04:33:33Z,scrape,false
+prv_het7tapw26,Sam plumbing services,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://yellowpagescanada.wixsite.com/samplumbingservices,2026-11-26T04:58:43Z,scrape,false
+prv_hfwru8sdmw,CrownLine Plumber Burlington,plumber,Burlington,,quote_fee,,true,,,,,website,https://www.crownlineplumberburlington.ca/,2026-11-26T06:40:16Z,scrape,false
+prv_hg2iw4ayps,Dove Power Inc.,electrician,Concord,,quote_fee,,true,,,,,website,https://www.dovepower.ca/,2026-11-26T08:59:27Z,scrape,false
+prv_hh3znu2jkg,Blue Nile Plumbing Corporation,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://bluenileplumbing.com/,2026-11-26T13:14:34Z,scrape,false
+prv_hjz44kb3qv,Nextgen Electrical Services Ltd,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://www.nextgenelectric.ca/,2026-11-26T13:40:51Z,scrape,false
+prv_hkr773yg8p,Lume Electric Inc.,electrician,Whitby,,quote_fee,,true,,,,,website,https://www.lumelectric.ca/,2026-11-26T13:29:20Z,scrape,false
+prv_hktc2jdn8q,Electroactive Electrical Services Ltd,electrician,Milton,,quote_fee,,true,,,,,website,https://electroactive.ca/,2026-11-26T13:28:09Z,scrape,false
+prv_hmgcwfm8av,Canadian Rescue Plumbing & Drains,plumber,Oakville,,quote_fee,,true,,,,,website,https://rescueplumber.ca/services/89,2026-11-26T06:52:37Z,scrape,false
+prv_hmk4tikzr7,Van Horne Plumbing,plumber,Goodwood,,quote_fee,,true,,,,,website,https://www.vanhorneplumbing.com/,2026-11-26T13:51:30Z,scrape,false
+prv_hn2tbnq9bu,Ragno Electric Ltd (Ragno Electric Limited),electrician,Brampton,,hourly_rate,,false,100,100,,agno Electrics warranty and may be subject to a base fee of $100 per hour (3-hour minimum charge) + material that may be required and,website,https://ragnoelectric.com/warranty-request/,2026-11-26T15:33:12Z,scrape,false
+prv_hq4rb2ebpt,ELM Plumbing,plumber,Clarington,,quote_fee,,true,,,,,website,https://elmplumbing.ca/,2026-11-26T06:41:35Z,scrape,false
+prv_hqdh2zv48w,Mississauga Electric Inc.,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,http://mississaugaelectric.net/,2026-11-26T13:37:38Z,scrape,false
+prv_hqtxm76upr,Royal Electrical Services,electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.royalelectrical.com/,2026-11-26T13:43:23Z,scrape,false
+prv_hr8yr8vcp5,Caldwell Plumbing Oshawa,plumber,Oshawa,,quote_fee,,true,,,,,website,https://caldwellplumbing.ca/,2026-11-26T05:12:07Z,scrape,false
+prv_hsjr9djuda,Akad Electric (11883356 Canada Inc.),electrician,Toronto,North York,quote_fee,,true,,,,,website,https://www.akadelectric.com,2026-11-26T13:28:44Z,scrape,false
+prv_hsmh9f33pq,Murtex Electric Inc,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.murtexelectric.ca/service,2026-11-26T05:20:26Z,scrape,false
+prv_ht248nf3p6,Water Guard Plumbing,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://waterguardplumbing.com/,2026-11-26T04:48:31Z,scrape,false
+prv_htkhwaqby7,Mighty Flow Plumbing,plumber,Burlington,,quote_fee,,true,,,,,website,https://mightyflowplumbing.ca/,2026-11-26T09:24:48Z,scrape,false
+prv_htpchvvfe4,Green Cables Tech Electric,electrician,Newmarket,,quote_fee,,true,,,,,website,https://greencables.ca/,2026-11-26T08:38:38Z,scrape,false
+prv_hy3tatsgah,10 plus plumbing,plumber,Vaughan,,quote_fee,,true,,,,,website,https://10plusplumbing.com/,2026-11-26T13:24:41Z,scrape,false
+prv_hzbkdmcwss,Licensed Electricians of Milton,electrician,Milton,,quote_fee,,true,,,,,website,https://licensedelectriciansmilton.site/,2026-11-26T07:11:16Z,scrape,false
+prv_i32pb5dshy,AMPS Logics Electric,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://theamps.ca/,2026-11-26T07:40:41Z,scrape,false
+prv_i3v932i4bb,George Moore Electric Bowmanville (Ltd),electrician,Bowmanville,,quote_fee,,true,,,,,website,https://mooreelectric.ca/,2026-11-26T08:50:21Z,scrape,false
+prv_i4x3uw2jmp,Rosedale plumbing,plumber,Pickering,Scarborough,quote_fee,,true,,,,,website,https://www.rosedaleplumbing.ca/boiler-service/,2026-11-26T13:16:26Z,scrape,false
+prv_i4z2upvryr,Bedrock Electrical,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://bedrockelectrical.com/contact-us/,2026-11-26T13:26:16Z,scrape,false
+prv_i6q228wu7k,Yyz Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://www.yyzplumbing.com/,2026-11-26T07:40:44Z,scrape,false
+prv_i8e5r49xww,Jng Electric,electrician,Bowmanville,,quote_fee,,true,,,,,website,https://www.jngelectric.ca/,2026-11-26T08:19:11Z,scrape,false
+prv_icmbjdz76j,Gibraltar Electric Inc,electrician,Beaverton,East York,quote_fee,,true,,,,,website,https://yourelectricalguy.com/,2026-11-26T08:39:45Z,scrape,false
+prv_icqrcc5wmm,Plumbersrus Inc.,plumber,Toronto,,quote_fee,,true,,,,,website,https://plumbersrusinc.ca/,2026-11-26T09:23:51Z,scrape,false
+prv_icvw4pb54d,Eden Electrical Services,electrician,Oshawa,,quote_fee,,true,,,,,website,https://edenelectrical.ca/,2026-11-26T09:30:34Z,scrape,false
+prv_ie9r8jrncf,Mb Electrical Group Inc,electrician,Courtice,,quote_fee,,true,,,,,website,https://mbelectricalgroup.ca/,2026-11-26T06:59:22Z,scrape,false
+prv_ie9r8jrncf,Mb Electrical Group Inc,electrician,Courtice,,callout_fee,,false,189,189,true,ms listed above. Annual 10-Point Safety Audit included. Add Service Call & Diagnostic: $189 (Waived for MB Shield Members). Book Now Benefits Discover,website,https://mbelectricalgroup.ca/services/flat-rate-pricing,2026-11-26T06:59:22Z,scrape,false
+prv_ie9ywi9wjn,Oshawa Plumbing and Sewer,plumber,Oshawa,,quote_fee,,true,,,,,website,https://oshawaplumbingandsewer.ca/,2026-11-26T06:42:29Z,scrape,false
+prv_iehfakzurp,Park Lane Plumbing Ltd,plumber,,,quote_fee,,true,,,,,website,https://parklaneplumbing.ca/household-domestic-plumbing/,2026-11-26T13:48:16Z,scrape,false
+prv_iftdd6m9zu,Westcott Plumbing,plumber,,,quote_fee,,true,,,,,website,https://www.westcottplumbing.com/,2026-11-26T08:14:04Z,scrape,false
+prv_ihnmheypp6,Durham Plumbers,plumber,,,quote_fee,,true,,,,,website,https://www.durhamplumbers.ca/,2026-11-26T06:22:12Z,scrape,false
+prv_iiaxzag75v,Plumber Done Best Of North York,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://plumberdonebestnorthyork.lovable.app/,2026-11-26T04:57:25Z,scrape,false
+prv_ijegnt7fez,Royal Emergency Plumbing,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://royalemergencyplumbing.com/,2026-11-26T04:33:29Z,scrape,false
+prv_ijnau5t2tg,Powersource Electric Inc,electrician,Oshawa,,quote_fee,,true,,,,,website,https://powersourceelectric.ca/,2026-11-26T13:15:48Z,scrape,false
+prv_ijttrg9den,UMark Plumbing and Drain Inc,plumber,Toronto,,quote_fee,,true,,,,,website,https://umarkplumbing.com/,2026-11-26T13:23:54Z,scrape,false
+prv_in7zxnq7qp,Kilowatt Electric,electrician,Maple,,quote_fee,,true,,,,,website,https://www.kilowattelectric.ca,2026-11-26T13:27:39Z,scrape,false
+prv_iqp9qewztm,AD DC Electrical Tech Inc,electrician,Markham,,quote_fee,,true,,,,,website,https://acdcelectricaltech.ca/,2026-11-26T08:31:20Z,scrape,false
+prv_ir9krc26ks,Plumbers Direct,plumber,Toronto,Old Toronto,after_hours_callout_fee,,true,,,,"unday -- They showed up, with no after hours surcharge and fix my plumbing perfectly",website,https://plumbersdirect.ca/,2026-11-26T04:36:09Z,scrape,false
+prv_irvnesdp2w,Pica Electrical Contractors Ltd,electrician,Uxbridge,,quote_fee,,true,,,,,website,https://picaelectrical.com,2026-11-26T13:28:30Z,scrape,false
+prv_irymis5iet,Cap Plumbing & Drains,plumber,Burlington,,quote_fee,,true,,,,,website,https://www.capplumbing.ca/contact,2026-11-26T06:57:30Z,scrape,false
+prv_istpdqxwab,Oaktown Electric Inc,electrician,Mississauga,,quote_fee,,true,,,,,website,https://oaktownelectric.com/contact-us,2026-11-26T06:29:18Z,scrape,false
+prv_isxqy88bfi,Magic Electrical And Security (Services Inc),electrician,Toronto,North York,quote_fee,,true,,,,,website,https://www.magicelectrical.ca,2026-11-26T13:28:07Z,scrape,false
+prv_iuz9cnxj3n,Willxon Electric Inc,electrician,Burlington,,quote_fee,,true,,,,,website,https://www.willxon.com,2026-11-26T08:53:35Z,scrape,false
+prv_ivu683aedj,MDK Electric (MDK Electric Limited),electrician,Ajax,,quote_fee,,true,,,,,website,https://www.mdkelectric.ca/,2026-11-26T09:21:56Z,scrape,false
+prv_iwypdvjcqn,Plumb Inc,plumber,Toronto,East York,quote_fee,,true,,,,,website,https://plumbinc.com/services/,2026-11-26T14:05:45Z,scrape,false
+prv_iz6ddqn8ae,Aurora Plumbing,plumber,Aurora,,quote_fee,,true,,,,,website,https://plumbinginaurora.com/,2026-11-26T06:59:10Z,scrape,false
+prv_j3i9awp8y2,Epic Electric Service Inc.,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://epicelectricservice.ca/,2026-11-26T05:03:45Z,scrape,false
+prv_j3i9awp8y2,Epic Electric Service Inc.,electrician,Toronto,North York,callout_fee,,false,50,50,,"EV Charger Installation And many more... VIEW ALL SERVICES Service calls from $50 Commercial Services Commercial building, office space, stor",website,https://epicelectricservice.ca/,2026-11-26T05:03:45Z,scrape,false
+prv_j3i9awp8y2,Epic Electric Service Inc.,electrician,Toronto,North York,callout_fee,,false,75,75,,kspace Lighting Solutions and many more.. VIEW ALL SERVICES Service calls from $75 Frequently Asked Questions Welcome to our FAQ section! Here,website,https://epicelectricservice.ca/,2026-11-26T05:03:45Z,scrape,false
+prv_j3i9awp8y2,Epic Electric Service Inc.,electrician,Toronto,North York,after_hours_callout_fee,,false,99,99,,"an emergency call costs in Toronto. Our flat-rate emergency dispatch starts from $99 — disclosed before we leave the depot. No hidden fees, no m",website,https://epicelectricservice.ca/services/emergency-electrician-toronto/,2026-11-26T05:03:45Z,scrape,false
+prv_j45sy5udz8,Jmc Electric Ltd,electrician,Brampton,,quote_fee,,true,,,,,website,https://www.jmcelectric.ca,2026-11-26T06:27:19Z,scrape,false
+prv_j5tuhj64ep,PR Plumbing,plumber,Oshawa,,after_hours_callout_fee,,false,79,79,true,"nient appointment times, with 24/7 emergency service  Just $79+hst dispatch to inspect the problem, applied toward the repair if you mov",website,https://prplumbing.ca/,2026-11-26T05:14:01Z,scrape,false
+prv_j5tuhj64ep,PR Plumbing,plumber,Oshawa,,after_hours_callout_fee,,true,,,,work with on a regular basis. No overtime charges are standard for VIP clients,website,https://prplumbing.ca/,2026-11-26T05:14:01Z,scrape,false
+prv_j75kk8b5bn,Electricdr Inc,electrician,King,,quote_fee,,true,,,,,website,https://electricdr.ca,2026-11-26T05:49:40Z,scrape,false
+prv_j76gyqfp72,Aviv Plumbing,plumber,Vaughan,,quote_fee,,true,,,,,website,https://avivplumbing.ca/,2026-11-26T05:12:06Z,scrape,false
+prv_j85ffhtxnv,Beepower Electric Inc,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://beepowerelectric.ca/,2026-11-26T14:16:40Z,scrape,false
+prv_j9trti3x5q,Power Pal Electric,electrician,,,quote_fee,,true,,,,,website,https://powerpalelectric.com/,2026-11-26T06:59:36Z,scrape,false
+prv_ja743dbv73,Weber Electric Inc.,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://www.weberelectric.ca/,2026-11-26T05:23:39Z,scrape,false
+prv_jadpggytcf,Waite Professional Plumbing & Drain Services,plumber,,,quote_fee,,true,,,,,website,https://professionalplumbing.ca/,2026-11-26T13:17:47Z,scrape,false
+prv_jbj8physni,AAA Plumbing Inc.,plumber,Toronto,North York,quote_fee,,true,,,,,website,http://aaaplumbinginc.ca/,2026-11-26T04:58:43Z,scrape,false
+prv_jc3z9mmkxx,Bos plumbing and drains Inc,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://bosplumbing.ca/plumbers-in-toronto/,2026-11-26T04:50:24Z,scrape,false
+prv_jj4im6utje,JC Electrical and Automation Company (2427147 Ontario Ltd.),electrician,Markham,,quote_fee,,true,,,,,website,https://jcea.ca/,2026-11-26T13:35:48Z,scrape,false
+prv_jjgrpbprfx,Cas Electric Inc,electrician,Brampton,,quote_fee,,true,,,,,website,https://caselectric.ca/,2026-11-26T09:14:32Z,scrape,false
+prv_jkweh2hfi8,Prometey Electric Inc.,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://prometeyelectric.ca/about-us/,2026-11-26T13:21:20Z,scrape,false
+prv_jmeu8s7ehw,24/7 Emergency Plumber,plumber,Toronto,Scarborough,callout_fee,,false,200,200,,"550 Ac $200 $300 $400 Gas $200 $300 $450 Handyman $100 $150 $200 Call-Out Fee A fixed call-out fee, determined by location, is applied wh",website,https://247-emergencyplumber.com/rate-guide/,2026-11-26T05:40:47Z,scrape,false
+prv_jnhrwufbhs,Electro Group Ltd.,electrician,,,quote_fee,,true,,,,,website,https://electrogroup.ca/,2026-11-26T06:07:10Z,scrape,false
+prv_jp99w9n5ef,Greenway Plumbing Services,plumber,Mississauga,,quote_fee,,true,,,,,website,https://greenwayplumbing.ca/,2026-11-26T05:12:08Z,scrape,false
+prv_jq8cut74h3,Newmarket Plumbing,plumber,Newmarket,,quote_fee,,true,,,,,website,https://plumbingnewmarket.com/,2026-11-26T07:20:29Z,scrape,false
+prv_jqffgk24ev,Ace Plumbing Services - Toronto Plumber,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.aceplumbingservices.ca/blank-2,2026-11-26T07:55:48Z,scrape,false
+prv_jrgthrfvvg,Aura Electric,electrician,Caledon,,quote_fee,,true,,,,,website,https://www.auraelectric.ca/contact,2026-11-26T09:23:15Z,scrape,false
+prv_jtrm8qrgpf,Rescue Drain & Plumbing Services,plumber,Milton,,quote_fee,,true,,,,,website,https://rescuedrains.com/,2026-11-26T13:48:42Z,scrape,false
+prv_juxw3bama3,Feldt Electric Inc,electrician,Markham,,quote_fee,,true,,,,,website,https://feldtelectric.com/,2026-11-26T09:30:58Z,scrape,false
+prv_jwzbxzje95,Galaxy Plumbing Inc.,plumber,Mississauga,Etobicoke,quote_fee,,true,,,,,website,https://www.galaxyplumbinginc.ca/,2026-11-26T06:18:32Z,scrape,false
+prv_jyd2cunikh,Burlington Electrical Solutions - Electrical Contractor,electrician,Burlington,,quote_fee,,true,,,,,website,https://burlingtonelectricalsolutions.ca/,2026-11-26T06:59:16Z,scrape,false
+prv_jyepc6kdjv,Budget Electrical Inc.,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://budgetelectrical.ca/services/emergency-electrician/,2026-11-26T15:11:28Z,scrape,false
+prv_jyvv9gif2i,Artisan Plumbing,plumber,,,quote_fee,,true,,,,,website,https://artisancei.com/,2026-11-26T13:19:35Z,scrape,false
+prv_jze99zc35i,LTD Plumbing & Mechanical,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://ltdplumbing.ca/,2026-11-26T07:55:11Z,scrape,false
+prv_jzt352h5v8,Famel Plumbing,plumber,Oakville,,quote_fee,,true,,,,,website,http://www.famelplumbing.ca/,2026-11-26T06:50:44Z,scrape,false
+prv_k6jgpaqpsp,Milton Plumber Done On Time,plumber,Milton,,quote_fee,,true,,,,,website,https://milton-plumberdoneontime.lovable.app/,2026-11-26T06:41:35Z,scrape,false
+prv_k6nq3bwprf,JDI Plumbing Ltd.,plumber,Toronto,York,quote_fee,,true,,,,,website,https://jdiplumbing.ca/,2026-11-26T08:45:08Z,scrape,false
+prv_k773unr67a,Integrity Electricians,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://integrityelectricians.ca/,2026-11-26T13:39:53Z,scrape,false
+prv_k8f6p2uudg,Mountain Grove Plumbing & Drains,plumber,Burlington,,quote_fee,,true,,,,,website,https://mountaingroveplumbing.com/,2026-11-26T06:40:56Z,scrape,false
+prv_k9i335df3e,BLP Electric (Better Living Properties Inc),electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.blpelectric.com,2026-11-26T09:21:24Z,scrape,false
+prv_k9wdcpm7zq,Ethereal Electric Inc,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://etherealelectric.com/contact,2026-11-26T05:37:34Z,scrape,false
+prv_kbymtybwbj,Delta B Electric Inc,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://deltabelectric.com/request-a-quote/,2026-11-26T08:39:48Z,scrape,false
+prv_kcaquui9xh,Tru-View Plumbing & Drain Service,plumber,Milton,,quote_fee,,true,,,,,website,https://www.tru-view.ca/services/plumbing/,2026-11-26T06:40:57Z,scrape,false
+prv_kgeibs85vi,R & H Electric,electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.rhelectrical.ca/,2026-11-26T13:17:15Z,scrape,false
+prv_khuw9kqqwb,GNP Electrical,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://gnpelectrical.com/,2026-11-26T09:07:38Z,scrape,false
+prv_khy9sywmjy,Main Stream GTA Plumbing,plumber,Mississauga,,quote_fee,,true,,,,,website,https://mainstreamgta.com/,2026-11-26T05:50:56Z,scrape,false
+prv_khy9sywmjy,Main Stream GTA Plumbing,plumber,Mississauga,,after_hours_callout_fee,,true,,,,"50. We're available 24/7 with no after-hour fees, delivering swift and reliabl",website,https://mainstreamgta.com/,2026-11-26T05:50:56Z,scrape,false
+prv_kp4dduh3g2,One Call Plumbers,plumber,Ajax,Scarborough,quote_fee,,true,,,,,website,https://onecallplumbers.ca/plumbing/,2026-11-26T04:56:47Z,scrape,false
+prv_kr62z7i7m9,New Season Electrical (1001348131 Ontario Ltd.),electrician,Toronto,North York,quote_fee,,true,,,,,website,https://www.newseasonelectrical.ca/,2026-11-26T13:17:12Z,scrape,false
+prv_kr7wvjqh3v,Licensed Electricians of Oakville,electrician,Oakville,,quote_fee,,true,,,,,website,https://licensedelectriciansoakville.site/,2026-11-26T07:11:15Z,scrape,false
+prv_krnaujuf44,Chuco Electric Inc.,electrician,Burlington,,quote_fee,,true,,,,,website,https://www.chucoelectric.ca/,2026-11-26T08:54:14Z,scrape,false
+prv_ktnu3mx6pf,Saba Plumbing,plumber,Toronto,,quote_fee,,true,,,,,website,https://sabaplumbing.ca/commercial-services,2026-11-26T06:22:13Z,scrape,false
+prv_kuwe7b2ant,Empire Power inc,electrician,Vaughan,,quote_fee,,true,,,,,website,https://empirepowerinc.com/,2026-11-26T06:14:34Z,scrape,false
+prv_kw2bzwxe62,Sewer Squad Plumbing Co. Inc.,plumber,Ajax,,after_hours_callout_fee,,true,,,,AD The sewer squad difference No After Hours Fees Plumbing doesn’t punch a cloc,website,https://www.sewersquad.ca/about-us,2026-11-26T05:11:29Z,scrape,false
+prv_kw3f3nmbap,Near me electrician,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://www.nearmeelectrician.ca/,2026-11-26T07:47:57Z,scrape,false
+prv_kw3f3nmbap,Near me electrician,electrician,Richmond Hill,,callout_fee,,false,49,49,,listed amount and may change based on the job complexity. A $49 travel fee will be added for local areas. Basic Power Outlet Install $,website,https://www.nearmeelectrician.ca/services,2026-11-26T07:47:57Z,scrape,false
+prv_kw5m7edf64,Eclipse Electrical Services Ltd,electrician,Mississauga,Etobicoke,quote_fee,,true,,,,,website,https://eclipse-electrical.ca/,2026-11-26T07:38:30Z,scrape,false
+prv_kzkccbgvsu,Best Price Plumbing Inc.,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://bestpriceplumbing.ca/,2026-11-26T04:48:37Z,scrape,false
+prv_m325rzhjh9,Kv Bear Electrical Inc,electrician,Oshawa,,quote_fee,,true,,,,,website,https://kvbearelectrical.ca/,2026-11-26T07:38:45Z,scrape,false
+prv_m4e56gvqx5,Cablify Network cabling and Electrical services,electrician,Oakville,,quote_fee,,true,,,,,website,https://www.cablify.ca/,2026-11-26T13:44:11Z,scrape,false
+prv_m4igywnxne,Homelectric Inc.,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://www.homelectric.ca/services-5,2026-11-26T04:38:08Z,scrape,false
+prv_m4skveu25q,ElectricAllFix,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://electricallfix.ca/,2026-11-26T07:31:55Z,scrape,false
+prv_m549cmvdwi,Ideal Plumbing and Drain,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://idealplumbingdrain.com/,2026-11-26T06:34:24Z,scrape,false
+prv_m6ghii4xy7,Just Pro Plumbing Inc,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://justproplumbing.com/,2026-11-26T05:49:02Z,scrape,false
+prv_m72v9epkrn,Electriczone (Electriczone Inc.),electrician,Ajax,,hourly_rate,,false,100,100,,lts First hour (diagnosis included)$150 Each additional hour$100 / hr ESA defect correctionsFixed quote Included: on-site diagnos,website,https://electriczone.ca/,2026-11-26T13:21:22Z,scrape,false
+prv_m8aszfsp58,Roselyn Electric Inc.,electrician,Caledon Village,,quote_fee,,true,,,,,website,https://roselynelectric.com/,2026-11-26T13:21:20Z,scrape,false
+prv_m8hu6y5mpg,Teravolt Inc. (Teravolt),electrician,Mississauga,Etobicoke,quote_fee,,true,,,,,website,https://www.teravolt.ca/,2026-11-26T06:49:16Z,scrape,false
+prv_m8rn3t59ns,Canada Electrical Services Inc,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.ces89.com/contact-us/,2026-11-26T09:29:02Z,scrape,false
+prv_mb4mhusyq5,Abm Electrical Contractors Ltd,electrician,Stouffville,,quote_fee,,true,,,,,website,https://abmelectric.ca/services/,2026-11-26T13:31:24Z,scrape,false
+prv_mbaw6dtw2g,Starlight Electrical Solutions Ltd.,electrician,Toronto,Scarborough,after_hours_callout_fee,,true,,,,We work around your schedule. No additional charge for weekend and after hour service. Conta,website,https://www.starlightelectricalsolutions.com/,2026-11-26T08:59:27Z,scrape,false
+prv_mbaw6dtw2g,Starlight Electrical Solutions Ltd.,electrician,Toronto,Scarborough,quote_fee,,true,,,,,website,https://www.starlightelectricalsolutions.com/blank-1,2026-11-26T08:59:27Z,scrape,false
+prv_mbfxwgzveu,CDN Plumbing,plumber,Oshawa,,quote_fee,,true,,,,,website,https://cdnplumbing.ca/about-us/,2026-11-26T13:21:34Z,scrape,false
+prv_mbj4hx75f9,TSM Electrical Services Inc,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.tsmelectrical.ca/,2026-11-26T13:22:32Z,scrape,false
+prv_mdpekkaw6d,B & R Electric,electrician,Mississauga,,quote_fee,,true,,,,,website,https://brelectric.ca/,2026-11-26T07:43:21Z,scrape,false
+prv_methfrtk9x,Sol Electric Pro Inc.,electrician,Pickering,,quote_fee,,true,,,,,website,https://sol-electric.ca/,2026-11-26T05:40:06Z,scrape,false
+prv_mhek6mrgei,Aquarescue - Plumbing & Drain Cleaning Markham,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://aquarescue.ca/,2026-11-26T04:35:17Z,scrape,false
+prv_mhh9e73c73,Insight Plumbing Inc.,plumber,Newmarket,,quote_fee,,true,,,,,website,https://insightplumbing.ca/,2026-11-26T08:48:23Z,scrape,false
+prv_mhh9q5rmf6,Safe Electrical Solutions (Easy Way Home Service Inc),electrician,Toronto,Old Toronto,after_hours_callout_fee,,true,,,,gencies around the clock with no after-hours premium. Emergency Services We Provid,website,https://www.safeelectricalsolutions.ca/emergency.html,2026-11-26T05:19:49Z,scrape,false
+prv_mj7jrs3eek,Sauna Electrician - Installation & Repair,electrician,,,quote_fee,,true,,,,,website,https://saunaelectrician.ca/,2026-11-26T13:19:32Z,scrape,false
+prv_mjvqcwjxr6,Hybrid Plumbing And Drain,plumber,Toronto,,callout_fee,,false,89,89,,eckup Full pump test Pit clean-out Battery backup check The $89 service call is included. Get My Callback Offer 2 $150 OFF Sump Pump Ins,website,https://www.hybridplumbingndrain.com/quote,2026-11-26T07:35:52Z,scrape,false
+prv_mjvqcwjxr6,Hybrid Plumbing And Drain,plumber,Toronto,,after_hours_callout_fee,,false,89,89,,day or night. Need Plumbing Services in the GTA? Book your $89 service call today — a professional on-site diagnosis and assessment for,website,https://www.hybridplumbingndrain.com/services,2026-11-26T07:35:52Z,scrape,false
+prv_mkby6i3xh6,1uan The Plumber,plumber,Toronto,,quote_fee,,true,,,,,website,https://juanrenan003.wixsite.com/rjk-plumbing-inc,2026-11-26T09:19:31Z,scrape,false
+prv_mkgv4cwemz,Alchemy Plumbing,plumber,Toronto,,quote_fee,,true,,,,,website,https://alchemyplumbing.ca/,2026-11-26T07:23:09Z,scrape,false
+prv_mkswzd98ui,Align Plumbing Inc.,plumber,Toronto,,quote_fee,,true,,,,,website,https://alignplumbinginc.ca/,2026-11-26T05:46:30Z,scrape,false
+prv_mkswzd98ui,Align Plumbing Inc.,plumber,Toronto,,callout_fee,,false,195,195,,"pairs Leaks, faucets, toilets, pipes & diagnostics Standard service call$195 Each additional hour$95/hr Machine/equipment usage+$50 Regu",website,https://alignplumbinginc.ca/,2026-11-26T05:46:30Z,scrape,false
+prv_mkswzd98ui,Align Plumbing Inc.,plumber,Toronto,,after_hours_callout_fee,,false,295,295,,"$195–$395 After Hours Total$295–$495 *After-hours emergency service starts at $295 24/7 Emergency Plumbing Burst pipes, flooding, sewage backu",website,https://alignplumbinginc.ca/,2026-11-26T05:46:30Z,scrape,false
+prv_mkswzd98ui,Align Plumbing Inc.,plumber,Toronto,,hourly_rate,,false,95,95,,& diagnostics Standard service call$195 Each additional hour$95/hr Machine/equipment usage+$50 Regular Hours Total$195–$395 Af,website,https://alignplumbinginc.ca/,2026-11-26T05:46:30Z,scrape,false
+prv_mkswzd98ui,Align Plumbing Inc.,plumber,Toronto,,after_hours_callout_fee,,false,195,195,,commendations provided Emergency Plumbing Pricing Emergency service call (business hours)$195 Emergency service call (after hours)$295 Burst pipe repair$,website,https://alignplumbinginc.ca/services/emergency-plumber/,2026-11-26T05:46:30Z,scrape,false
+prv_mm7wghiriw,Flash Drains,plumber,,,quote_fee,,true,,,,,website,https://www.flashdrains.ca/,2026-11-26T13:48:17Z,scrape,false
+prv_mn327erppy,Harb Plumbing,plumber,Burlington,Etobicoke,quote_fee,,true,,,,,website,https://samharbplumbing.com/emergency-services/,2026-11-26T04:33:34Z,scrape,false
+prv_mnamuyybtz,Electrovoltage Inc.,electrician,Thornhill,North York,quote_fee,,true,,,,,website,https://electrovoltage.ca/,2026-11-26T06:59:21Z,scrape,false
+prv_mp4c8e3hbk,ApexFlow Plumber Brampton,plumber,Brampton,,after_hours_callout_fee,,true,,,,"er Brampton | 24/7 Emergency, No After-Hours Surcharge",website,https://apexflowplumberbrampton.ca/,2026-11-26T05:14:42Z,scrape,false
+prv_mp8q9k8wxe,La Plus Electrical Contracting Inc.,electrician,Keswick,,quote_fee,,true,,,,,website,https://lapluselectrical.ca/?l116839_htm,2026-11-26T07:25:18Z,scrape,false
+prv_mpin3pm4r6,Ramalho Electric Limited,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.ramalhoelectric.ca/,2026-11-26T09:30:31Z,scrape,false
+prv_mpjfa5fm2x,Creed Plumbing - Toronto Emergency Plumbing Service,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.creedplumbing.ca/plumbing-services/drain-cleaning,2026-11-26T04:33:07Z,scrape,false
+prv_mpwfqtmigp,A1Plumbers,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.a1plumbers.ca/,2026-11-26T08:18:08Z,scrape,false
+prv_ms588xd45y,J.R.W. Electric,electrician,Newmarket,,quote_fee,,true,,,,,website,https://www.jrwelectric.ca/services,2026-11-26T13:23:19Z,scrape,false
+prv_mt9qfp5wey,Award Plus: Plumbing and Drains,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://awardplus.ca/,2026-11-26T04:59:20Z,scrape,false
+prv_mt9qfp5wey,Award Plus: Plumbing and Drains,plumber,Toronto,North York,after_hours_callout_fee,,true,,,,ce (At your Door Within Hour) No Overtime Charges Fully insured Emergency Servi,website,https://awardplus.ca/,2026-11-26T04:59:20Z,scrape,false
+prv_mtj6xzysn4,DC Power Electric Ltd,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://dcpowerelectric.ca/,2026-11-26T08:42:38Z,scrape,false
+prv_mtt4f5cff2,Whitby Plumbing,plumber,Whitby,,quote_fee,,true,,,,,website,https://plumbingwhitby.com/,2026-11-26T07:19:50Z,scrape,false
+prv_mtubsginxg,Drain Ridge Inc.,plumber,Mississauga,,quote_fee,,true,,,,,website,https://www.drainridge.com/,2026-11-26T09:28:39Z,scrape,false
+prv_mv4qs76mym,AMA Electric,electrician,Vaughan,,quote_fee,,true,,,,,website,https://amaelectric.ca/,2026-11-26T13:22:51Z,scrape,false
+prv_n24c87b6wj,Zink Electric,electrician,Burlington,,quote_fee,,true,,,,,website,https://zinkelectric.com/,2026-11-26T08:49:03Z,scrape,false
+prv_n34fw37xbt,Jory Electric Ltd.,electrician,,,quote_fee,,true,,,,,website,https://jory-electric.ca/,2026-11-26T13:47:38Z,scrape,false
+prv_n35vpwpkxn,Wire Not Electric,electrician,Toronto,York,quote_fee,,true,,,,,website,https://www.wire-not-electric.ca,2026-11-26T08:59:27Z,scrape,false
+prv_n38zn8kr6a,Brilliant Electricals Inc,electrician,Brampton,,quote_fee,,true,,,,,website,https://brilliantelectricals.ca/,2026-11-26T08:36:44Z,scrape,false
+prv_n38zn8kr6a,Brilliant Electricals Inc,electrician,Brampton,,after_hours_callout_fee,,true,,,,"es Upfront, flat rate pricing—no overtime charges 24 / 7 availability for all e",website,https://brilliantelectricals.ca/about/,2026-11-26T08:36:44Z,scrape,false
+prv_n3tdvepeqf,Lumi Electric Inc.,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.lumielectric.ca/,2026-11-26T13:28:31Z,scrape,false
+prv_n4khtbqw8h,Nocktech Electric (14202988 Canada Inc.),electrician,Oshawa,,quote_fee,,true,,,,,website,https://nocktech.ca/,2026-11-26T07:17:08Z,scrape,false
+prv_n86bjj9n6y,Birnie Plumbing and Drains of Oakville,plumber,Oakville,,quote_fee,,true,,,,,website,https://birnieplumbinganddrains.ca/oakville/plumbing-services/emergency-plumber/,2026-11-26T06:59:13Z,scrape,false
+prv_n86bjj9n6y,Birnie Plumbing and Drains of Oakville,plumber,Oakville,,after_hours_callout_fee,,true,,,,cing even on emergency calls. No after-hours surcharge surprises. Call 905-845-8895,website,https://birnieplumbinganddrains.ca/oakville/plumbing-services/emergency-plumber/,2026-11-26T06:59:13Z,scrape,false
+prv_n8uztev63h,HR Plumbing & Mechanical Services,plumber,Mississauga,,quote_fee,,true,,,,,website,https://hrplumbingandmechanicalservices.com/,2026-11-26T04:33:27Z,scrape,false
+prv_nbc7i6br2g,Belview Electric Inc.,electrician,,,quote_fee,,true,,,,,website,https://www.belviewelectric.ca/faq,2026-11-26T13:23:45Z,scrape,false
+prv_nbqiewaujr,Dice Electric & Contracting Corp,electrician,Ajax,,quote_fee,,true,,,,,website,https://www.dice-electric.ca/,2026-11-26T06:06:09Z,scrape,false
+prv_nd8gik9m34,Electricians Richmond Hill,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://www.electriciansrichmondhill.ca/,2026-11-26T08:56:09Z,scrape,false
+prv_nd95vbikge,TMK Electrical And Contracting,electrician,Bowmanville,,quote_fee,,true,,,,,website,https://tmkelectrical.ca/,2026-11-26T09:30:08Z,scrape,false
+prv_ndaexcfk4e,Pickering Plumbing,plumber,Pickering,,quote_fee,,true,,,,,website,https://plumbingpickering.com/,2026-11-26T05:18:32Z,scrape,false
+prv_ndh58j4tm2,OnCall Plumbing Toronto,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://oncalltorontoplumbing.ca/,2026-11-26T05:48:21Z,scrape,false
+prv_nh85s827rf,WeCare Electric Services INC.,electrician,Mississauga,,quote_fee,,true,,,,,website,https://wecareelectric.ca/,2026-11-26T08:57:31Z,scrape,false
+prv_nj8n3ykukj,Tryke Electric Inc,electrician,Markham,,quote_fee,,true,,,,,website,https://trykeelectric.com/,2026-11-26T06:59:34Z,scrape,false
+prv_nja5j4zp6a,Mahmoud Plumber,plumber,Mississauga,,quote_fee,,true,,,,,website,https://www.mahmoudplumber.ca/,2026-11-26T04:33:27Z,scrape,false
+prv_njscpq3pp6,Space Tech Electrical Services Inc,electrician,Brampton,,quote_fee,,true,,,,,website,https://spacetechelectrical.com/,2026-11-26T09:17:27Z,scrape,false
+prv_nkizrvkbpg,Phazer Electric,electrician,Brampton,,quote_fee,,true,,,,,website,https://phazer.ca/,2026-11-26T09:16:46Z,scrape,false
+prv_nkwwdhgxfg,Alibaba Power Electric (Incorporated),electrician,Pickering,Scarborough,quote_fee,,true,,,,,website,https://alibabapowerelectric.com/,2026-11-26T06:36:23Z,scrape,false
+prv_nm7vc7bfiy,NUTech Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://nutechplumbing.ca/contact-us/,2026-11-26T09:28:43Z,scrape,false
+prv_nmanvuzwyi,Vaughan Plumbing,plumber,Vaughan,,quote_fee,,true,,,,,website,https://plumbingvaughn.com/,2026-11-26T05:16:39Z,scrape,false
+prv_nmbk3232mn,Halton Plumbing & Drains Inc.,plumber,Halton Hills,,quote_fee,,true,,,,,website,https://www.haltonplumbingdrains.com/,2026-11-26T07:44:01Z,scrape,false
+prv_nmrm2gfyhx,Overall Plumbing,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://overallplumbing.com/service-area/eagle-idaho/,2026-11-26T13:50:40Z,scrape,false
+prv_nnugfsqckm,Emergency Plumbing Responders,plumber,Toronto,,quote_fee,,true,,,,,website,https://247torontoplumbing365.ca/,2026-11-26T06:22:11Z,scrape,false
+prv_nrx9s5rcen,Effective Wiring,electrician,Mississauga,Etobicoke,quote_fee,,true,,,,,website,https://effectivewiring.ca,2026-11-26T05:16:00Z,scrape,false
+prv_nt2cjn9ha5,Vicamp Electrical Services Inc,electrician,Mississauga,Etobicoke,quote_fee,,true,,,,,website,https://electrical-services.ca/,2026-11-26T07:30:33Z,scrape,false
+prv_nut59sqjdz,A Plus Plumbers Oakville,plumber,,,diagnostic_fee,,false,100,100,true,epair next month. Call (905) 790-1796 FAQ → Troubleshooting $100 diagnostic $50 credited if you proceed Plumbing diagnostics Water pres,website,https://aplusplumbersoakville.com/services,2026-11-26T06:59:11Z,scrape,false
+prv_nvci9vgdjt,European Plumbing Services Inc,plumber,,,quote_fee,,true,,,,,website,https://european-plumbing-z9ysb76b.durable.site/,2026-11-26T13:48:53Z,scrape,false
+prv_nvqzc84993,A Master Electric Inc,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://amasterelectric.ca/,2026-11-26T09:29:05Z,scrape,false
+prv_nvy6vf46ar,Reliable Source Plumbing & Drains Ltd,plumber,Brampton,Etobicoke,quote_fee,,true,,,,,website,https://reliablesourceplumbing.ca/,2026-11-26T13:17:28Z,scrape,false
+prv_nw94pwrkkx,1-Tom-Plumber,plumber,Milton,,quote_fee,,true,,,,,website,https://www.1tomplumber.ca/northwest-gta-guelph/faq/,2026-11-26T06:39:01Z,scrape,false
+prv_nxjj22zd7k,Full Service Electric Inc,electrician,Brampton,,quote_fee,,true,,,,,website,https://fullserviceelectric.ca/,2026-11-26T13:29:39Z,scrape,false
+prv_nz7rm5rf2t,Stonegate Electrical Contracting (Corporation),electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.stonegateelectrical.com,2026-11-26T08:03:30Z,scrape,false
+prv_nzihpwwssu,Plumber Kings of East York,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://plumberkingseastyork.com/,2026-11-26T13:19:34Z,scrape,false
+prv_p26frkhsjx,Smart Plumbing,plumber;electrician,Toronto,Scarborough,quote_fee,,true,,,,,website,https://whc.ca/domain-names/auctions/smartplumbing.ca,2026-11-26T04:40:42Z,scrape,false
+prv_p2s4t4fzbp,Macintyre Plumbing Ltd.,plumber,Scugog,,quote_fee,,true,,,,,website,https://www.macintyreplumbing.com/contact-us/,2026-11-26T14:05:57Z,scrape,false
+prv_p3hwus4bw2,Integrity Plumbing Service LTD,plumber,Toronto,Etobicoke,hourly_rate,,false,95,95,,"all fee $120 Minimum base rate for service call Hourly rate $95 /Hr This rate is in addition to the service call fee, and is ba",website,https://integrityplumbingservice.ca/standard-rates,2026-11-26T08:51:25Z,scrape,false
+prv_p3hwus4bw2,Integrity Plumbing Service LTD,plumber,Toronto,Etobicoke,hourly_rate,,false,160,160,,rs of operation. **Rates are subject to change. Hourly rate $160 /Hr Service call fee $240 Minimum base rate for service call (O,website,https://integrityplumbingservice.ca/standard-rates,2026-11-26T08:51:25Z,scrape,false
+prv_p46c2565dm,Hepburn Electrical & (Contracting Ltd),electrician,Burlington,,quote_fee,,true,,,,,website,https://www.hepburnelectric.ca/,2026-11-26T13:25:34Z,scrape,false
+prv_p4swinvmgb,Drain on Sale,plumber,Mississauga,Etobicoke,quote_fee,,true,,,,,website,https://drainonsale.ca/,2026-11-26T05:47:45Z,scrape,false
+prv_p4swinvmgb,Drain on Sale,plumber,Mississauga,Etobicoke,after_hours_callout_fee,,true,,,,st Response 30 years Warranty No extra charge for nights or weekends Clean & Courteous,website,https://drainonsale.ca/,2026-11-26T05:47:45Z,scrape,false
+prv_p75q8dsej9,Absolute Draining & Plumbing,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://absolutedp.com/,2026-11-26T04:33:42Z,scrape,false
+prv_p7vepqgayj,Bright water plumbing inc,plumber,,,quote_fee,,true,,,,,website,https://brightwaterplumbing.ca/,2026-11-26T07:02:48Z,scrape,false
+prv_p8ss7yvuru,Sims Electric,electrician,Bowmanville,,quote_fee,,true,,,,,website,https://sims-electric.ca/contact-us,2026-11-26T06:59:23Z,scrape,false
+prv_pa5vb3vj7g,On Call Plumbing,plumber,Toronto,,quote_fee,,true,,,,,website,https://oncallplumbing.ca/,2026-11-26T06:14:38Z,scrape,false
+prv_pc44v72hn6,MC Plumbing Services Ltd.,plumber,Brampton,,quote_fee,,true,,,,,website,https://www.mcplumbingservices.ca/,2026-11-26T07:38:08Z,scrape,false
+prv_pdgz9ydg2r,Toronto Wiring,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://torontowiring.com/,2026-11-26T05:21:06Z,scrape,false
+prv_pdj5izbjs6,John The Plumber,plumber,Milton,Old Toronto,quote_fee,,true,,,,,website,https://johntheplumber.ca/downtown-toronto/,2026-11-26T06:00:26Z,scrape,false
+prv_perpthq4ai,MEP Electric Inc.,electrician,,,quote_fee,,true,,,,,website,https://www.mepelectricinc.com/,2026-11-26T08:39:17Z,scrape,false
+prv_pf3rk4xiks,VK pro Plumbing & Drain,plumber,Mississauga,,quote_fee,,true,,,,,website,https://vkproplumbingdrain.com/,2026-11-26T09:04:49Z,scrape,false
+prv_pgjrkarwyp,PCH Electrical Contractors Ltd,electrician,Oshawa,,quote_fee,,true,,,,,website,https://www.pchelectrical.ca/,2026-11-26T06:59:25Z,scrape,false
+prv_pj24m8dfzj,Primetime Electricians Inc,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://ptelectric.ca/,2026-11-26T08:39:41Z,scrape,false
+prv_pj38g72uwb,Budget Rooter,plumber,Mississauga,,quote_fee,,true,,,,,website,https://budgetrooter.ca/,2026-11-26T04:43:11Z,scrape,false
+prv_pkbjst75in,MOT Plumbing Services,plumber,Vaughan,,quote_fee,,true,,,,,website,https://motplumbingservices.ca/,2026-11-26T06:12:06Z,scrape,false
+prv_pkbjst75in,MOT Plumbing Services,plumber,Vaughan,,after_hours_callout_fee,,true,,,,"ays — same flat-rate pricing, no overtime fees. Call (437) 315-2909 What we",website,https://motplumbingservices.ca/,2026-11-26T06:12:06Z,scrape,false
+prv_pkiu5zva38,Emano Electrical & Contracting (13731031 Canada Inc.),electrician,Bowmanville,,quote_fee,,true,,,,,website,https://emanoelectric.ca/,2026-11-26T07:07:54Z,scrape,false
+prv_puytvrhe4h,Strong Plumbing Inc,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.strongplumbinginc.com/,2026-11-26T04:45:27Z,scrape,false
+prv_pvrrzjuw5p,SP Express Plumbing,plumber,,,quote_fee,,true,,,,,website,https://spexpressplumbing.ca/,2026-11-26T13:15:58Z,scrape,false
+prv_pvrrzjuw5p,SP Express Plumbing,plumber,,,after_hours_callout_fee,,true,,,,"dispatch fast, day or night. No overtime fees. Hamilton's fastest response.",website,https://spexpressplumbing.ca/,2026-11-26T13:15:58Z,scrape,false
+prv_pwv4afc7jg,Predo Electro Service,electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.predoelectroservice.com/service-solutions,2026-11-26T13:40:41Z,scrape,false
+prv_px5385bp3z,Maknotech Electric Inc,electrician,Newmarket,,quote_fee,,true,,,,,website,https://maknotechelectric.ca/,2026-11-26T07:25:00Z,scrape,false
+prv_pxmcur86z5,Rogue Plumbing & Mechanical,plumber,Toronto,East York,quote_fee,,true,,,,,website,https://www.europlumbingtoday.com/,2026-11-26T13:48:29Z,scrape,false
+prv_q3m8t5z9ib,Mega Plumbing & Drain Services - 24 Hours Emergency Plumbers,plumber,Toronto,North York,after_hours_callout_fee,,true,,,,5 min response Available 24/7 No overtime charges Learn More Drain Cleaning Pro,website,https://www.megaplumbing.ca/,2026-11-26T04:53:36Z,scrape,false
+prv_q3uqfjceda,Crowned Plumber Of Clarington,plumber,Clarington,,quote_fee,,true,,,,,website,https://crowned-pipe-care.lovable.app/,2026-11-26T13:50:57Z,scrape,false
+prv_q6aqzjyqpv,Rooter-Man Plumbing & Waterproofing Mississauga,plumber,Mississauga,,quote_fee,,true,,,,,website,https://rootermanmississauga.ca/,2026-11-26T19:24:50Z,scrape,false
+prv_q6vrmxaejf,Total Plumbing & Mechanical Inc.,plumber,Vaughan,,quote_fee,,true,,,,,website,https://www.totalplumbingandmechanical.com/,2026-11-26T05:16:40Z,scrape,false
+prv_q7f46quda3,Strum Electrics Inc,electrician,Oakville,,quote_fee,,true,,,,,website,https://www.strumelectrics.com/,2026-11-26T09:25:00Z,scrape,false
+prv_q7y7u9wu5j,Dp Pro Electric,electrician,Mississauga,,quote_fee,,true,,,,,website,https://dpproelectric.com/,2026-11-26T06:12:06Z,scrape,false
+prv_q8gynzgd68,A To Z Electrical Services Inc,electrician,Thornhill,,quote_fee,,true,,,,,website,https://www.atozelectric.ca/,2026-11-26T07:39:27Z,scrape,false
+prv_q8sat3tibv,Yess Boss Plumbing Inc.,plumber,Mississauga,York,callout_fee,,false,49,49,true,e and gives you upfront pricing before any work begins. The $49 dispatch fee is only charged if you choose not to proceed. If you approv,website,https://yessbossplumbing.com/contact-us/,2026-11-26T04:51:40Z,scrape,false
+prv_q9rwjafs54,Wilson Electric,electrician,Whitby,,quote_fee,,true,,,,,website,https://wilsonelectricinc.ca/,2026-11-26T06:36:14Z,scrape,false
+prv_qbajk2f4u7,Babil Electric (2785564 Ontario Inc),electrician,Burlington,,quote_fee,,true,,,,,website,https://babilelectric.com/aboutus/,2026-11-26T07:42:17Z,scrape,false
+prv_qbef4syz2h,ExpressRooter Plumbing Ltd.,plumber,Mississauga,North York,quote_fee,,true,,,,,website,https://expressrootertoronto.com/,2026-11-26T05:49:39Z,scrape,false
+prv_qbs5g59f73,Etobicoke Plumbing,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://plumbingetobicoke.com/,2026-11-26T04:33:11Z,scrape,false
+prv_qcuxx4mrrb,Access Electric Inc (2412451 Ontario Inc),electrician,Mississauga,Etobicoke,quote_fee,,true,,,,,website,https://accesselectric.ca,2026-11-26T13:34:01Z,scrape,false
+prv_qd97iwe523,Wiljan Electrical Inc,electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.wiljan.ca/services,2026-11-26T07:41:37Z,scrape,false
+prv_qe353f9p4i,Optimal Electric Inc.,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://optimalelectricinc.ca,2026-11-26T13:18:59Z,scrape,false
+prv_qedenn3mri,Stott Electrical Solutions,electrician,Caledon,,quote_fee,,true,,,,,website,https://stottes.com/?y_source=1_OTA3NDMzODMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D,2026-11-26T08:10:51Z,scrape,false
+prv_qerabum7me,Quick John Plumber,plumber,Burlington,,quote_fee,,true,,,,,website,https://quickjohnplumber.online/,2026-11-26T07:05:08Z,scrape,false
+prv_qf8u27dxya,Ohmega Electric Inc (Ohmega Electric),electrician,Mississauga,,quote_fee,,true,,,,,website,https://ohmegaelectric.com/,2026-11-26T08:55:33Z,scrape,false
+prv_qfwu9er6ib,North York Electrician,electrician,Toronto,North York,after_hours_callout_fee,,true,,,,ensed & Insured Contractors ✓ No Hidden Emergency Fees Our Electricians Serving All,website,https://electriciannorthyork.ca/emergency-electrician-north-york/,2026-11-26T06:01:04Z,scrape,false
+prv_qjpcazq9iq,Advantage Electric,electrician,,,quote_fee,,true,,,,,website,https://advantageelectric.ca/,2026-11-26T07:39:49Z,scrape,false
+prv_qpbzmy7atk,Plumber Bros Limited,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://plumberbros.ca/,2026-11-26T09:23:50Z,scrape,false
+prv_qpduki8cdq,FB Plumbing,plumber,,,quote_fee,,true,,,,,website,https://fbplumbingtoronto.ca/,2026-11-26T05:38:17Z,scrape,false
+prv_qq5b9dtf6m,Vis Plumbing Inc,plumber,Mississauga,,quote_fee,,true,,,,,website,https://visplumbing.ca/,2026-11-26T04:43:53Z,scrape,false
+prv_qqgazb5q5v,OKANA Electrical,electrician,Whitchurch-Stouffville,,quote_fee,,true,,,,,website,https://www.okanapro.ca/,2026-11-26T06:59:19Z,scrape,false
+prv_qqh5jk36eu,Unlock Plumbing,plumber,Brampton,,after_hours_callout_fee,,true,,,,0Book Online Available 24/7 — No extra charge for nights or weekends (647) 530-1550 On,website,https://www.unlockplumbing.ca/,2026-11-26T13:24:36Z,scrape,false
+prv_qqjcjpkh7k,KonMack plumbing and Mechanical,plumber,Newmarket,,quote_fee,,true,,,,,website,https://konmackplumbing.ca/,2026-11-26T06:56:47Z,scrape,false
+prv_qqjcjpkh7k,KonMack plumbing and Mechanical,plumber,Newmarket,,after_hours_callout_fee,,true,,,,"hy we offer our services with no extra charge on Nights, Weekends, and Holidays. Your",website,https://konmackplumbing.ca/,2026-11-26T06:56:47Z,scrape,false
+prv_qu8dezzt5w,Gmkor Electric Inc,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.gmkorelectric.ca/,2026-11-26T06:09:13Z,scrape,false
+prv_quuzbgz36y,Red Leaf Plumbing & Drain,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.redleafplumbing.com/emergency-plumbing-services,2026-11-26T06:49:10Z,scrape,false
+prv_quxtyqqqa2,Rooter Brothers Drains & Plumbing,plumber,Toronto,,quote_fee,,true,,,,,website,https://www.rooterbrothers.ca/,2026-11-26T05:38:15Z,scrape,false
+prv_qvq23w3gw4,Master Plumbing and Drainage Inc.,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://master-plumbing.ca/,2026-11-26T09:18:37Z,scrape,false
+prv_qxj4zh8yre,Munro Plumbing,plumber,Oshawa,,quote_fee,,true,,,,,website,https://munroplumbing.ca/,2026-11-26T07:39:55Z,scrape,false
+prv_qzipktv35a,Sunrise Electrical Ltd.,electrician,Brampton,,quote_fee,,true,,,,,website,https://sunriseelectricalltd.ca/,2026-11-26T13:19:01Z,scrape,false
+prv_r335ksfm8i,SPEC Electric Inc.,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://spec-electric.com/,2026-11-26T05:21:08Z,scrape,false
+prv_r4she23hjh,Dima Plumbing,plumber,Markham,,quote_fee,,true,,,,,website,https://dimaplumbing.com/,2026-11-26T05:16:38Z,scrape,false
+prv_r4she23hjh,Dima Plumbing,plumber,Markham,,after_hours_callout_fee,,true,,,,"on. More reasons to choose us No Overtime Fees At Dima Plumbing, we believe",website,https://dimaplumbing.com/emergency-plumbing,2026-11-26T05:16:38Z,scrape,false
+prv_r6hbse9xv5,H And D Electric Inc.,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.hdelectricinc.ca/,2026-11-26T08:23:41Z,scrape,false
+prv_r79rgybx2s,Drain Stream Plumbing and Drain Services,plumber,Mississauga,Etobicoke,quote_fee,,true,,,,,website,https://www.drainstreaminc.com/plumber-etobicoke,2026-11-26T05:08:18Z,scrape,false
+prv_r9cre89kxn,Start Drain Inc,plumber,Vaughan,,quote_fee,,true,,,,,website,https://www.startdrain.ca/,2026-11-26T07:23:51Z,scrape,false
+prv_rbm4k8zf69,Rockwood Drain Experts,plumber,Halton Hills,,quote_fee,,true,,,,,website,https://rockwooddrainexperts.ca/,2026-11-26T06:49:09Z,scrape,false
+prv_rc7khb7q3k,Urban plumbing contractors inc.,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,http://urbanplumbers.ca/about-us/,2026-11-26T04:33:25Z,scrape,false
+prv_rc7khb7q3k,Urban plumbing contractors inc.,plumber,Toronto,Etobicoke,callout_fee,,false,40,40,,ee Unionville $20 Travel Fee Unionville $20 Travel Fee Ajax $40 Travel Fee Bolton $40 Travel Fee Brampton $40 Travel Fee King $40 Trav,website,http://urbanplumbers.ca/about-us/,2026-11-26T04:33:25Z,scrape,false
+prv_rc7khb7q3k,Urban plumbing contractors inc.,plumber,Toronto,Etobicoke,callout_fee,,false,60,60,,Fee Nobleton $40 Travel Fee Pickering $40 Travel Fee Aurora $60 Travel Fee Burlington $60 Travel Fee Georgetown $60 Travel Fee Oakvill,website,http://urbanplumbers.ca/about-us/,2026-11-26T04:33:25Z,scrape,false
+prv_rc7khb7q3k,Urban plumbing contractors inc.,plumber,Toronto,Etobicoke,callout_fee,,false,80,80,,Fee Oshawa $60 Travel Fee Whitby $60 Travel Fee Bowmanville $80 Travel Fee Bradford $80 Travel Fee Gwillumbury $80 Travel Fee Milton $,website,http://urbanplumbers.ca/about-us/,2026-11-26T04:33:25Z,scrape,false
+prv_rc7khb7q3k,Urban plumbing contractors inc.,plumber,Toronto,Etobicoke,callout_fee,,false,100,100,,Newmarket $80 Travel Fee Stouffville $80 Travel Fee Barrie $100 Travel Fee Georgina $100 Travel Fee Halton Hills $100 Travel Fee Hamil,website,http://urbanplumbers.ca/about-us/,2026-11-26T04:33:25Z,scrape,false
+prv_rc7khb7q3k,Urban plumbing contractors inc.,plumber,Toronto,Etobicoke,callout_fee,,false,120,120,,Keswick $100 Travel Fee Uxbridge $100 Travel Fee Brantford $120 Travel Fee Cambridge $120 Travel Fee Guelph $120 Travel Fee Kitchener,website,http://urbanplumbers.ca/about-us/,2026-11-26T04:33:25Z,scrape,false
+prv_rcjfri2ib4,Alton Electric Contracting Inc,electrician,Oshawa,,quote_fee,,true,,,,,website,https://altonelectric.ca/core/help/contactus/,2026-11-26T08:49:02Z,scrape,false
+prv_rcsmjdtfux,Plumber 911,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://plumber911.online/,2026-11-26T05:07:39Z,scrape,false
+prv_rd4fcmdp2f,Tributary Plumbing Co. of Oakville,plumber,,,quote_fee,,true,,,,,website,https://www.tributaryplumbingco.ca/,2026-11-26T13:17:13Z,scrape,false
+prv_rfpjjxe8yb,Plumbing Expert,plumber,,,after_hours_callout_fee,,false,99,99,,"ts Call us when you need help with your plumbing emergency. $99 Dispatch Fee A certified technician dispatched to your home for $99, wit",website,https://theplumbingexpert.ca/,2026-11-26T13:48:44Z,scrape,false
+prv_rfpjjxe8yb,Plumbing Expert,plumber,,,callout_fee,,false,99,99,,or a furnace that will not start? Diagnosis starts with the $99 dispatch fee and an upfront price before work begins. Learn more Heating,website,https://theplumbingexpert.ca/,2026-11-26T13:48:44Z,scrape,false
+prv_rg2fdcsvw7,Flowtek Plumbing Ltd,plumber,Mississauga,,quote_fee,,true,,,,,website,https://www.flowtekplumbing.com/services,2026-11-26T07:38:09Z,scrape,false
+prv_rg2pvhhwsy,Everline Electrical Inc,electrician,Toronto,York,quote_fee,,true,,,,,website,https://www.everlineelectrical.ca/,2026-11-26T09:23:15Z,scrape,false
+prv_rh8bps6sn9,Renewal Electrical Contracting Ltd.,electrician,Whitby,,quote_fee,,true,,,,,website,https://renewalec.com/,2026-11-26T13:34:19Z,scrape,false
+prv_rh8bps6sn9,Renewal Electrical Contracting Ltd.,electrician,Whitby,,after_hours_callout_fee,,true,,,,"ts Upfront, flat rate pricing—no overtime charges 24 / 7 availability for all e",website,https://renewalec.com/about-us/,2026-11-26T13:34:19Z,scrape,false
+prv_rhuntfrb3c,Electric Fx,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://electricfx.ca/,2026-11-26T08:05:33Z,scrape,false
+prv_rmf5cp2g2j,Rooter Team Inc - Plumbers of Mississauga,plumber,Mississauga,,quote_fee,,true,,,,,website,https://rooterteam.ca/plumber-mississauga/,2026-11-26T04:43:50Z,scrape,false
+prv_rp4aqc564e,Wolff Electric (2513684 Ontario Inc.),electrician,Thornhill,,quote_fee,,true,,,,,website,https://wolffelectric.ca/,2026-11-26T19:41:40Z,scrape,false
+prv_ru8fnq2dev,Drain Clinic,plumber,Vaughan,,quote_fee,,true,,,,,website,https://draincleaning.ca/,2026-11-26T13:50:12Z,scrape,false
+prv_ru8fnq2dev,Drain Clinic,plumber,Vaughan,,after_hours_callout_fee,,true,,,,"drain cleaning in Milton—with no extra fees for weekends, holidays, or late-night call",website,https://draincleaning.ca/drain-cleaning-service-in-milton/,2026-11-26T13:50:12Z,scrape,false
+prv_rujquwjtsh,DrainCity Plumbers,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://draincity.com/,2026-11-26T04:33:44Z,scrape,false
+prv_rx8963fbw3,Element Electric Inc,electrician,Aurora,,quote_fee,,true,,,,,website,https://elementelectric1.godaddysites.com/contact-us,2026-11-26T19:40:33Z,scrape,false
+prv_rxwzyjvche,Andy Plumbing,plumber,Oakville,,quote_fee,,true,,,,,website,http://www.andyplumbing.ca/,2026-11-26T07:46:42Z,scrape,false
+prv_rxx2kqq2i4,iCAN Electricians Mississauga,electrician,Mississauga,,quote_fee,,true,,,,,website,https://icanelectricians.ca/mississauga/,2026-11-26T09:12:50Z,scrape,false
+prv_ry2dzsc7yx,RYU Electric,electrician,Markham,,quote_fee,,true,,,,,website,https://ryuelectric.com/,2026-11-26T08:15:21Z,scrape,false
+prv_rysb58hn5x,Involta Electric Ltd,electrician,Woodbridge,,quote_fee,,true,,,,,website,https://involtaelectric.com/,2026-11-26T08:07:30Z,scrape,false
+prv_s38d739n52,Jyd Electrical Contracting Ltd,electrician,Nobleton,,quote_fee,,true,,,,,website,https://jydelectric.ca/,2026-11-26T08:49:02Z,scrape,false
+prv_s4gvcdd3hp,Feeney Plumbing,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://feeneyplumbing.ca/,2026-11-26T08:27:26Z,scrape,false
+prv_s899km6g43,Pro Fix Plumbing and Drain,plumber,Mississauga,,quote_fee,,true,,,,,website,https://www.profixplumbinganddrain.ca/,2026-11-26T05:45:50Z,scrape,false
+prv_s8z22y6ww5,Townsend Electric (Townsend Electric (1995) Limited),electrician,Oshawa,,quote_fee,,true,,,,,website,https://townsendelectric.ca/,2026-11-26T07:38:58Z,scrape,false
+prv_s9ejmsct8e,Double Safe Electric Inc,electrician,Unionville,,quote_fee,,true,,,,,website,http://www.doublesafeelectric.com/,2026-11-26T09:28:11Z,scrape,false
+prv_sbwbqza9j8,Jay Plumbing & Electrical Services,electrician,Brampton,,quote_fee,,true,,,,,website,https://jayplumbing.ca/,2026-11-26T19:41:39Z,scrape,false
+prv_sebsh2bvuw,Barrett Electric Inc.,electrician,Oshawa,,quote_fee,,true,,,,,website,https://www.barrettelectric.ca/additional-electrical-services,2026-11-26T07:32:34Z,scrape,false
+prv_sehwh8kpw2,Plumber Done On Time of Toronto,plumber,,,quote_fee,,true,,,,,website,https://toronto-plumber-on-time-toronto.lovable.app/,2026-11-26T06:22:13Z,scrape,false
+prv_siwqah9iws,Bolt Electrical Contracting Inc.,electrician,Mississauga,,quote_fee,,true,,,,,website,https://boltelectrical.ca/,2026-11-26T07:08:34Z,scrape,false
+prv_sjcnwx62qp,Conmar Plumbing & Drains,plumber,Pickering,Old Toronto,quote_fee,,true,,,,,website,https://www.conmarplumbing.com/,2026-11-26T04:33:25Z,scrape,false
+prv_sm4ibzjphv,M7 Power And Communication (Solutions Inc.),electrician,Mississauga,,quote_fee,,true,,,,,website,https://m7power.com/,2026-11-26T13:34:26Z,scrape,false
+prv_sm8g466ie5,Aya Electric Inc,electrician,Brampton,,quote_fee,,true,,,,,website,https://aya-electric-spark.lovable.app/,2026-11-26T07:08:34Z,scrape,false
+prv_smnqqu99s7,Dynamize Electric Inc.,electrician,Burlington,,quote_fee,,true,,,,,website,https://dynamizeelectric.ca/,2026-11-26T06:59:18Z,scrape,false
+prv_smpn7maf8z,AAA Electrical & Controls Ltd,electrician,Brampton,Old Toronto,quote_fee,,true,,,,,website,https://aaaelectricals.com/,2026-11-26T07:11:57Z,scrape,false
+prv_smrac8utyf,Phillips and Sons Plumbing,plumber,,,quote_fee,,true,,,,,website,https://www.phillipsandsons.ca/,2026-11-26T07:43:24Z,scrape,false
+prv_smrac8utyf,Phillips and Sons Plumbing,plumber,,,callout_fee,,false,210,210,,ing. CONTACT US FOR A FREE ESTIMATE Please note our minimum service charge is $210.00 Uxbridge Plumber | Phillips & Sons Plumbing: About OUR SERV,website,https://www.phillipsandsons.ca/,2026-11-26T07:43:24Z,scrape,false
+prv_sni5ehyiiy,Plumber Done On Date Of Toronto,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://plumber-done-on-date-toronto.lovable.app/,2026-11-26T04:53:36Z,scrape,false
+prv_snv2wp7ti7,Redding Electric Inc,electrician,Oakville,,quote_fee,,true,,,,,website,https://www.reddingelectric.ca/,2026-11-26T07:40:55Z,scrape,false
+prv_sqjeyzs53f,North Point Plumbing,plumber,Vaughan,,quote_fee,,true,,,,,website,https://northpointplumbing.ca/,2026-11-26T13:48:18Z,scrape,false
+prv_srajka34nm,Thornhill Electrical Inc,electrician,King City,,quote_fee,,true,,,,,website,http://thornhillelectric.electricians.ca/,2026-11-26T06:16:36Z,scrape,false
+prv_suz68mubuv,Voltage PRO Electric Inc,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://vpelectric.ca/,2026-11-26T08:02:12Z,scrape,false
+prv_sv4hgjbg6g,Master Electricians,electrician,Newmarket,,quote_fee,,true,,,,,website,https://masterelectricians.ca/,2026-11-26T09:25:33Z,scrape,false
+prv_sy747vucpg,CAN Plumbing and Drainage,plumber,Mississauga,,quote_fee,,true,,,,,website,https://canplumbingdrainage.ca/mississauga/about/,2026-11-26T09:26:26Z,scrape,false
+prv_sypeaaftpu,Yar Power Electric Inc,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://yarpower.ca/contact-us/,2026-11-26T09:28:12Z,scrape,false
+prv_szrtw2zrq7,FlowCraft Plumbing Services,plumber,Markham,,quote_fee,,true,,,,,website,https://plumbermarkham.ca/,2026-11-26T04:33:31Z,scrape,false
+prv_t22yuszzc9,Toronto Electric Wiring & Installation Inc.,electrician,Toronto,Etobicoke,hourly_rate,,false,65,70,,"78911 Labor rates: first hour is from $160 to $170 and only $65 to $70 per hour after the first hour, plus materials 10% higher rates apply",website,https://torontoelectricwiringinstall.blogspot.com/,2026-11-26T19:43:55Z,scrape,false
+prv_t48fstrxjt,All Tech Electric,electrician,Toronto,Scarborough,quote_fee,,true,,,,,website,http://alltechelectric.ca/,2026-11-26T05:28:01Z,scrape,false
+prv_t6rt8hvnf8,Saving Plumbing,plumber,Pickering,Scarborough,quote_fee,,true,,,,,website,https://savingplumbing.ca/service-areas/scarborough/,2026-11-26T04:54:59Z,scrape,false
+prv_t6yjnvevjj,Pioneer Plumbers of Aurora,plumber,Aurora,,quote_fee,,true,,,,,website,https://pioneerplumbersinc.com/,2026-11-26T05:17:14Z,scrape,false
+prv_t7b4d97mce,AC Electric,electrician,,,quote_fee,,true,,,,,website,https://caledonelectrician.ca/,2026-11-26T13:38:09Z,scrape,false
+prv_t8tk6ktiek,Trinity-Bellwoods Plumbing Services Toronto,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://trinitybellwoodsplumbing.shop/,2026-11-26T04:49:47Z,scrape,false
+prv_tb8h844gm2,Apex Master Electric (13884651 Canada Inc),electrician,Brampton,,quote_fee,,true,,,,,website,https://apexmasterelectric.com/,2026-11-26T06:55:16Z,scrape,false
+prv_tb8h844gm2,Apex Master Electric (13884651 Canada Inc),electrician,Brampton,,diagnostic_fee,,false,79,79,,"nvallis lacus, eu dictum diam ultricies eget. Personal Plan $79 Diagnostic Services Emergency Services Installation Services Maintenance",website,https://apexmasterelectric.com/,2026-11-26T06:55:16Z,scrape,false
+prv_tb8h844gm2,Apex Master Electric (13884651 Canada Inc),electrician,Brampton,,diagnostic_fee,,false,169,169,,Services Energy Audit Services Choose Plan Residential Plan $169 Diagnostic Services Emergency Services Installation Services Maintenance,website,https://apexmasterelectric.com/,2026-11-26T06:55:16Z,scrape,false
+prv_tb8hnqzqrv,Captain Electric Inc,electrician,Pickering,,quote_fee,,true,,,,,website,https://captainelectric.ca/customer-faqs/,2026-11-26T06:23:42Z,scrape,false
+prv_tbw5s277aj,Shock Value Electrical Richmond Hill,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://shockvalueelectrical.com/,2026-11-26T13:44:08Z,scrape,false
+prv_tf8q5afqpn,"Apex Plumber & Co of Brampton, On",plumber,Brampton,,quote_fee,,true,,,,,website,https://apexplumberbrampton.lovable.app/,2026-11-26T07:29:15Z,scrape,false
+prv_tf8q5afqpn,"Apex Plumber & Co of Brampton, On",plumber,Brampton,,diagnostic_fee,,false,50,50,true,n 24/7 Emergency Service Upfront Pricing Before Work Begins $50 Inspection Fee Credited Toward Repairs Licensed & Insured Plumbing Contrac,website,https://apexplumberbrampton.lovable.app/,2026-11-26T07:29:15Z,scrape,false
+prv_thumfbirj4,AC Toronto Electric Company Ltd.,electrician,Toronto,East York,quote_fee,,true,,,,,website,https://www.actorontoelectric.ca/about-us,2026-11-26T07:41:37Z,scrape,false
+prv_tj3k2fuk5a,Titan Power Solutions Inc.,electrician,Vaughan,,quote_fee,,true,,,,,website,https://www.titanpwr.ca,2026-11-26T13:29:22Z,scrape,false
+prv_tkubhf7584,Kolji Bros Electrical (1000055079 Ontario Ltd.),electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.koljibroselectrical.ca/,2026-11-26T06:36:12Z,scrape,false
+prv_tkubhf7584,Kolji Bros Electrical (1000055079 Ontario Ltd.),electrician,Toronto,Old Toronto,after_hours_callout_fee,,true,,,,"approve work before we begin. No Overtime Fees You pay by the job, not the h",website,https://www.koljibroselectrical.ca/about-us,2026-11-26T06:36:12Z,scrape,false
+prv_tn3jcya8nd,DP Drain & Plumbing services,plumber,Toronto,East York,quote_fee,,true,,,,,website,https://www.dpdrainplumbing.ca/service-details/drain-repair-toronto,2026-11-26T04:56:47Z,scrape,false
+prv_tryhjsukzc,Richmond hill Electrician,electrician,Richmond Hill,,after_hours_callout_fee,,true,,,,"alls as on regular ones, with no after-hours surcharge added to the invoice. What el",website,https://electrician-richmondhill.ca/,2026-11-26T06:13:50Z,scrape,false
+prv_ttk87kfie5,Infinity Luxury Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://infinityplumbing.ca/driveway-snow-melting-systems-installation/,2026-11-26T05:38:15Z,scrape,false
+prv_tudm3c64fg,Symmetric Electric (Symmetric Electric Ltd.),electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://symmetricelectric.ca,2026-11-26T05:21:44Z,scrape,false
+prv_tuquddmwqb,Twiss Electric Ltd,electrician,Burlington,,quote_fee,,true,,,,,website,http://twisselectric.ca/about.php,2026-11-26T07:37:12Z,scrape,false
+prv_tusfa6c9v7,TK Plumbing and Drain Services,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://tkplumbingservices.ca/contact-us/,2026-11-26T14:05:28Z,scrape,false
+prv_tv9mbdnbsw,Brant Electric Limited,electrician,Burlington,,quote_fee,,true,,,,,website,https://brantelectriclimited.ca/,2026-11-26T07:21:48Z,scrape,false
+prv_twhmt6inpe,Attard Plumbing LTD.,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://attardplumbing.com/,2026-11-26T05:48:22Z,scrape,false
+prv_twip44ct4v,H Man Electric,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://hmanelectric.ca/pages/hmanelectric-licensed-electrician-toronto-milton/,2026-11-26T09:28:18Z,scrape,false
+prv_tz28mtjn69,Deka Plumbing Solutions,plumber,Toronto,,quote_fee,,true,,,,,website,https://www.dekaplumbing.com/,2026-11-26T07:40:46Z,scrape,false
+prv_u22uf3xzbh,RED ELECTRIC CONTRACTING INC. (Red Electric),electrician,Georgetown,,quote_fee,,true,,,,,website,https://www.redelectric.ca/,2026-11-26T07:00:29Z,scrape,false
+prv_u2tdfnxgwr,Falstaff Electrical Services Ltd (Falstaff Electrical Services Ltd),electrician,Claremont,,quote_fee,,true,,,,,website,https://falstaffelectric.ca/,2026-11-26T13:31:24Z,scrape,false
+prv_u3vf3bazjx,Drain Target,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://draintarget.com/,2026-11-26T06:13:38Z,scrape,false
+prv_u4ah54r46r,Precision Plumbing North York,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://precisionplumbingnorthyork.shop/,2026-11-26T05:52:10Z,scrape,false
+prv_u5uqhu39vg,Meadowvale Plumbing & Mechanical,plumber,,,quote_fee,,true,,,,,website,https://meadowvaleplumbingandmechanical.com/,2026-11-26T07:03:34Z,scrape,false
+prv_u73ypb55ky,"Rooter Group, Inc.",plumber,Toronto,Etobicoke,after_hours_callout_fee,,true,,,,"re for HomeStars Reviews 24/7 No Overtime Charge on Services on Nights, Weeken",website,https://www.rootergroupinc.ca/,2026-11-26T06:43:09Z,scrape,false
+prv_u7q9n32jqu,Nord -Ost Electric Ltd.,electrician,Aurora,,quote_fee,,true,,,,,website,https://nordost.ca/,2026-11-26T08:40:30Z,scrape,false
+prv_uak6a3dd57,5 Star Emergency Plumbing Vaughen,plumber,Vaughan,,quote_fee,,true,,,,,website,https://5staremergencyplumbingvaughen.shop/,2026-11-26T06:22:11Z,scrape,false
+prv_ucxfyazie5,Arjo Electric Inc,electrician,Ajax,,quote_fee,,true,,,,,website,https://arjoelectric.ca/about-us,2026-11-26T13:18:41Z,scrape,false
+prv_ud7acapz8a,McPipe Plumbing Inc.,plumber,Markham,,quote_fee,,true,,,,,website,https://www.mcpipeplumbing.ca/plumber-toronto,2026-11-26T06:25:41Z,scrape,false
+prv_ufna4kadu9,Scarborough Plumbing,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://www.plumbingscarborough.com/,2026-11-26T04:50:25Z,scrape,false
+prv_uhfsnezv8y,Ross Plumbing.,plumber,Brampton,,quote_fee,,true,,,,,website,https://rossplumbing.ca/,2026-11-26T13:52:40Z,scrape,false
+prv_uhmh6q8cpq,Plus Energy Electrical And Lighting (Solutions Inc),electrician,Toronto,North York,quote_fee,,true,,,,,website,https://plusenergysolutions.com/,2026-11-26T06:01:43Z,scrape,false
+prv_uhr4kec5n8,Mr. Splash Plumbing of Pickering,plumber,Pickering,Old Toronto,after_hours_callout_fee,,false,200,200,,hower or tubToilet repair or installation How fast? Next-Day$200Service callPopularSame-Day$249Service callEmergency$300Service call Sch,website,https://mrsplash.ca/,2026-11-26T04:48:38Z,scrape,false
+prv_uhr4kec5n8,Mr. Splash Plumbing of Pickering,plumber,Pickering,Old Toronto,after_hours_callout_fee,,false,249,249,,stallation How fast? Next-Day$200Service callPopularSame-Day$249Service callEmergency$300Service call Schedule Service Service call cove,website,https://mrsplash.ca/,2026-11-26T04:48:38Z,scrape,false
+prv_uhr4kec5n8,Mr. Splash Plumbing of Pickering,plumber,Pickering,Old Toronto,after_hours_callout_fee,,false,300,300,,-Day$200Service callPopularSame-Day$249Service callEmergency$300Service call Schedule Service Service call covers dispatch & assessment.,website,https://mrsplash.ca/,2026-11-26T04:48:38Z,scrape,false
+prv_uhr4kec5n8,Mr. Splash Plumbing of Pickering,plumber,Pickering,Old Toronto,callout_fee,,false,200,200,,"& Vancouver Pick your speed · schedule now Next-Day Service $200Service call Book today, seen tomorrow — guaranteed arrival window. Sche",website,https://mrsplash.ca/,2026-11-26T04:48:38Z,scrape,false
+prv_uhr4kec5n8,Mr. Splash Plumbing of Pickering,plumber,Pickering,Old Toronto,callout_fee,,false,249,249,,"work begins Schedule Next-Day Most Popular Same-Day Service $249Service call A technician at your door today, in a confirmed window. Pri",website,https://mrsplash.ca/,2026-11-26T04:48:38Z,scrape,false
+prv_ujkr38tbhj,Morrison Plumbing & Mechanical,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.canadianplumbing.com/,2026-11-26T04:48:32Z,scrape,false
+prv_ujkr38tbhj,Morrison Plumbing & Mechanical,plumber,Toronto,Old Toronto,after_hours_callout_fee,,true,,,,vices City of Toronto Rebates No Additional Weekend Charges No After Hours Charges Senior,website,https://www.canadianplumbing.com/,2026-11-26T04:48:32Z,scrape,false
+prv_uju8jt5iky,Mid Northern Electric Ltd,electrician,Concord,,quote_fee,,true,,,,,website,https://midnorthern.ca/contact/,2026-11-26T06:31:12Z,scrape,false
+prv_um42ufvcqh,Technew Electric Inc,electrician,Ajax,,quote_fee,,true,,,,,website,https://technewelectric.ca/,2026-11-26T13:23:27Z,scrape,false
+prv_up46yvde3h,United plumbing & Construction,plumber,Brampton,,quote_fee,,true,,,,,website,https://www.unitedplumbingconstruction.com/,2026-11-26T09:28:42Z,scrape,false
+prv_upmykfnfjs,TW Electricals,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.twelectricals.com/services,2026-11-26T07:43:22Z,scrape,false
+prv_upuzkvx27b,Mattis Electric Ltd,electrician,Newmarket,,quote_fee,,true,,,,,website,https://mattiselectric.com,2026-11-26T09:27:31Z,scrape,false
+prv_uq3bw9sz9j,Kiwi Electrical Contractors Ltd,electrician,Brampton,,quote_fee,,true,,,,,website,https://kiwielectrical.ca/,2026-11-26T09:14:34Z,scrape,false
+prv_uqrgqxmr3d,Local Plumber,plumber,,,quote_fee,,true,,,,,website,https://www.localplumberinc.ca/,2026-11-26T06:48:57Z,scrape,false
+prv_urgc6ex5sg,EPWR Electrical Services,electrician,Oakville,,quote_fee,,true,,,,,website,https://epwrelectricalservices.com/,2026-11-26T13:23:24Z,scrape,false
+prv_usg6nv42kk,Deep Water Plumbing,plumber,Brampton,Scarborough,quote_fee,,true,,,,,website,https://deepwaterplumbing.com/,2026-11-26T05:02:30Z,scrape,false
+prv_usj9rvu7ac,AK Plumber INC,plumber,Whitby,,quote_fee,,true,,,,,website,https://space.gatewaysystems.ca/ak-plumber-whitby,2026-11-26T06:49:12Z,scrape,false
+prv_ut5gtazuh9,AY Plumbing & Renovation Service,plumber,Pickering,,quote_fee,,true,,,,,website,https://ayplumber.ca/,2026-11-26T05:36:54Z,scrape,false
+prv_utj4jc2set,Oshawa Plumbing,plumber,Oshawa,,quote_fee,,true,,,,,website,https://plumbinoshawa.com/,2026-11-26T06:41:34Z,scrape,false
+prv_uwxann9z46,Midtown Plumbing,plumber,Vaughan,North York,quote_fee,,true,,,,,website,https://www.midtownplumbing.ca/,2026-11-26T06:27:19Z,scrape,false
+prv_uwxann9z46,Midtown Plumbing,plumber,Vaughan,North York,after_hours_callout_fee,,true,,,,– 9 PM Same rate every day — no weekend or evening surcharge Call Now Get Directions Send,website,https://www.midtownplumbing.ca/contact/,2026-11-26T06:27:19Z,scrape,false
+prv_uyangskucv,X Core Electrical Inc.,electrician,Stouffville,,quote_fee,,true,,,,,website,https://x-core.ca/,2026-11-26T09:24:54Z,scrape,false
+prv_uz6u3zyy4q,Effective Electrical (George Dhebuadze),electrician,Woodbridge,,quote_fee,,true,,,,,website,https://effectiveelectrical.ca/,2026-11-26T08:06:11Z,scrape,false
+prv_v32iim7hm2,Bramwood Electrical Ltd,electrician,Concord,,quote_fee,,true,,,,,website,http://www.bramwoodservices.com/,2026-11-26T07:47:56Z,scrape,false
+prv_v33s4nyw7w,Ropes Electric Inc,electrician,Bowmanville,,quote_fee,,true,,,,,website,https://ropeselectric.com/,2026-11-26T08:36:44Z,scrape,false
+prv_v45xqcxz3u,TAS Plumbing,plumber,Oakville,,quote_fee,,true,,,,,website,https://tasplumbers.com/,2026-11-26T06:50:03Z,scrape,false
+prv_v4kkxjb45c,Wizard Electrical Contracting,electrician,Whitby,,quote_fee,,true,,,,,website,https://wizardelectricalltd.ca/,2026-11-26T09:08:11Z,scrape,false
+prv_v6nfipaz97,Molotov Plumbing,plumber,Oshawa,,quote_fee,,true,,,,,website,https://molotovplumbing.com/,2026-11-26T09:14:39Z,scrape,false
+prv_v87efikbsd,LD Drain Repair,plumber,Oakville,,quote_fee,,true,,,,,website,https://drain-repair.ca/,2026-11-26T05:46:31Z,scrape,false
+prv_v88hk9syii,Brothers Plumbing,plumber,Toronto,York,quote_fee,,true,,,,,website,https://www.brothersplumbing.ca/plumbing/,2026-11-26T04:35:17Z,scrape,false
+prv_v8x9g3c82f,Rep Electric,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://repelectric.ca/,2026-11-26T13:28:08Z,scrape,false
+prv_v9qsx5qvqb,Protastic Plumbing Services Inc.,plumber,Ajax,,quote_fee,,true,,,,,website,https://protasticplumbing.ca/services,2026-11-26T05:29:18Z,scrape,false
+prv_vcdbc2at7n,Codex Plumbing and Renovations Inc.,plumber,Mississauga,,quote_fee,,true,,,,,website,https://codexplumbingandreno.ca/,2026-11-26T08:39:35Z,scrape,false
+prv_vd87m3wtn4,About Town Electric Inc,electrician,Milton,,quote_fee,,true,,,,,website,https://abouttownelectric.com/about-us/,2026-11-26T13:44:38Z,scrape,false
+prv_vev3bn2uqy,Son Plumbing,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://sonplumbing.wordpress.com/,2026-11-26T13:48:47Z,scrape,false
+prv_vgurppijnq,J.E Electrical Services Inc.,electrician,Milton,,quote_fee,,true,,,,,website,https://jeelectrical.ca/,2026-11-26T08:05:31Z,scrape,false
+prv_vjsccj2ifx,Extron Electric & Plumbing Ltd,plumber;electrician,Brampton,,quote_fee,,true,,,,,website,https://extron.ca/,2026-11-26T06:23:45Z,scrape,false
+prv_vqkcsg8skp,Safe Service Electrical (1769446 Ontario Ltd),electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.safeservice.ca,2026-11-26T09:01:21Z,scrape,false
+prv_vrg97k8cbh,Zone Electrical & Communications (Ltd),electrician,Toronto,Scarborough,quote_fee,,true,,,,,website,https://www.zoneelectrical.com/About,2026-11-26T09:16:06Z,scrape,false
+prv_vtty75xi7g,Pipelink Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://pipelinkplumbing.ca/,2026-11-26T07:39:49Z,scrape,false
+prv_vutwhpswx4,A&V Drain Corp - Drain & Plumbing Services - Etobicoke,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://avdrain.ca/,2026-11-26T13:15:04Z,scrape,false
+prv_vutwhpswx4,A&V Drain Corp - Drain & Plumbing Services - Etobicoke,plumber,Toronto,Etobicoke,after_hours_callout_fee,,true,,,,charge you the same rate with no overtime charges. Even if a job takes us longe,website,https://avdrain.ca/,2026-11-26T13:15:04Z,scrape,false
+prv_vyph756ecs,Green Source Electrical Inc,electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.greensourcelectrical.com/,2026-11-26T08:42:35Z,scrape,false
+prv_w2jefn6tqd,MMS Electrical,electrician,Burlington,,quote_fee,,true,,,,,website,http://www.mmselectrical.ca/,2026-11-26T13:19:23Z,scrape,false
+prv_w2n36wn568,TruePipe Plumbing,plumber,,,quote_fee,,true,,,,,website,https://truepipe.ca/,2026-11-26T08:30:03Z,scrape,false
+prv_w2wuwc957z,Electro-Light Inc,electrician,Oshawa,,quote_fee,,true,,,,,website,https://electrolightinc.ca/,2026-11-26T13:29:29Z,scrape,false
+prv_w3mw6b3gp8,D'Argento Electric,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.dargentoelectric.com/,2026-11-26T15:10:41Z,scrape,false
+prv_w3s229hmuv,B&H Plumbing Co.,plumber,,,quote_fee,,true,,,,,website,https://www.bhplumbingco.ca/,2026-11-26T06:56:48Z,scrape,false
+prv_w466vpku87,Richardson Electrical Services Ltd,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://richardsonelectrical.ca/,2026-11-26T13:21:51Z,scrape,false
+prv_w4z3fdbgmw,JSL Plumbing and Mechanical,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://jslplumbing.ca/,2026-11-26T06:22:30Z,scrape,false
+prv_w5mgkywwtm,A to Z Plumbing & Drain,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.a-to-zplumbing.com/,2026-11-26T06:10:20Z,scrape,false
+prv_w5mgkywwtm,A to Z Plumbing & Drain,plumber,Toronto,Etobicoke,hourly_rate,,false,75,75,,"of free estimate.) City subsidy program. Our hourly rate is $75.00 per hour: Plumbing projects such as: -Drain, sewer pipe replacement",website,https://www.a-to-zplumbing.com/toronto-plumber-rates.html,2026-11-26T06:10:20Z,scrape,false
+prv_w7dv5rjpem,Neutron Electrical Contracting Inc,electrician,Woodbridge,,quote_fee,,true,,,,,website,https://neutronelectrical.com/,2026-11-26T08:19:48Z,scrape,false
+prv_w8vx6vqqv9,Tida Electric Ltd,electrician,Brooklin,,quote_fee,,true,,,,,website,https://tidaelectricltd.ca/,2026-11-26T07:37:41Z,scrape,false
+prv_wak6dyvxi9,Future Core Electric,electrician,Toronto,York,quote_fee,,true,,,,,website,https://www.futurecoreelectric.com/,2026-11-26T05:28:01Z,scrape,false
+prv_wb5zrcnhsd,Ajax Plumbing,plumber,Ajax,,quote_fee,,true,,,,,website,https://plumbinginajax.com/,2026-11-26T07:18:28Z,scrape,false
+prv_wb8qw4eaje,Portman Electric Inc.,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://portmanelectric.ca/,2026-11-26T05:50:58Z,scrape,false
+prv_wcz4kt2caw,Kiyan Electric Inc.,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://kiyanelectric.ca/,2026-11-26T06:27:17Z,scrape,false
+prv_wd5amzj4f7,Brampton Plumbing,plumber,Brampton,,quote_fee,,true,,,,,website,https://plumbinginbrampton.com/,2026-11-26T05:30:32Z,scrape,false
+prv_wdjhgifqrx,Toronto Drain And Plumbing Ltd,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,http://torontodrainplumbing.com/Home.aspx,2026-11-26T13:23:47Z,scrape,false
+prv_wdqii5txux,Everglades Plumbing Services,plumber,Milton,,quote_fee,,true,,,,,website,https://evergladesplumbingservices.ca/,2026-11-26T06:40:17Z,scrape,false
+prv_wdwv593i2b,Plumber On Site of Vaughan,plumber,Markham,,quote_fee,,true,,,,,website,https://www.canadiancardetailing.ca,2026-11-26T13:52:02Z,scrape,false
+prv_wghwtvjmq7,North York Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://plumbingnorthyork.com/,2026-11-26T04:54:57Z,scrape,false
+prv_whw29c4frv,Viper Plumbing,plumber,Toronto,York,quote_fee,,true,,,,,website,http://viperplumbing.ca/contact-us/,2026-11-26T05:06:21Z,scrape,false
+prv_wirb8cbgw2,Snake and Wrench Plumbing,plumber,,,quote_fee,,true,,,,,website,https://www.snakeandwrenchplumbing.ca/services.html,2026-11-26T13:53:58Z,scrape,false
+prv_wkcag8a7n6,Say Watt Electric,electrician,Newmarket,,quote_fee,,true,,,,,website,https://saywattelectric.ca/,2026-11-26T07:47:18Z,scrape,false
+prv_wkcag8a7n6,Say Watt Electric,electrician,Newmarket,,after_hours_callout_fee,,true,,,,s for all small and big jobs. No Overtime Fees. We complete every job proper,website,https://saywattelectric.ca/,2026-11-26T07:47:18Z,scrape,false
+prv_wkgebrdeix,Ek Advanced plumbing,plumber,,,quote_fee,,true,,,,,website,https://www.ekadvancedplumbing.com/,2026-11-26T08:51:25Z,scrape,false
+prv_wndwe6ypm2,Ramboll Electrical & Contracting Solutions Inc.,electrician,Caledon,,quote_fee,,true,,,,,website,https://www.rambollcontractors.ca,2026-11-26T06:36:13Z,scrape,false
+prv_wnnqa7h3m4,Circuit Savvy Electric Inc,electrician,Mississauga,,quote_fee,,true,,,,,website,https://circuitsavvy.ca/frequently-asked-questions/,2026-11-26T05:15:57Z,scrape,false
+prv_wnvp8nyq6b,S and J Plumbing Services,plumber,Whitchurch-Stouffville,,quote_fee,,true,,,,,website,https://www.sandjplumbing.ca/,2026-11-26T04:33:32Z,scrape,false
+prv_wpqrufwz3y,GS ELECTRIC,electrician,Aurora,,quote_fee,,true,,,,,website,https://gseonelimited.com/,2026-11-26T07:11:57Z,scrape,false
+prv_wruvrrdbzn,Co-Al Electric Inc.,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://coalelectric.ca/,2026-11-26T13:26:56Z,scrape,false
+prv_wsuzpr3zye,Jlt Electric Ltd,electrician,Toronto,East York,hourly_rate,,,120,120,,service calls rate is 120/hr min 2 hours,outreach,,2026-11-26T18:39:45Z,outreach_text,false
+prv_wsuzpr3zye,Jlt Electric Ltd,electrician,Toronto,East York,minimum_charge,,,240,240,,120/hr min 2 hours,outreach,,2026-11-26T18:39:45Z,outreach_text,false
+prv_wtu4mfy8dz,Steadfast Electric,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://www.steadfastelectric.ca/,2026-11-26T13:41:36Z,scrape,false
+prv_wubxjvg4sp,Vaillancourt Plumbing & Drains,plumber,Oshawa,,quote_fee,,true,,,,,website,https://www.vaillancourtplumbing.ca/,2026-11-26T06:30:34Z,scrape,false
+prv_wugn74336x,PlumbingPal,plumber,Mississauga,,quote_fee,,true,,,,,website,https://plumbingpal.ca/,2026-11-26T06:20:41Z,scrape,false
+prv_wy9arvcvy9,First Star Electrical (Contracting Inc),electrician,Woodbridge,,quote_fee,,true,,,,,website,https://firststarelectrical.com,2026-11-26T09:28:29Z,scrape,false
+prv_wyj6rdn5z6,Downtown Toronto Plumbing,plumber,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://dowtowntorontoplumbing.com/,2026-11-26T04:48:34Z,scrape,false
+prv_x2mxx7e22d,Electrician Aurora,electrician,Aurora,,quote_fee,,true,,,,,website,https://electrician-aurora.ca/,2026-11-26T06:59:33Z,scrape,false
+prv_x5k6jk7pv5,Preferred Plumbing Solutions Inc.,plumber,Richmond Hill,,quote_fee,,true,,,,,website,https://www.preferredplumbing.ca/about-us/,2026-11-26T13:19:07Z,scrape,false
+prv_x6smw7kcjg,ENI Electrical Services,electrician,Toronto,Scarborough,quote_fee,,true,,,,,website,https://eniltd.com/,2026-11-26T13:22:49Z,scrape,false
+prv_x7enkj87v7,Superior Power Electric Ltd.,electrician,Brampton,,quote_fee,,true,,,,,website,https://superiorpowerelectric.ca/,2026-11-26T05:29:18Z,scrape,false
+prv_x7enkj87v7,Superior Power Electric Ltd.,electrician,Brampton,,after_hours_callout_fee,,true,,,,ates with priority dispatch - no after-hours surcharge. This is separate from the $4,website,https://superiorpowerelectric.ca/services/emergency-electrician,2026-11-26T05:29:18Z,scrape,false
+prv_x84tbcytxj,A Plus Electric Corp.,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://apluselectriccorp.ca/?gclid=Cj0KCQjwy4KqBhD0ARIsAEbCt6jKd6_TFLEHpJr7og3UYcEUC5kfesOKp_kwMYVyHSjMu5vUbvJrAd8aAmEwEALw_wcB,2026-11-26T05:09:33Z,scrape,false
+prv_x8kqn89tjz,ProTeam Plumbing Inc.,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://proteamplumbing.ca/about-us/,2026-11-26T05:03:45Z,scrape,false
+prv_x9ahnvs7bk,DKPlus Electrical,electrician,Mississauga,North York,quote_fee,,true,,,,,website,https://www.dkpluselectrical.com/,2026-11-26T13:19:22Z,scrape,false
+prv_xb2xqq7dxa,Delight Plumbing,plumber,,,quote_fee,,true,,,,,website,https://www.delightplumbing.com/,2026-11-26T05:29:57Z,scrape,false
+prv_xbsatcm58q,Tele-Celle Electronics Repair,plumber,Whitby,,diagnostic_fee,,false,34.99,34.99,,"n also send it to our repair center by calling our location(Diagnostics Fee Charge - $34.99). Kindly, talk to our consultants for more details. We do n",website,https://telecelle.ca/request-form,2026-11-26T13:48:19Z,scrape,false
+prv_xcm7jxqdct,Burlington Plumbers,plumber,Burlington,,quote_fee,,true,,,,,website,https://www.burlingtonplumber.ca/,2026-11-26T06:55:17Z,scrape,false
+prv_xdsksiwupe,Montoro Electrical Contracting Inc,electrician,Newmarket,,quote_fee,,true,,,,,website,https://montoroelectrical.com/,2026-11-26T13:45:04Z,scrape,false
+prv_xf65xf9jc3,Third Gen Electric Inc,electrician,Mississauga,,quote_fee,,true,,,,,website,https://thirdgenelectric.com,2026-11-26T09:05:11Z,scrape,false
+prv_xft9cyqjvk,All Tech Electric (1400688 Ontario Inc),electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.alltech-electric.ca/contact,2026-11-26T13:21:40Z,scrape,false
+prv_xiifjw6q57,Energie Group Electric Inc.,electrician,Stouffville,North York,quote_fee,,true,,,,,website,https://electriciansnorthyork.com/contact-us/,2026-11-26T09:30:14Z,scrape,false
+prv_xkbm5g4pw6,FirstResponse Brampton Plumbing & Drain Solutions,plumber,Brampton,,after_hours_callout_fee,,true,,,,"ng in 45 Minutes Fixed Price, No After-Hours Surcharge Surprises Warranty on Parts a",website,https://plumberbrampton.ca/,2026-11-26T06:22:15Z,scrape,false
+prv_xm6dhx4z5w,Skypod Electrical Contractors Inc,electrician,,,quote_fee,,true,,,,,website,https://skypodelectrical.com/,2026-11-26T08:43:16Z,scrape,false
+prv_xnf4t4dse8,Plugin Electric Ltd.,electrician,Richmond Hill,,quote_fee,,true,,,,,website,https://pluginelectric.info/,2026-11-26T07:38:12Z,scrape,false
+prv_xppqii85vw,Ramsey Electric Ltd,electrician,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://ramseyelectric.com/contact-us,2026-11-26T09:27:32Z,scrape,false
+prv_xrimjgfv84,Voltech Electrical Services Ltd,electrician,Mississauga,,quote_fee,,true,,,,,website,http://www.voltechelectric.com/,2026-11-26T09:28:16Z,scrape,false
+prv_xsj8qme3uj,4 Seasons Plumbing,plumber,Brampton,,quote_fee,,true,,,,,website,https://4splumbing.ca/,2026-11-26T05:14:42Z,scrape,false
+prv_xsuz4rgwnk,Markham Plumbing,plumber,Markham,,quote_fee,,true,,,,,website,https://plumbinginmarkham.com/,2026-11-26T05:52:49Z,scrape,false
+prv_xu6h2rxnte,Imperial Emergency Plumbing Services,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://imperial-restoration.ca,2026-11-26T04:53:37Z,scrape,false
+prv_xwe4ytwzxm,Padi Electric Inc,electrician,Aurora,North York,quote_fee,,true,,,,,website,https://padielectric.ca/,2026-11-26T07:40:38Z,scrape,false
+prv_xxddvqkpg9,Nw Electric Inc,electrician,Burlington,,quote_fee,,true,,,,,website,https://nwelectric.ca/,2026-11-26T09:07:32Z,scrape,false
+prv_y55nw33cxz,Rising Electric Services Inc,electrician,Milton,,quote_fee,,true,,,,,website,https://www.risingelectric.ca/,2026-11-26T06:59:24Z,scrape,false
+prv_y5vcf7tbhn,Blue Men Plumbing,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://www.bluemenplumbing.com/,2026-11-26T05:01:14Z,scrape,false
+prv_y5yiq8nt4r,R&Z Plumbing,plumber,Toronto,North York,quote_fee,,true,,,,,website,https://randzplumbing.ca/cooling-syetem-services/,2026-11-26T04:55:29Z,scrape,false
+prv_ya9bb53d7c,World Plumbers,plumber,,,quote_fee,,true,,,,,website,https://woworldplumbers.com/,2026-11-26T07:46:00Z,scrape,false
+prv_yamtmphimb,Electric Star,electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://www.electricstar.ca,2026-11-26T13:35:16Z,scrape,false
+prv_yfkqn28q2m,Zaas Electric (12469308 Canada Inc.),electrician,Mississauga,,quote_fee,,true,,,,,website,https://zaaselectric.ca/,2026-11-26T07:07:53Z,scrape,false
+prv_ygqgcsvxy4,Federal Plumbing,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://federalplumbing.ca/service/emergency-plumbing-service-toronto,2026-11-26T08:57:34Z,scrape,false
+prv_yhcfgqp2st,Durham Electrical Contractors Ltd,electrician,Oshawa,,quote_fee,,true,,,,,website,https://www.durham-electric.ca/,2026-11-26T09:21:26Z,scrape,false
+prv_ykmkguxw2w,Multitap Electrical Services Inc.,electrician,Burlington,,quote_fee,,true,,,,,website,https://www.multitapelectricalservices.com,2026-11-26T09:24:56Z,scrape,false
+prv_yna7p5mjbs,Ignite Electric Inc.,electrician,Ajax,,quote_fee,,true,,,,,website,https://igniteelectric.ca/,2026-11-26T13:27:51Z,scrape,false
+prv_yq9aqa4mh7,JT Plumbing Inc.,plumber,Pickering,,quote_fee,,true,,,,,website,https://www.jtplumbinginc.ca/about-us,2026-11-26T13:17:18Z,scrape,false
+prv_yqxhsmg6id,JG Mitchell Plumbing,plumber,Newmarket,,quote_fee,,true,,,,,website,https://jgmitchellplumbing.com/,2026-11-26T13:52:35Z,scrape,false
+prv_ys5qc584mr,Flowline Plumbers Halton Hills,plumber,Milton,,quote_fee,,true,,,,,website,https://www.flowlineplumbers.com/milton,2026-11-26T06:41:34Z,scrape,false
+prv_ys5qc584mr,Flowline Plumbers Halton Hills,plumber,Milton,,after_hours_callout_fee,,false,300,300,,"ergency leak, clog or sump pump job costs 50% more, and the service call is $300. Book Online Nothing to pay today. $175 minimum once the pl",website,https://www.flowlineplumbers.com/emergency-plumber,2026-11-26T06:41:34Z,scrape,false
+prv_ysp25ypb4b,BTI Electricals (Birlas Technologies Inc),electrician,Caledon,,quote_fee,,true,,,,,website,https://birlas.ca,2026-11-26T09:29:05Z,scrape,false
+prv_ywck8z6c3t,Pickering Electrician,electrician,Pickering,,after_hours_callout_fee,,true,,,,the first time. ESA-licensed. No after-hours surcharge. (289) 212-7702 Book Online E,website,https://electricianpickering.ca/,2026-11-26T06:20:02Z,scrape,false
+prv_ywsyxfshva,A. McKenna Plumbing,plumber,Oakville,,quote_fee,,true,,,,,website,https://www.mckennaplumbing.ca/contact-us,2026-11-26T13:16:03Z,scrape,false
+prv_yxgq5xiw8b,The Drain Team,plumber,Toronto,Scarborough,quote_fee,,true,,,,,website,https://drainteam.ca/,2026-11-26T07:53:55Z,scrape,false
+prv_z4yz8qmsem,Mazda Electric,electrician,Markham,,quote_fee,,true,,,,,website,https://mazdaelectric.ca/contact-us,2026-11-26T09:13:46Z,scrape,false
+prv_z5caarufpk,Prelude Plumbing,plumber,Brampton,,quote_fee,,true,,,,,website,https://www.preludeplumbing.ca/,2026-11-26T06:13:01Z,scrape,false
+prv_z6wgqk4dwc,Beetham Electric Inc,electrician,Whitby,,quote_fee,,true,,,,,website,https://www.beethamelectric.com/commercial/,2026-11-26T07:39:01Z,scrape,false
+prv_zaykcpcnfb,Vibo Electric Inc.,electrician,Vaughan,,quote_fee,,true,,,,,website,https://www.viboelectric.ca/restoration,2026-11-26T09:27:29Z,scrape,false
+prv_zcn2ehkyj4,Asgard Electric Inc,electrician,Toronto,,quote_fee,,true,,,,,website,https://www.asgardelectric.ca/,2026-11-26T13:23:33Z,scrape,false
+prv_zcwmfvrpf8,City View Electric Ltd.,electrician,Bowmanville,,quote_fee,,true,,,,,website,https://www.cityviewelectric.ca/,2026-11-26T09:07:52Z,scrape,false
+prv_zf8zhjqgic,Electric Panel Upgrade,electrician,Ajax,,quote_fee,,true,,,,,website,https://electricpanelupgrade.ca/electrical-panel-upgrade,2026-11-26T13:44:28Z,scrape,false
+prv_zff2u32db3,Ehrlich Electric Company Inc. (Ja & Daf Consulting Limited),electrician,Mississauga,,quote_fee,,true,,,,,website,https://www.ehrlichelectric.com/about,2026-11-26T13:32:18Z,scrape,false
+prv_zfizwu255i,Ontario Plumbing & Mechanical LTD,plumber,Mississauga,,quote_fee,,true,,,,,website,https://ontarioplumbing.net/,2026-11-26T06:13:48Z,scrape,false
+prv_zfizwu255i,Ontario Plumbing & Mechanical LTD,plumber,Mississauga,,after_hours_callout_fee,,true,,,,"es Upfront, flat rate pricing—no overtime charges 24 / 7 availability for all e",website,https://ontarioplumbing.net/about/,2026-11-26T06:13:48Z,scrape,false
+prv_zh9pnkxksq,RooterBee Inc.,plumber,Toronto,Etobicoke,quote_fee,,true,,,,,website,https://rooterbeeinc.ca/,2026-11-26T04:33:13Z,scrape,false
+prv_zknwfy4mgj,Plumber Plus,plumber,,,quote_fee,,true,,,,,website,https://www.plumberplus.ca/,2026-11-26T07:06:32Z,scrape,false
+prv_zm2bctxc39,Mike The Plumber 4 U,plumber,Toronto,York,quote_fee,,true,,,,,website,http://www.miketheplumber4u.ca/single-service.html,2026-11-26T04:59:23Z,scrape,false
+prv_zn8zh42tca,Anta Plumbing And Drain Oakville,plumber,Oakville,Etobicoke,quote_fee,,true,,,,,website,https://www.antaplumbing.com/,2026-11-26T04:48:30Z,scrape,false
+prv_zqsy6abbpp,Civil Electric Inc,electrician,Markham,,quote_fee,,true,,,,,website,https://civilelectric.ca/,2026-11-26T13:26:11Z,scrape,false
+prv_zsw6fvfx3f,Newbridge Plumbing,plumber,,,quote_fee,,true,,,,,website,https://newbridgeplumbing.ca/,2026-11-26T13:16:40Z,scrape,false
+prv_zu34rpkdki,Plumbing Toronto,plumber,Mississauga,,quote_fee,,true,,,,,website,https://www.plumbingtoronto.ca/,2026-11-26T06:13:53Z,scrape,false
+prv_zupwxq5m78,Kor Electrical (Kor Electrical Inc.),electrician,Toronto,Old Toronto,quote_fee,,true,,,,,website,https://kor-electrical.ca,2026-11-26T19:29:32Z,scrape,false
+prv_zwgy3i94qg,Nsw Electric (1331155 Ontario Inc),electrician,Ajax,,quote_fee,,true,,,,,website,https://www.nswelectric.com/about/about.php,2026-11-26T05:39:29Z,scrape,false
+prv_zwvk5r9er6,Xpress Electrical & Maintenance Inc,electrician,Toronto,North York,quote_fee,,true,,,,,website,https://www.xpresselectrical.ca/,2026-11-26T09:13:54Z,scrape,false
+prv_zx2ebc4uai,Highfield Electric (Highfield Electric Inc.),electrician,Georgetown,,quote_fee,,true,,,,,website,https://highfieldelectric.ca/,2026-11-26T08:21:46Z,scrape,false
+prv_zx87aqvy9q,Wane Drain,plumber,,,after_hours_callout_fee,,false,49,49,,"sidyCall 416 356 7886 Free flood-risk assessment. All other service calls carry a $49.00 dispatch fee. 24/7 emergency line: we pick up. We assess, n",website,https://www.wanedrain.com/,2026-11-26T06:13:53Z,scrape,false
+prv_zx87aqvy9q,Wane Drain,plumber,,,callout_fee,,false,49,49,,ection. We handle the permit paperwork for you. What is the $49 dispatch fee? It applies to service calls other than the free flood-risk,website,https://www.wanedrain.com/,2026-11-26T06:13:53Z,scrape,false
+prv_zxn7bd9bad,Elmar Electric Ltd.,electrician,Markham,,quote_fee,,true,,,,,website,http://elmarelectric.ca/,2026-11-26T09:11:19Z,scrape,false

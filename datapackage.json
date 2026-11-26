@@ -1,0 +1,14 @@
+{
+  "name": "toronto-emergency-trades",
+  "title": "Toronto/GTA emergency plumbers and electricians",
+  "description": "Residential emergency plumbers and electricians in Toronto and the GTA: hours, 24/7 flags, licence numbers, free-quote flags, published fees. By Hailtrades (https://hailtrades.com). MCP server: https://hailtrades.com/mcp",
+  "homepage": "https://hailtrades.com/data",
+  "licenses": [{"name": "CC-BY-4.0", "path": "https://creativecommons.org/licenses/by/4.0/", "title": "Creative Commons Attribution 4.0"}],
+  "sources": [{"title": "Hailtrades", "path": "https://hailtrades.com"}],
+  "version": "2026-11-26",
+  "resources": [
+    {"name": "providers", "path": "data/providers.csv", "format": "csv", "mediatype": "text/csv"},
+    {"name": "providers-json", "path": "data/providers.json", "format": "json", "mediatype": "application/json"},
+    {"name": "fees", "path": "data/fees.csv", "format": "csv", "mediatype": "text/csv"}
+  ]
+}
