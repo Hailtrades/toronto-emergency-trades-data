@@ -13,6 +13,8 @@ configs:
   data_files: data/fees.csv
 ---
 
+<p align="center"><a href="https://hailtrades.com"><img src="https://raw.githubusercontent.com/Hailtrades/toronto-emergency-trades-data/main/assets/logo-256.png" alt="Hailtrades" width="96" height="96"></a></p>
+
 # Toronto/GTA emergency plumbers and electricians
 
 7,011 residential emergency plumbers and electricians in Toronto and the GTA, by [Hailtrades](https://hailtrades.com): hours, 24/7 flags, licence numbers, free-quote flags, and published call-out and hourly fees.

@@ -21,3 +21,9 @@ Blocked: no credentials in the vault (only a Cloudflare card), no Hailtrades mai
 1. https://data.world/join -> create account/org `hailtrades`.
 2. Settings -> Advanced -> API token (read/write). Give it to Hermes.
 3. Hermes uploads via `dw` CLI or API with the same description and license CC BY 4.0. Or drag the 3 files into "New dataset" and paste the HF card text.
+
+## Logo for dataset pages (after each account exists)
+- Hugging Face: card already embeds the logo from GitHub raw; also set the org/user avatar to `assets/logo-512.png`.
+- Kaggle: dataset Settings -> cover image: upload `assets/github-social-1280x640.png`; profile avatar `assets/logo-512.png`. (The CLI metadata has no image field.)
+- data.world: org avatar `assets/logo-512.png`; dataset cover image `assets/github-social-1280x640.png` (UI only).
+- Zenodo: .zenodo.json cannot hold images; skipped.

@@ -1,3 +1,5 @@
+<p align="center"><a href="https://hailtrades.com"><img src="https://raw.githubusercontent.com/Hailtrades/toronto-emergency-trades-data/main/assets/logo-256.png" alt="Hailtrades" width="96" height="96"></a></p>
+
 # Toronto & GTA emergency plumbers and electricians: open data
 
 Open dataset of **7,011 residential emergency plumbers and electricians in Toronto and the Greater Toronto Area**, published by [Hailtrades](https://hailtrades.com). Hours, 24/7 and emergency availability, licence numbers, free-quote flags, and (where a provider publishes them) dollar call-out and hourly fees.
