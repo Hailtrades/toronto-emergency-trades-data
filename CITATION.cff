@@ -4,7 +4,7 @@ title: "Toronto/GTA emergency plumbers and electricians: open data"
 type: dataset
 authors:
   - name: "Hailtrades (hailtrades.com)"
-repository-code: "https://github.com/wyllieonchain/toronto-emergency-trades-data"
+repository-code: "https://github.com/Hailtrades/toronto-emergency-trades-data"
 url: "https://hailtrades.com/data"
 license: CC-BY-4.0
 date-released: 2026-11-26

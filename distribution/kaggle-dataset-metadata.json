@@ -2,7 +2,7 @@
   "title": "Toronto GTA Emergency Plumbers and Electricians",
   "id": "OWNER/toronto-emergency-trades",
   "subtitle": "7,011 providers: hours, 24/7, licences, free-quote flags, fees (CC BY 4.0, by Hailtrades)",
-  "description": "7,011 residential emergency plumbers and electricians in Toronto and the GTA by Hailtrades (https://hailtrades.com). Hours, 24/7 and emergency flags, licence numbers, free-quote flags, published call-out and hourly fees. Empty = unknown. Live data: https://hailtrades.com/data. MCP server: https://hailtrades.com/mcp. Data dictionary: https://github.com/wyllieonchain/toronto-emergency-trades-data. Licence CC BY 4.0: credit Hailtrades (hailtrades.com) and link to https://hailtrades.com.",
+  "description": "7,011 residential emergency plumbers and electricians in Toronto and the GTA by Hailtrades (https://hailtrades.com). Hours, 24/7 and emergency flags, licence numbers, free-quote flags, published call-out and hourly fees. Empty = unknown. Live data: https://hailtrades.com/data. MCP server: https://hailtrades.com/mcp. Data dictionary: https://github.com/Hailtrades/toronto-emergency-trades-data. Licence CC BY 4.0: credit Hailtrades (hailtrades.com) and link to https://hailtrades.com.",
   "licenses": [{"name": "CC-BY-4.0"}],
   "keywords": ["business", "canada", "toronto", "plumbing", "electrical"],
   "resources": [{"path": "providers.csv"}, {"path": "providers.json"}, {"path": "fees.csv"}]

@@ -20,7 +20,7 @@ configs:
 - Licence: CC BY 4.0. Credit **Hailtrades (hailtrades.com)** and link to https://hailtrades.com
 - Live data: https://hailtrades.com/data
 - Query with an AI agent: MCP server https://hailtrades.com/mcp
-- Full data dictionary and caveats: https://github.com/wyllieonchain/toronto-emergency-trades-data
+- Full data dictionary and caveats: https://github.com/Hailtrades/toronto-emergency-trades-data
 - Empty means unknown, not "no". Fees are CAD as stated by the provider on the observed date. Review text and ratings are excluded.
 - Snapshot 2026-11-26; refreshed quarterly.
 
